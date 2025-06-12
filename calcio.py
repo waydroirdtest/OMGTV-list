@@ -1,31 +1,179 @@
-import os
-import sys
-from dotenv import load_dotenv
+from bs4 import BeautifulSoup
+import re
+import urllib.parse
+import asyncio
 
-# Determina il percorso della directory dello script
-script_dir = os.path.dirname(__file__)
+import Src.Utilities.config as config # Added to use SKY_DOMAIN
 
-# Carica le variabili d'ambiente dal file .env nella directory dello script
-dotenv_path = os.path.join(script_dir, ".env")
-load_dotenv(dotenv_path=dotenv_path)
+# --- Costanti e Helper da 247ita.py ---
+HEADERS_REQUESTS_247ITA = {
+    "Accept": "*/*",
+    "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6,ru;q=0.5",
+    "Priority": "u=1, i",
+    "sec-ch-ua": '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"',
+    "Sec-Ch-UA-Mobile": "?0",
+    "Sec-Ch-UA-Platform": "Windows",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-Storage-Access": "active",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+}
+DADDYLIVECHANNELSURL_247ITA = 'https://daddylive.dad/24-7-channels.php'
 
-# Determina il percorso di output
-# Salva il file M3U nella directory di lavoro corrente (dove lo script viene eseguito)
-output_path = os.path.join(os.getcwd(), "calcio_playlist.m3u8")
+# Mappa parziale per l'esempio, dovresti completarla come nello script originale
+STATIC_LOGOS_247ITA = {
+    "sky uno": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png",
+    "sky cinema uno": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png",
+    "rai 1": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png",
+    "rai 2": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png",
+    "rai 3": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png",
+    "italia 1": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png",
+    "rete 4": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png",
+    "canale 5": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png",
+    "la7": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png",
+    "tv8": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png",
+    "nove": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png",
+    "dmax": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/dmax-it.png",
+    "real time": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png",
+    "focus": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png",
+    "cielo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png",
+    "sky sport uno": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png",
+    "sky sport calcio": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png",
+    "sky sport f1": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png",
+    "sky sport motogp": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png",
+    "eurosport 1": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/eurosport-1-it.png",
+    "eurosport 2": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/eurosport-2-it.png",
+    "dazn 1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png"
+    # ... altri loghi
+}
 
-# Recupera la variabile d'ambiente PROXYMFP (ora potenzialmente caricata da .env)
-proxy_prefix = os.getenv("HLSPROXYMFP")
-if proxy_prefix is None:
-    print("Attenzione: La variabile d'ambiente PROXYMFP non è impostata. I link M3U8 non saranno prefissati.")
-    proxy_prefix = "" # Default a stringa vuota se non impostata
+def get_247ita_channel_numeric_id(channel_name_query, html_content):
+    """
+    Cerca l'ID numerico di un canale specifico nell'HTML fornito.
+    Restituisce l'ID numerico come stringa, o None se non trovato.
+    """
+    soup = BeautifulSoup(html_content, 'html.parser')
+    links = soup.find_all('a', href=True)
 
-base_url = "https://calcionew.newkso.ru/calcio/"
-logo_url = "https://i.postimg.cc/NFGs2Ptq/photo-2025-03-12-12-36-48.png"
-HEADER = "&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fcalcionew.newkso.ru%2F&h_origin=https%3A%2F%2Fcalcionew.newkso.ru"
+    # Gestione speciale per DAZN 1
+    if "dazn 1" in channel_name_query.lower():
+        return "877"
 
-# Lista dei canali fornita
-channels_raw = [
-    "Bari/", "Dazn1/", "brescia/", "bundes/", "calcioX1ac/", "calcioX1comedycentral/",
+    for link in links:
+        link_text_normalized = link.text.strip().lower().replace("italy", "").replace("hd+", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").strip()
+        # Potrebbe essere necessario un matching più flessibile qui
+        if channel_name_query.lower() in link_text_normalized:
+            href = link['href']
+            stream_number = href.split('-')[-1].replace('.php', '')
+            return stream_number
+    return None
+
+async def fetch_247ita_channel_list_html(client):
+    """Scarica l'HTML della lista dei canali 247ita."""
+    try:
+        # Usa il client AsyncSession di MammaMia per coerenza
+        response = await client.get(DADDYLIVECHANNELSURL_247ITA, headers=HEADERS_REQUESTS_247ITA, impersonate="chrome120")
+        response.raise_for_status()
+        return response.text
+    except Exception as e:
+        print(f"Errore durante il fetch dell'HTML da 247ita: {e}")
+        return None
+
+async def get_247ita_streams(client, mfp_url=None, mfp_password=None):
+    """
+    Recupera tutti gli stream da 247ita.
+    """
+    html_content = await fetch_247ita_channel_list_html(client)
+    if not html_content:
+        return []
+
+    streams = []
+    soup = BeautifulSoup(html_content, 'html.parser')
+    links = soup.find_all('a', href=True)
+
+    # Aggiungi DAZN 1 manualmente se non già presente o per assicurare l'ID corretto
+    processed_dazn1 = False
+
+    for link in links:
+        if "Italy".lower() in link.text.lower(): # Filtra per canali italiani
+            channel_name_original = link.text.strip()
+            channel_name_clean = channel_name_original.replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "").strip()
+            
+            href = link['href']
+            stream_number = href.split('-')[-1].replace('.php', '')
+
+            if "dazn 1" in channel_name_clean.lower():
+                stream_number = "877" # ID corretto per DAZN 1
+                processed_dazn1 = True
+
+            stream_url_dynamic = f"https://daddylive.dad/stream/stream-{stream_number}.php"
+            final_url = stream_url_dynamic
+            if mfp_url and mfp_password:
+                final_url = f"{mfp_url}/extractor/video?host=DLHD&d=&redirect_stream=true&api_password={mfp_password}&d={urllib.parse.quote(stream_url_dynamic)}"
+            
+            streams.append({
+                'id': f"omgtv-247ita-{channel_name_clean.lower().replace(' ', '-')}", # ID per MammaMia
+                'title': f"{channel_name_clean} (D)",
+                'url': final_url,
+                'logo': STATIC_LOGOS_247ITA.get(channel_name_clean.lower(), "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png"),
+                'group': "247ita" # Per raggruppamento in MammaMia
+            })
+
+    if not processed_dazn1: # Aggiungi DAZN 1 se non trovato nel loop (improbabile ma per sicurezza)
+        stream_number_dazn = "877"
+        stream_url_dynamic_dazn = f"https://daddylive.dad/stream/stream-{stream_number_dazn}.php"
+        final_url_dazn = stream_url_dynamic_dazn
+        if mfp_url and mfp_password:
+            final_url_dazn = f"{mfp_url}/extractor/video?host=DLHD&d=&redirect_stream=true&api_password={mfp_password}&d={urllib.parse.quote(stream_url_dynamic_dazn)}"
+        streams.append({
+            'id': "omgtv-247ita-dazn-1",
+            'title': "DAZN 1 (D)",
+            'url': final_url_dazn,
+            'logo': STATIC_LOGOS_247ITA.get("dazn 1"),
+            'group': "247ita"
+        })
+    return streams
+
+
+async def get_omgtv_streams_for_channel_id(channel_id_full: str, client, mfp_url=None, mfp_password=None):
+    """
+    Funzione orchestratrice per recuperare uno stream specifico da OMGTV basato sull'ID completo.
+    Esempio channel_id_full: "omgtv-247ita-sky-sport-uno"
+    """
+    parts = channel_id_full.split('-')
+    if len(parts) < 3 or parts[0] != "omgtv":
+        return [] # ID non valido
+
+    source = parts[1] # es. "247ita"
+    channel_name_query = " ".join(parts[2:]) # es. "sky sport uno"
+
+    if source == "247ita":
+        # La funzione get_247ita_streams ora restituisce tutti i canali, quindi filtriamo qui.
+        all_247ita_streams = await get_247ita_streams(client, mfp_url, mfp_password)
+        for stream in all_247ita_streams:
+            # Confronto più robusto dell'ID o del titolo
+            if channel_name_query.replace("-", " ") in stream['id'].replace("omgtv-247ita-", "").replace("-", " "):
+                return [stream] # Restituisce una lista con lo stream trovato
+    elif source == "calcio":
+        all_calcio_streams = await get_calcio_streams(client, mfp_url, mfp_password)
+        for stream in all_calcio_streams:
+            if channel_name_query.replace("-", " ") in stream['id'].replace(f"omgtv-{source}-", "").replace("-", " "):
+                return [stream]
+    elif source == "vavoo":
+        all_vavoo_streams = await get_vavoo_streams(client, mfp_url, mfp_password)
+        for stream in all_vavoo_streams:
+            if channel_name_query.replace("-", " ") in stream['id'].replace(f"omgtv-{source}-", "").replace("-", " "):
+                return [stream]
+    return []
+# --- Logica Calcio ---
+BASE_URL_CALCIO = "https://calcionew.newkso.ru/calcio/"
+LOGO_URL_CALCIO = "https://i.postimg.cc/NFGs2Ptq/photo-2025-03-12-12-36-48.png"
+HEADER_CALCIO_PARAMS = "&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fcalcionew.newkso.ru%2F&h_origin=https%3A%2F%2Fcalcionew.newkso.ru"
+
+CHANNELS_RAW_CALCIO = [
+
+ "calcioX1ac/", "calcioX1comedycentral/",
     "calcioX1eurosport1/", "calcioX1eurosport2/", "calcioX1formula1/", "calcioX1history/",
     "calcioX1seriesi/", "calcioX1sky258/", "calcioX1sky259/", "calcioX1skyatlantic/",
     "calcioX1skycinemacollection/", "calcioX1skycinemacomedy/", "calcioX1skycinemadrama/",
@@ -64,59 +212,17 @@ channels_raw = [
     "calcioXskysport255/", "calcioXskysport256/", "calcioXskysport257/",
     "calcioXskysportarena/", "calcioXskysportcalcio/", "calcioXskysportgolf/",
     "calcioXskysportmax/", "calcioXskysportmotogp/", "calcioXskysportnba/",
-    "calcioXskysporttennis/", "calcioXskysportuno/", "calcioXskyuno/", "catan/",
-    "cesena/", "juve/", "ligue1/", "pisa/", "saler/", "samp/", "sass/", "spezia/"
-]
+    "calcioXskysporttennis/", "calcioXskysportuno/", "calcioXskyuno/"
+] # Lista ridotta per esempio
+EXTRA_CHANNELS_CALCIO = [("Sky Sport F1 Extra", "calcioXskysportf1/mono.m3u8")] # Esempio
 
-# Canali extra da aggiungere
-extra_channels = [
-    ("Inter", "Inter/mono.m3u8"),
-    ("Milan", "Milan/mono.m3u8"),
-    ("Rai Sport", "RaiSport/mono.m3u8"),
-    ("Sky Sport F1", "calcioXskysportf1/mono.m3u8")
-]
-
-# Funzione per determinare il group-title basandosi sul nome del canale
-def determine_group_title(channel_name):
-    """
-    Determina il group-title basandosi sul nome del canale secondo le regole specificate:
-    1. Se contiene "sport" -> "Sport;Calcio TOP1"
-    2. Se contiene parole chiave specifiche -> "Sport;Sky"
-    3. Default -> "Sport;Calcio TOP1"
-    """
-
-    # Parole chiave che identificano canali "Sport;Sky"
-    sky_keywords = [
-        'serie', 'comedy', 'cinema', 'arte', 'atlantic', 'crime',
-        'documentaries', 'investigation', 'nature', 'sky uno', 'Sky Uno', 'skyuno'
-    ]
-
-    channel_name_lower = channel_name.lower()
-
-    # Controlla se contiene "sport" - priorità massima
-    if 'sport' in channel_name_lower:
-        return "Sport;Calcio TOP1"
-
-    # Controlla se contiene una delle parole chiave per "Sport;Sky"
-    for keyword in sky_keywords:
-        if keyword.lower() in channel_name_lower:
-            return "Sky;Calcio TOP1"
-
-    # Default per tutto il resto
-    return "Sport;Calcio TOP1"
-
-# Funzione per pulire e formattare il nome del canale
-def format_channel_name(raw_name):
+def _format_channel_name_calcio(raw_name):
     name = raw_name.rstrip("/")
-    # Rimuovi prefissi inutili e normalizza
     for prefix in ["calcioX1", "calcioX2", "calcioX"]:
-        if name.startswith(prefix):
-            name = name[len(prefix):]
-    # Mappa per nomi più leggibili
+        if name.startswith(prefix): name = name[len(prefix):]
     name_map = {
         "ac": "Sky Cinema Action",
-        "brescia": "Brescia", "bundes": "Bundesliga", "catan": "Catanzaro",
-        "cesena": "Cesena", "comedycentral": "Comedy Central", "dazn1": "DAZN 1",
+     "comedycentral": "Comedy Central", "dazn1": "DAZN 1",
         "eurosport1": "Eurosport 1", "eurosport2": "Eurosport 2", "formula": "Formula 1",
         "formula1": "Formula 1", "history": "History", "juve": "Juventus", "laliga": "LaLiga",
         "ligue1": "Ligue 1", "pisa": "Pisa", "porto": "Porto", "portugal": "Portugal",
@@ -134,48 +240,71 @@ def format_channel_name(raw_name):
         "skysportcalcio": "Sky Sport Calcio", "skysportgolf": "Sky Sport Golf", "skysportmax": "Sky Sport Max",
         "skysportmotogp": "Sky Sport MotoGP", "skysportnba": "Sky Sport NBA", "skysporttennis": "Sky Sport Tennis",
         "skysportuno": "Sky Sport Uno", "skyuno": "Sky Uno", "solocalcio": "Solo Calcio",
-        "sportitalia": "Sportitalia", "spezia": "Spezia", "zona": "Zona DAZN", "zonab": "Zona B"
+        "sportitalia": "Sportitalia", "zona": "Zona DAZN", "zonab": "Zona B"
     }
     return name_map.get(name.lower(), name.capitalize())
 
-# Crea la lista dei canali
-channels = []
-for raw_name in channels_raw:
-    clean_name = format_channel_name(raw_name)
-    url = f"{proxy_prefix}{base_url}{raw_name}mono.m3u8"
-    channels.append((clean_name, url))
+async def get_calcio_streams(client, mfp_url=None, mfp_password=None):
+    streams = []
+    raw_channel_list = CHANNELS_RAW_CALCIO + [item[1].split('/mono.m3u8')[0] + '/' for item in EXTRA_CHANNELS_CALCIO]
 
-# Aggiungi i canali extra
-for name, path in extra_channels:
-    url = f"{proxy_prefix}{base_url}{path}"
-    channels.append((name, url))
+    for raw_path_part in raw_channel_list:
+        channel_name_formatted = _format_channel_name_calcio(raw_path_part)
+        original_stream_url = f"{BASE_URL_CALCIO}{raw_path_part}mono.m3u8"
+        
+        final_url = original_stream_url
+        if mfp_url and mfp_password:
+            final_url = f"{mfp_url}/proxy/hls/manifest.m3u8?api_password={mfp_password}&d={urllib.parse.quote(original_stream_url)}"
+        final_url += HEADER_CALCIO_PARAMS
 
-# Ordina i canali alfabeticamente
-channels.sort(key=lambda x: x[0].lower())
+        channel_id_safe = channel_name_formatted.lower().replace(' ', '-').replace('+', '')
+        streams.append({
+            'id': f"omgtv-calcio-{channel_id_safe}",
+            'title': f"{channel_name_formatted} (CT1)",
+            'url': final_url,
+            'logo': LOGO_URL_CALCIO,
+            'group': "Calcio"
+        })
+    return streams
 
-# Crea il contenuto della playlist M3U8
-m3u8_content = "#EXTM3U\n\n"
-for channel_name, channel_url in channels:
-    # Modifica per tvg-id: minuscolo + .it
-    tvg_id_formatted = f"{channel_name.lower()}.it"
-    # Modifica per il nome visualizzato del canale: aggiungi (CT1)
-    display_name_formatted = f"{channel_name} (CT1)"
 
-    # Determina il group-title usando le nuove regole
-    group_title = determine_group_title(channel_name)
+# --- Logica Vavoo ---
+BASE_URL_VAVOO = "https://vavoo.to"
+HEADER_VAVOO_PARAMS = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
+CHANNEL_LOGOS_VAVOO = { "sky uno": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png", "rai 1": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" } # Mappa ridotta
 
-    # Debug: stampa l'assegnazione per verifica
-    print(f"Canale: {channel_name} -> Group-title: {group_title}")
+def _clean_channel_name_vavoo(name):
+    name = re.sub(r"\s*(\|E|\|H|\(6\)|\(7\)|\.c|\.s)\s*", "", name)
+    return f"{name}" # (V) aggiunto al titolo
 
-    m3u8_content += f'#EXTINF:-1 tvg-id="{tvg_id_formatted}" tvg-name="{channel_name}" tvg-logo="{logo_url}" group-title="{group_title}",{display_name_formatted}\n'
-    m3u8_content += f"{channel_url}{HEADER}\n\n"
+async def get_vavoo_streams(client, mfp_url=None, mfp_password=None):
+    streams = []
+    try:
+        response = await client.get(f"{BASE_URL_VAVOO}/channels", timeout=10, impersonate="chrome120")
+        response.raise_for_status()
+        channels_list = response.json()
+    except Exception as e:
+        print(f"Error fetching Vavoo channel list: {e}")
 
-# Salva il file
-try:
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(m3u8_content)
-    print(f"\nPlaylist salvata con successo in: {output_path}")
-    print(f"Totale canali processati: {len(channels)}")
-except Exception as e:
-    print(f"Errore durante il salvataggio del file: {e}")
-    sys.exit(1)
+        return []
+
+    for ch_data in channels_list:
+        if ch_data.get("country") == "Italy": # Filtro base
+            original_name = _clean_channel_name_vavoo(ch_data["name"])
+            original_stream_url = f"{BASE_URL_VAVOO}/play/{ch_data['id']}/index.m3u8"
+            
+            final_url = original_stream_url
+            if mfp_url and mfp_password:
+                final_url = f"{mfp_url}/proxy/hls/manifest.m3u8?api_password={mfp_password}&d={urllib.parse.quote(original_stream_url)}"
+            final_url += HEADER_VAVOO_PARAMS
+            
+            channel_id_safe = original_name.lower().replace(' ', '-').replace('+', '')
+            logo_key = original_name.lower().split(' (v)')[0].strip() # Per cercare nel dizionario loghi
+            streams.append({
+                'id': f"omgtv-vavoo-{channel_id_safe}",
+                'title': f"{original_name} (V)",
+                'url': final_url,
+                'logo': CHANNEL_LOGOS_VAVOO.get(logo_key, "https://www.vavoo.tv/software/images/logo.png"), # Fallback logo Vavoo
+                'group': "Vavoo"
+            })
+    return streams

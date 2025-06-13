@@ -7,9 +7,15 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXY = os.getenv("DDTVPROXY", "")
-MFPDD= os.getenv("DDPROXYMFP", "")
-MFPDD2= os.getenv("DDPROXYMFP2", "")
+MFP = os.getenv("MFP")
+PSW = os.getenv("PSW")
+# MFPRender = os.getenv("MFPRender") # Load if needed in the future
+# PSWRender = os.getenv("PSWRender") # Load if needed in the future
+PROXY = os.getenv("PROXY", "") # Kept as a general optional prefix
+
+if not MFP or not PSW:
+    raise ValueError("MFP and PSW environment variables must be set.")
+
 # Costanti
 M3U8_OUTPUT_FILE = "247ita.m3u8"
 REFERER = "forcedtoplay.xyz"
@@ -246,7 +252,8 @@ def generate_m3u8_247(matches):
 
             if stream_url_dynamic:
                 file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name} (D)\n")
-                file.write(f"{PROXY}{MFPDD}{stream_url_dynamic}{MFPDD2}\n\n")
+                # New stream URL format
+                file.write(f"{PROXY}{MFP}/extractor/video?host=DLHD&redirect_stream=true&api_password={PSW}&d={stream_url_dynamic}\n\n")
                 processed_247_channels += 1
             else:
                 print(f"Failed to get stream URL for 24/7 channel ID: {channel_id}. Skipping M3U8 entry for this channel.")
@@ -265,7 +272,8 @@ def add_dazn1_channel():
     if stream_url_dynamic:
         with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
             file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name} (D)\n")
-            file.write(f"{PROXY}{MFPDD}{stream_url_dynamic}{MFPDD2}\n\n")
+            # New stream URL format
+            file.write(f"{PROXY}{MFP}/extractor/video?host=DLHD&redirect_stream=true&api_password={PSW}&d={stream_url_dynamic}\n\n")
 
             return 1
     else:

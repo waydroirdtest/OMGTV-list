@@ -11,8 +11,22 @@ import html
 from urllib.parse import urljoin
 from dotenv import load_dotenv
 load_dotenv()
+MFP = os.getenv("MFP")
+PSW = os.getenv("PSW")
+MFP2 = os.getenv("MFP2")
+PSW2 = os.getenv("PSW2")
+# MFPRender = os.getenv("MFPRender") # Load if needed in the future
+# PSWRender = os.getenv("PSWRender") # Load if needed in the future
 
-PROXYMFPMPD = os.getenv("MPDPROXYMFP")
+if not MFP or not PSW:
+    raise ValueError("MFP and PSW environment variables must be set.")
+
+MFP_TO_USE_FOR_MPD = MFP
+PSW_TO_USE_FOR_MPD = PSW
+
+if MFP2 and PSW2: # Check if they are set and not empty strings
+    MFP_TO_USE_FOR_MPD = MFP2
+    PSW_TO_USE_FOR_MPD = PSW2
 
 # Funzioni dal tuo mpd_decoder.py
 def extract_mpd_link_from_page(url):
@@ -62,10 +76,10 @@ def decode_base64_keys(encoded_string):
         print(f"Errore durante la decodifica base64: {e}")
         return None, None
 
-def generate_proxy_url(mpd_link, key1, key2 ): #api_password=f"{PSWMFP}"):
+def generate_proxy_url(mpd_link, key1, key2):
     """Genera l'URL proxy con i parametri richiesti"""
-    base_url = f"{PROXYMFPMPD}"
-
+    # Construct the base part of the proxy URL using the selected MFP/PSW
+    proxy_base_with_auth = f"{MFP_TO_USE_FOR_MPD}/proxy/mpd/manifest.m3u8?api_password={PSW_TO_USE_FOR_MPD}"
     # Rimuovi il parametro ck= dall'URL MPD prima di codificarlo
     mpd_base = mpd_link.split('?ck=')[0] if '?ck=' in mpd_link else mpd_link
 
@@ -73,8 +87,7 @@ def generate_proxy_url(mpd_link, key1, key2 ): #api_password=f"{PSWMFP}"):
     encoded_link = urllib.parse.quote(mpd_base)
 
     # Costruisci l'URL proxy completo
-    proxy_url = f"{base_url}&d={encoded_link}&key_id={key1}&key={key2}" #&api_password={api_password}"
-
+    proxy_url = f"{proxy_base_with_auth}&d={encoded_link}&key_id={key1}&key={key2}"
     return proxy_url
 
 def process_mpd_url(mpd_url):

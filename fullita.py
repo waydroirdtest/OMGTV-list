@@ -12,9 +12,12 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-PROXY = os.getenv("DDTVPROXY", "")
-MFPDD= os.getenv("DDPROXYMFP", "")
-MFPDD2= os.getenv("DDPROXYMFP2", "")
+PROXY = os.getenv("PROXY", "") # Kept as a general optional prefix
+# MFP = os.getenv("MFP") # Not used in this script for stream construction
+# PSW = os.getenv("PSW") # Not used in this script
+# MFPRender = os.getenv("MFPRender") # Load if needed in the future
+# PSWRender = os.getenv("PSWRender") # Load if needed in the future
+
 # Constants
 #REFERER = "forcedtoplay.xyz"
 #ORIGIN = "forcedtoplay.xyz"
@@ -317,7 +320,7 @@ def process_events():
                                     tvg_name = f"{time_only} {event_details} - {day_num}/{month_num}/{year_short}"
 
                                     file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{LOGO}" group-title="{clean_sport_key}", {channel["channel_name"]}\n')
-                                    file.write(f"{PROXY}{MFPDD}{stream_url_dynamic}{MFPDD2}\n\n")
+                                    file.write(f"{PROXY}{stream_url_dynamic}\n\n")
 
                                 processed_channels += 1
                                 filtered_channels += 1

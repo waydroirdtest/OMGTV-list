@@ -12,13 +12,23 @@ from urllib.parse import urljoin
 from dotenv import load_dotenv
 load_dotenv()
 
-# Carica le variabili d'ambiente necessarie
-PROXYMFPMPD = os.getenv("MPDPROXYMFP")
+MFP = os.getenv("MFP")
+PSW = os.getenv("PSW")
+MFP2 = os.getenv("MFP2")
+PSW2 = os.getenv("PSW2")
+# MFPRender = os.getenv("MFPRender") # Load if needed in the future
+# PSWRender = os.getenv("PSWRender") # Load if needed in the future
 
-if not PROXYMFPMPD:
-    print("Errore: La variabile d'ambiente PROXYMFPMPD non è impostata. Impossibile generare URL proxy.")
-    print("Assicurati di avere un file .env configurato correttamente o che la variabile sia esportata nel tuo ambiente.")
+if not MFP or not PSW:
+    print("Errore: Le variabili d'ambiente MFP e PSW devono essere impostate.")
     sys.exit(1)
+
+MFP_TO_USE_FOR_MPD = MFP
+PSW_TO_USE_FOR_MPD = PSW
+
+if MFP2 and PSW2: # Check if they are set and not empty strings
+    MFP_TO_USE_FOR_MPD = MFP2
+    PSW_TO_USE_FOR_MPD = PSW2
 
 # Funzioni per decodificare i link MPD (riutilizzate da hat.py)
 def extract_mpd_link_from_page(html_content): # Nome funzione mantenuto per compatibilità, ma ora estrae MPD/M3U8
@@ -141,37 +151,26 @@ def decode_base64_keys(encoded_string):
 
 def generate_proxy_url(stream_url, key1, key2, stream_type):
     """Genera l'URL proxy con i parametri richiesti in base al tipo di stream (mpd o hls)."""
-    if not PROXYMFPMPD:
-        print("Errore: PROXYMFPMPD non è configurato. Impossibile generare URL proxy.")
-        return None
-
-    # Assumiamo che PROXYMFPMPD sia l'endpoint completo per MPD, es: https://server.com/proxy/mpd/manifest.m3u8
-    # Deriviamo la base del proxy, es: https://server.com/proxy
-    try:
-        proxy_base_path = PROXYMFPMPD.rsplit('/', 2)[0]
-    except IndexError:
-        print(f"Errore: PROXYMFPMPD ('{PROXYMFPMPD}') non ha il formato atteso per derivare il percorso base del proxy.")
-        return None
+    # MFP_TO_USE_FOR_MPD and PSW_TO_USE_FOR_MPD are determined globally
 
     if stream_type == 'mpd':
-        endpoint = f"{proxy_base_path}/mpd/manifest.m3u8"
+        endpoint_base = f"{MFP_TO_USE_FOR_MPD}/proxy/mpd/manifest.m3u8"
         # Rimuovi il parametro ck= dall'URL MPD prima di codificarlo
         url_to_encode = stream_url.split('?ck=')[0] if '?ck=' in stream_url else stream_url
     elif stream_type == 'hls':
-        endpoint = f"{proxy_base_path}/hls/manifest.m3u8"
+        endpoint_base = f"{MFP_TO_USE_FOR_MPD}/proxy/hls/manifest.m3u8" # Using MFP_TO_USE_FOR_MPD for HLS in this script's context
         url_to_encode = stream_url # Gli URL HLS non hanno 'ck' in questo contesto
     else:
         print(f"Errore: Tipo di stream non supportato '{stream_type}' in generate_proxy_url.")
         return None
 
     encoded_link = urllib.parse.quote(url_to_encode, safe=':/')
-    proxy_url_parts = [f"{endpoint}?d={encoded_link}"]
+    proxy_url_parts = [f"{endpoint_base}?api_password={PSW_TO_USE_FOR_MPD}&d={encoded_link}"]
 
     # Aggiungi key_id e key solo se sono validi e se è un MPD
     if stream_type == 'mpd' and key1 and key2:
         proxy_url_parts.append(f"&key_id={key1}")
         proxy_url_parts.append(f"&key={key2}")
-
     return "".join(proxy_url_parts)
 
 def process_stream_url(stream_url):

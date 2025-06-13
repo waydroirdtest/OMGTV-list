@@ -1,286 +1,294 @@
-import re
-import urllib.parse
 import requests
-from bs4 import BeautifulSoup, SoupStrainer
-import sys
+import re
 import os
-import json
-import time
-import asyncio
-import aiohttp
+from bs4 import BeautifulSoup
+from urllib.parse import quote_plus
+import os
 from dotenv import load_dotenv
 load_dotenv()
 
-# Carica le variabili d'ambiente
-PROXY_URL = os.getenv("HLSPROXYMFP", "")
-SKYSTR = os.getenv("SKYSTR")
-PROXY_NOPSW = os.getenv("HLSPROXYMFPNOPSW", "")
-
-# Definizione degli headers per le richieste
+# URL di partenza (homepage o pagina con elenco eventi)
+base_url = "https://www.sportstreaming.net/"
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-    "Accept": "*/*",
-    "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Connection": "keep-alive"
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+    "Origin": "https://www.sportstreaming.net",
+    "Referer": "https://www.sportstreaming.net/"
 }
 
-async def extract_category_links(session):
-    """Estrae tutti i link delle categorie dalla homepage di skystreaming.stream"""
-    try:
-        main_url = f"https://skystreaming.{SKYSTR}/"
-        async with session.get(main_url, headers=headers) as response:
-            html_content = await response.text()
+# Prefisso per il proxy dello stream
+MFP = os.getenv("MFP")
+PSW = os.getenv("PSW")
+# MFPRender = os.getenv("MFPRender") # Load if needed in the future
+# PSWRender = os.getenv("PSWRender") # Load if needed in the future
 
-        soup = BeautifulSoup(html_content, 'html.parser')
-        category_links = []
+if not MFP or not PSW:
+    raise ValueError("MFP and PSW environment variables must be set.")
 
-        # Cerca tutti i link con classe "categories"
-        categories = soup.find_all(class_="categories")
-        for category in categories:
-            links = category.find_all('a')
-            for link in links:
-                if 'href' in link.attrs:
-                    href = link['href'].strip()
-                    if href.startswith(f'https://skystreaming.{SKYSTR}/channel/video/'):
-                        category_links.append(href)
-                    elif href.startswith('/channel/video/'):
-                        # Costruisci URL completo se è relativo
-                        category_links.append(f"https://skystreaming.{SKYSTR}{href}")
+# --- INIZIO MODIFICHE RICHIESTE ---
 
-        # Se non troviamo link con classe "categories", cerchiamo tutti i link che contengono "/channel/video/"
-        if not category_links:
-            all_links = soup.find_all('a')
-            for link in all_links:
-                if 'href' in link.attrs:
-                    href = link['href'].strip()
-                    if 'channel/video' in href:
-                        if href.startswith('http'):
-                            category_links.append(href)
-                        else:
-                            # Costruisci URL completo se è relativo
-                            category_links.append(f"https://skystreaming.{SKYSTR}{href}")
+# 1. Esclusione canali live-temp specifici
+# Escludere: 25-30 (compresi), 32, 34, 35-40 (compresi)
+EXCLUDED_TEMP_CHANNELS = set(list(range(25, 31)) + [32, 34] + list(range(35, 41)))
 
-        return category_links
-    except Exception as e:
-        print(f"Errore durante l'estrazione dei link delle categorie: {e}")
-        return []
-
-async def extract_channel_links_from_category(category_url, session):
-    """Estrae i link dei canali da una pagina di categoria"""
-    try:
-        async with session.get(category_url, headers=headers) as response:
-            html_content = await response.text()
-
-        soup = BeautifulSoup(html_content, 'html.parser')
-        channel_links = []
-
-        # Cerca tutti gli elementi con classe "mediathumb"
-        mediathumbs = soup.find_all(class_="mediathumb")
-        for thumb in mediathumbs:
-            link = thumb.find('a') # Cerca il tag <a> all'interno di mediathumb
-            if link and 'href' in link.attrs:
-                href = link['href'].strip()
-                # Aggiungi tutti i link trovati all'interno di mediathumb
-                if href.startswith('http'):
-                    channel_links.append(href)
-                else:
-                    # Costruisci URL completo se è relativo
-                    channel_links.append(f"https://skystreaming.{SKYSTR}{href}")
-
-        return channel_links
-    except Exception as e:
-        print(f"Errore durante l'estrazione dei link dei canali dalla categoria {category_url}: {e}")
-        return []
-
-async def get_skystreaming_url(skystreaming_link, session):
-    try:
-        if "hls" in skystreaming_link:
-            m3u8_url = skystreaming_link
-            Host = m3u8_url.replace("https://", "").split("/")[0]
-            async with session.get(skystreaming_link, headers=headers, allow_redirects=True) as response:
-                Origin = str(response.url).split('/embed')[0]
-            # Extract channel name from URL when direct hls link
-            channel_name = skystreaming_link.split('/')[-1].split('.')[0].replace('-', ' ')  # Added line
-            return m3u8_url, Host, Origin, channel_name  # Now returns 4 values
-
-        # Get the full channel name for logging
-        #channel_name = skystreaming_link.split('/')[-2]  # Gets 'al-hilal-vs-al-qadisiya' from URL
-
-        async with session.get(skystreaming_link, headers=headers, allow_redirects=True) as response:
-            Origin = str(response.url).split('/embed')[0]
-            html_content = await response.text()
-
-        soup = BeautifulSoup(html_content, 'html.parser')
-
-        # Extract channel name from h2 tag
-        h2_tag = soup.find('h2', {'itemprop': 'name'})
-        channel_name = h2_tag.get_text(strip=True) if h2_tag else 'Unknown Channel'
-
-        # Find iframe first
-        iframe = soup.find('iframe')
-        if iframe and 'src' in iframe.attrs:
-            iframe_src = iframe['src']
-            # Get the iframe content
-            async with session.get(iframe_src, headers=headers) as iframe_response:
-                iframe_html = await iframe_response.text()
-                iframe_soup = BeautifulSoup(iframe_html, 'html.parser')
-
-                # Find video source in iframe
-                source_tag = iframe_soup.find('source', {'type':'application/x-mpegURL'})
-                if source_tag and 'src' in source_tag.attrs:
-                    m3u8_url = source_tag['src']
-                    Host = m3u8_url.replace("https://", "").split("/")[0]
-                    print(f"Trovato link m3u8 per {channel_name}")
-                    return m3u8_url, Host, Origin, channel_name  # Added 4th return value
-
-        print(f"Nessun link m3u8 trovato nella pagina per {channel_name}")
-        return None, None, None, None  # Now returns 4 None values
-    except Exception as e:
-        print(f"SkyStreaming failed per {channel_name}: {e}")
-        return None, None, None, None  # Now returns 4 None values
-
-# Add this near other configuration variables
-BASE_URL = "https://skystreaming."  # Note the trailing dot
-
-def generate_proxy_url(m3u8_url, Host, Origin):
-    """Genera l'URL proxy con i parametri richiesti"""
-    # Codifica l'URL m3u8 per l'uso come parametro
-    encoded_link = urllib.parse.quote(m3u8_url)
-
-    # Codifica gli headers necessari
-    user_agent = urllib.parse.quote("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36")
-    referer = urllib.parse.quote(f"{BASE_URL}{SKYSTR}/")
-    origin = urllib.parse.quote(f"{BASE_URL}{SKYSTR}")
-    # Instead of using Origin variable
-
-    # Costruisci l'URL proxy completo
-    proxy_url = f"{PROXY_URL}{encoded_link}&h_user-agent={user_agent}&h_referer={referer}&h_origin={origin}"
-
-    return proxy_url
-
-# Mappa per tvg-id personalizzati e definizione dei group-title
-SKYSTR_TVG_ID_MAP = {
-    "Eurosport 1": "eurosport1.it",
-    "Eurosport 2": "eurosport2.it",
-    "Sky Sport Tennis": "skysporttennis.it",
-    "Sky Sport MotoGP": "skysportmotogp.it",
-    "Sky Sport F1": "skysportf1.it",
-    "Sky Sport 251": "skysport251.it",
-    "Sky Sport 252": "skysport252.it",
-    "Sky Sport 253": "skysport253.it",
-    "Sky Sport 254": "skysport254.it",
-    "Sky Sport 255": "skysport255.it",
-    "Sky Sport 256": "skysport256.it",
-    "Sky Sport 257": "skysport257.it",
-    "Sky Sport 258": "skysport258.it",
-    "Sky Sport 259": "skysport259.it",
-    "Sky Sport 260": "skysport260.it",
-    "Sky Sport 261": "skysport261.it",
-    "Sky Sport Max": "skysportmax.it",       # Corrisponde a "Sky Sport Football" nella richiesta originale
-    "Sky Sport Arena": "skysportarena.it",
-    "Sky Sport Calcio": "skysportcalcio.it",
-    "Sky Sport Uno": "skysportuno.it",       # Corrisponde a "Sky Sport UNO" nella richiesta originale
-    "Sky Sport 24": "skysport24.it"
+# 2. Mappatura completa tvg-id
+TVG_ID_MAPPING = {
+    'golf': 'skysportgolf.it',
+    'sport uno': 'skysportuno.it',
+    'sport calcio': 'skysportcalcio.it',
+    'sport max': 'skysportmax.it',
+    'sport arena': 'skysportarena.it',
+    'cinema uno': 'skycinemauno.it',
+    'cinema due': 'skycinemadue.it',
+    'cinema collection': 'skycinemacollection.it',
+    'cinema action': 'skycinemaaction.it',
+    'cinema family': 'skycinemafamily.it',
+    'cinema romance': 'skycinemaromance.it',
+    'cinema comedy': 'skycinemacomedy.it',
+    'cinema drama': 'skycinemadrama.it',
+    'uno': 'skyuno.it',
+    'atlantic': 'skyatlantic.it',
+    'serie': 'skyserie.it',
+    'investigation': 'skyinvestigation.it',
+    'comedy central': 'comedycentral.it',
+    'arte': 'skyarte.it',
+    'documentaries': 'skydocumentaries.it',
+    'nature': 'skynature.it'
 }
-SKYSTR_SPORT_GROUP_TITLE = "Sport;SkyStreaming"
-SKYSTR_DEFAULT_GROUP_TITLE = "Sport;SkyStreaming"
 
-def create_m3u_entry(channel_name, proxy_url):
-    info = get_channel_info(channel_name)
-    extinf = f'#EXTINF:-1 tvg-id="{info["tvg_id"]}" tvg-name="{info["tvg_name"]}" tvg-logo="{info["tvg_logo"]}" group-title="{info["group_title"]}", {info["tvg_name"]} {info["suffix"]}'
-    return f"{extinf}\n{proxy_url}\n\n"
+# 3. Immagine per live-temp
+TEMP_CHANNEL_LOGO = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/500px-Sky_italia_2018.png"
 
-def get_channel_info(channel_name):
-    """Returns channel metadata for M3U entries."""
-    tvg_id_to_use = SKYSTR_TVG_ID_MAP.get(channel_name, channel_name)
-    group_title_to_use = SKYSTR_SPORT_GROUP_TITLE if channel_name in SKYSTR_TVG_ID_MAP else SKYSTR_DEFAULT_GROUP_TITLE
+# --- FINE MODIFICHE RICHIESTE ---
 
-    return {
-        "tvg_id": tvg_id_to_use,
-        "tvg_name": channel_name, # tvg-name è il nome del canale come "Eurosport 2"
-        "tvg_logo": f"https://skystreaming.{SKYSTR}/content/auto_site_logo.png",
-        "group_title": group_title_to_use,
-        "suffix": "(SS)" # Suffisso per i canali SkyStreaming
-    }
+# Funzione helper per formattare la data dell'evento
+def format_event_date(date_text):
+    if not date_text:
+        return ""
+    match = re.search(
+        r'(?:[a-zA-Zì]+\s+)?(\d{1,2})\s+([a-zA-Z]+)\s+(?:ore\s+)?(\d{1,2}:\d{2})',
+        date_text,
+        re.IGNORECASE
+    )
+    if match:
+        day = match.group(1).zfill(2)
+        month_name = match.group(2).lower()
+        time = match.group(3)
+        month_number = ITALIAN_MONTHS_MAP.get(month_name)
+        if month_number:
+            return f"{time} {day}/{month_number}"
+    return ""
 
-def create_m3u_playlist(channels, m3u_file):
-    """Crea una nuova playlist M3U con i canali"""
+
+# Mappa dei mesi italiani per la formattazione della data
+ITALIAN_MONTHS_MAP = {
+    "gennaio": "01", "febbraio": "02", "marzo": "03", "aprile": "04",
+    "maggio": "05", "giugno": "06", "luglio": "07", "agosto": "08",
+    "settembre": "09", "ottobre": "10", "novembre": "11", "dicembre": "12"
+}
+
+# Funzione per trovare i link alle pagine evento
+def find_event_pages():
     try:
-        # Crea il file M3U con l'intestazione
-        with open(m3u_file, 'w', encoding='utf-8') as f:
-            f.write("#EXTM3U\n")
-            f.write("# Playlist generata da SkyStreaming\n")
+        response = requests.get(base_url, headers=headers)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
 
-            # Aggiungi tutti i canali
-            for channel_name, proxy_url in channels.items():
-                entry = create_m3u_entry(channel_name, proxy_url)
-                f.write(entry)
+        event_links = []
+        seen_links = set()
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            if re.match(r'/live-(perma-)?\d+', href):
+                full_url = base_url + href.lstrip('/')
+                if full_url not in seen_links:
+                    event_links.append(full_url)
+                    seen_links.add(full_url)
+            elif re.match(r'https://www\.sportstreaming\.net/live-(perma-)?\d+', href):
+                if href not in seen_links:
+                    event_links.append(href)
+                    seen_links.add(href)
 
-        print(f"Creata playlist M3U con {len(channels)} canali: {m3u_file}")
-        return True
-    except Exception as e:
-        print(f"Errore durante la creazione del file M3U {m3u_file}: {e}")
-        return False
+        # Aggiungi i canali live-temp-1 fino a live-temp-40
+        for i in range(1, 41):
+            # Modifica: Esclusione canali specifici
+            if i in EXCLUDED_TEMP_CHANNELS:
+                continue
+            temp_url = f"https://sportstreaming.net/live-temp-{i}"
+            if temp_url not in seen_links:
+                event_links.append(temp_url)
+                seen_links.add(temp_url)
 
-async def main():
-    # Crea una sessione aiohttp
-    async with aiohttp.ClientSession() as session:
-        # Estrai i link delle categorie
-        print("Estraendo i link delle categorie...")
-        category_links = await extract_category_links(session)
-        print(f"Trovati {len(category_links)} link di categorie.")
+        return event_links
 
-        # Estrai i link dei canali da ogni categoria
-        all_channel_links = []
-        for i, category_url in enumerate(category_links):
-            print(f"Processando categoria {i+1}/{len(category_links)}: {category_url}")
-            channel_links = await extract_channel_links_from_category(category_url, session)
-            all_channel_links.extend(channel_links)
-            print(f"Trovati {len(channel_links)} link di canali nella categoria.")
+    except requests.RequestException as e:
+        print(f"Errore durante la ricerca delle pagine evento: {e}")
+        return []
 
-            # Aggiungi un piccolo ritardo per evitare di sovraccaricare il server
-            await asyncio.sleep(1)
+# Funzione per estrarre il flusso video e i dettagli dell'evento dalla pagina evento
+def get_event_details(event_url):
+    try:
+        response = requests.get(event_url, headers=headers)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Rimuovi duplicati
-        all_channel_links = list(set(all_channel_links))
-        print(f"Totale di {len(all_channel_links)} link di canali unici trovati.")
+        stream_url = None
+        element = None
+        for iframe in soup.find_all('iframe'):
+            src = iframe.get('src')
+            if src and ("stream" in src.lower() or re.search(r'\.(m3u8|mp4|ts|html|php)', src, re.IGNORECASE)):
+                stream_url = src
+                element = iframe
+                break
 
-        # Processa ogni canale
-        results = {}
-        for i, url in enumerate(all_channel_links):
-            m3u8_url, Host, Origin, formatted_channel_name = await get_skystreaming_url(url, session)
+        if not stream_url:
+            for embed in soup.find_all('embed'):
+                src = embed.get('src')
+                if src and ("stream" in src.lower() or re.search(r'\.(m3u8|mp4|ts|html|php)', src, re.IGNORECASE)):
+                    stream_url = src
+                    element = embed
+                    break
 
-            if m3u8_url and Host and Origin:
-                proxy_url = generate_proxy_url(m3u8_url, Host, Origin)
-                results[formatted_channel_name] = proxy_url
-                print(f"Generato URL proxy per {formatted_channel_name}")
-            else:
-                print(f"Impossibile generare URL proxy per {formatted_channel_name}")
+        if not stream_url:
+            for video in soup.find_all('video'):
+                src = video.get('src')
+                if src and ("stream" in src.lower() or re.search(r'\.(m3u8|mp4|ts)', src, re.IGNORECASE)):
+                    stream_url = src
+                    element = video
+                    break
+                for source in video.find_all('source'):
+                    src = source.get('src')
+                    if src and ("stream" in src.lower() or re.search(r'\.(m3u8|mp4|ts)', src, re.IGNORECASE)):
+                        stream_url = src
+                        element = source
+                        break
 
-            # Aggiungi un piccolo ritardo per evitare di sovraccaricare il server
-            await asyncio.sleep(1)
+        # Estrai data e ora formattate
+        formatted_date = ""
+        date_span = soup.find('span', class_='uk-text-meta uk-text-small')
+        if date_span:
+            date_text = date_span.get_text(strip=True)
+            formatted_date = format_event_date(date_text)
 
-        # Salva i risultati in un file
-        output_file = "skystreaming_channels.txt"
-        with open(output_file, 'w', encoding='utf-8') as f:
-            for channel, url in results.items():
-                f.write(f"{channel}: {url}\n\n")
+        # Estrai il titolo dell'evento dal tag <title>
+        event_title_from_html = "Unknown Event"
+        title_tag = soup.find('title')
+        if title_tag:
+            event_title_from_html = title_tag.get_text(strip=True)
+            event_title_from_html = re.sub(r'\s*\|\s*Sport Streaming\s*$', '', event_title_from_html, flags=re.IGNORECASE).strip()
 
-        # Salva anche in formato JSON per un uso più facile
-        json_output_file = "skystreaming_channels.json"
-        with open(json_output_file, 'w', encoding='utf-8') as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
+        # Estrai informazioni sulla lega/competizione
+        league_info = "Event" # Default
+        is_perma_channel = "perma" in event_url.lower()
 
-        print(f"\nCompletato! Trovati {len(results)} canali con URL proxy validi.")
-        print(f"I risultati sono stati salvati in {output_file} e {json_output_file}")
-
-        # Crea la playlist M3U
-        m3u_file = "skystreaming.m3u8"
-        print(f"\nCreando la playlist M3U: {m3u_file}...")
-        if create_m3u_playlist(results, m3u_file):
-            print(f"Playlist M3U creata con successo!")
+        if is_perma_channel:
+            if event_title_from_html and event_title_from_html != "Unknown Event":
+                league_info = event_title_from_html
+            # Se il titolo del canale perma non è stato trovato, league_info resta "Event"
         else:
-            print(f"Errore durante la creazione della playlist M3U.")
+            # Per canali non-perma (eventi specifici), cerca lo span della lega/competizione
+            league_spans = soup.find_all(
+                lambda tag: tag.name == 'span' and \
+                            'uk-text-small' in tag.get('class', []) and \
+                            'uk-text-meta' not in tag.get('class', []) # Escludi lo span della data
+            )
+            if league_spans:
+                # Prendi il testo del primo span corrispondente, pulito
+                league_info = ' '.join(league_spans[0].get_text(strip=True).split())
+            # Se lo span non viene trovato per un evento non-perma, league_info resta "Event"
 
+        return stream_url, formatted_date, event_title_from_html, league_info
+
+    except requests.RequestException as e:
+        print(f"Errore durante l'accesso a {event_url}: {e}")
+        return None, "", "Unknown Event", "Event"
+
+# Funzione per generare tvg-id pulito e mappato
+def generate_clean_tvg_id(name_input):
+    if not name_input or name_input.lower() in ["unknown event", "event", "live temp"]: # Aggiunto "live temp" per genericità
+        return "unknown-event"
+    
+    s = name_input.lower().strip()
+    
+    # Controllo mappatura personalizzata
+    for keyword, tvg_id_map_val in TVG_ID_MAPPING.items():
+        if keyword in s:
+            return tvg_id_map_val
+    
+    # Pulizia standard se nessuna mappatura trovata
+    cleaned_s = re.sub(r'[\s\W_]+', '-', s) # Sostituisce spazi e non alfanumerici con '-'
+    cleaned_s = re.sub(r'^-+|-+$', '', cleaned_s) # Rimuove trattini iniziali/finali
+    
+    # Fallback se la stringa pulita è vuota
+    return cleaned_s if cleaned_s else "unknown-event"
+
+
+# Funzione per aggiornare il file M3U8
+def update_m3u_file(video_streams, m3u_file="sportstreaming_playlist.m3u8"):
+    REPO_PATH = os.getenv('GITHUB_WORKSPACE', '.')
+    file_path = os.path.join(REPO_PATH, m3u_file)
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+
+        perma_count = 1
+
+        for event_url, stream_url, formatted_date, event_title, league_info in video_streams:
+            if not stream_url:
+                continue
+
+            # Modifica: Gestione immagine per live-temp, perma, e standard
+            if "live-temp-" in event_url:
+                image_url = TEMP_CHANNEL_LOGO
+            elif "perma" in event_url.lower():
+                image_url = f"https://sportstreaming.net/assets/img/live/perma/live{perma_count}.png"
+                perma_count += 1
+            else:
+                match = re.search(r'live-(\d+)', event_url)
+                if match:
+                    live_number = match.group(1)
+                    image_url = f"https://sportstreaming.net/assets/img/live/standard/live{live_number}.png"
+                else:
+                    image_url = "https://sportstreaming.net/assets/img/live/standard/live1.png" # Fallback per standard
+
+            # Modifica: Logica per display_name (usato per tvg-id e tvg-name)
+            # Se è un canale "perma" e league_info non è il default "Event", usa league_info.
+            # Altrimenti (canali non-perma o perma con league_info generico), usa event_title.
+            # Per i canali live-temp, event_title sarà tipicamente "Live Temp X" o "Unknown Event".
+            display_name = league_info if ("perma" in event_url.lower() and league_info != "Event") else event_title
+            
+            tvg_id = generate_clean_tvg_id(display_name)
+
+            # Codifica gli header per l'URL
+            encoded_ua = quote_plus(headers["User-Agent"])
+            encoded_referer = quote_plus(headers["Referer"])
+            encoded_origin = quote_plus(headers["Origin"])
+            # Costruisci l'URL finale con il proxy e gli header
+            # stream_url qui è l'URL originale dello stream (es. https://xuione.sportstreaming.net/...)
+            # New stream URL format
+            proxy_stream_prefix_value = f"{MFP}/proxy/hls/manifest.m3u8?api_password={PSW}&d="
+            final_stream_url = f"{proxy_stream_prefix_value}{stream_url}&h_user-agent={encoded_ua}&h_referer={encoded_referer}&h_origin={encoded_origin}"
+            f.write(f"#EXTINF:-1 group-title=\"SportStreaming\" tvg-logo=\"{image_url}\" tvg-id=\"{tvg_id}\" tvg-name=\"{display_name}\",{display_name} (SpS)\n")
+            f.write(f"{final_stream_url}\n")
+            f.write("\n") # Aggiungi una riga vuota dopo ogni canale
+
+
+    print(f"File M3U8 aggiornato con successo: {file_path}")
+
+# Esegui lo script
 if __name__ == "__main__":
-    asyncio.run(main())
+    event_pages = find_event_pages()
+    if not event_pages:
+        print("Nessuna pagina evento trovata.")
+    else:
+        video_streams = []
+        for event_url in event_pages:
+            print(f"Analizzo: {event_url}")
+            stream_url, formatted_date, event_title, league_info = get_event_details(event_url)
+            if stream_url:
+                video_streams.append((event_url, stream_url, formatted_date, event_title, league_info))
+            else:
+                print(f"Nessun flusso trovato per {event_url}")
+
+        if video_streams:
+            update_m3u_file(video_streams)
+        else:
+            print("Nessun flusso video trovato in tutte le pagine evento.")

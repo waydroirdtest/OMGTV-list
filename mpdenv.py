@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 from pathlib import Path
-from urllib.parse import urlparse # Importato ma non più usato, può essere rimosso se non serve altrove
 
 def update_proxy_links(input_m3u8_filepath, output_m3u8_filepath, env_filepath):
     """
@@ -11,19 +10,35 @@ def update_proxy_links(input_m3u8_filepath, output_m3u8_filepath, env_filepath):
     # Carica le variabili dal file .env specificato
     load_dotenv(dotenv_path=env_filepath)
 
-    # Ottieni le configurazioni dal file .env
-    proxy_base_url = os.getenv("MPDPROXYMFP") # Modificato per coerenza con il placeholder
+    # Carica le configurazioni MFP/PSW primarie e secondarie
+    mfp = os.getenv("MFP")
+    psw = os.getenv("PSW")
+    mfp2 = os.getenv("MFP2")
+    psw2 = os.getenv("PSW2")
 
     # Validazione delle variabili d'ambiente necessarie
-    if not proxy_base_url:
-        print(f"Errore: La variabile MPDPROXYMFP non è stata trovata nel file {env_filepath}")
+    if not mfp or not psw:
+        print(f"Errore: Le variabili MFP e PSW devono essere impostate nel file {env_filepath}")
         return
 
-    print(f"Utilizzo del proxy base URL: {proxy_base_url}")
+    # Determina quali MFP/PSW utilizzare
+    mfp_to_use = mfp
+    psw_to_use = psw
+    if mfp2 and psw2:  # Se MFP2 e PSW2 sono impostati e non vuoti
+        print("Utilizzo MFP2 e PSW2 per i link MPD.")
+        mfp_to_use = mfp2
+        psw_to_use = psw2
+    else:
+        print("Utilizzo MFP e PSW primari per i link MPD.")
+
+    # Costruisci la stringa di sostituzione per il placeholder
+    # Il placeholder {PROXYMFPMPD} sarà sostituito da questa stringa base.
+    # La parte "&d=..." ecc. è già presente nel file FILEmpd.m3u8.
+    replacement_string = f"{mfp_to_use}/proxy/mpd/manifest.m3u8?api_password={psw_to_use}"
+    print(f"Stringa di sostituzione per {{PROXYMFPMPD}}: {replacement_string}")
 
     # Configurazione per le sostituzioni
-    placeholder = "{MPDPROXYMFP}" # Placeholder da cercare nel file di input
-    
+    placeholder = "{PROXYMFPMPD}" # Placeholder da cercare nel file di input
     lines_to_write = []
     updated_count = 0
     m3u8_path = Path(input_m3u8_filepath)
@@ -36,15 +51,16 @@ def update_proxy_links(input_m3u8_filepath, output_m3u8_filepath, env_filepath):
             stripped_line = original_line.strip()
             processed_line = original_line
 
-            if not stripped_line or stripped_line.startswith("#"):
+            # Salta le righe vuote o le direttive M3U che non sono URL di stream
+            if not stripped_line or stripped_line.startswith("#EXTM3U") or stripped_line.startswith("#EXTINF:"):
                 lines_to_write.append(original_line)
                 continue
-            
-            modified_content = stripped_line
 
             # Sostituisci il placeholder se presente
             if placeholder in stripped_line:
-                modified_content = stripped_line.replace(placeholder, proxy_base_url.rstrip('/'))
+                # Sostituisce il placeholder con la stringa di base del proxy costruita
+                # es. {PROXYMFPMPD}&d=... diventa https://server/proxy...?api_password=xxx&d=...
+                modified_content = stripped_line.replace(placeholder, replacement_string)
                 if modified_content != stripped_line:
                     processed_line = modified_content + '\n'
                     updated_count += 1
@@ -58,7 +74,7 @@ def update_proxy_links(input_m3u8_filepath, output_m3u8_filepath, env_filepath):
         if updated_count > 0:
             print(f"File {Path(output_m3u8_filepath).name} creato/aggiornato con successo. {updated_count} placeholder sostituiti.")
         else:
-            print(f"Nessun link da aggiornare trovato in {m3u8_path.name} con i criteri specificati.")
+            print(f"Nessun placeholder '{placeholder}' da aggiornare trovato in {m3u8_path.name}.")
 
     except FileNotFoundError:
         print(f"Errore: Il file {m3u8_path} non è stato trovato.")

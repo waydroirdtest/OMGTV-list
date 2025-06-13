@@ -4,12 +4,17 @@ import re
 import os
 from dotenv import load_dotenv
 load_dotenv()
+MFP = os.getenv("MFP")
+PSW = os.getenv("PSW")
+# MFPRender = os.getenv("MFPRender") # Load if needed in the future
+# PSWRender = os.getenv("PSWRender") # Load if needed in the future
 
-PROXYMFP = os.getenv("VVPROXYMFP", "")
+if not MFP or not PSW:
+    raise ValueError("MFP and PSW environment variables must be set.")
+
+# This script uses its own HEADER, not the one from .env for NOMEGITHUB etc.
 NOMEGITHUB = os.getenv("NOMEGITHUB")
 NOMEREPO = os.getenv("NOMEREPO")
-PROXYMFPNOPSW = os.getenv("VVPROXYMFPNOPSW", "")
-PROXY = os.getenv("VVTVPROXY", "")
 
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
 OUTPUT_FILE = "channels_italy.m3u8"
@@ -309,8 +314,9 @@ def save_m3u8(channels):
             if tvg_id_modified in SPECIAL_CHANNEL_MAPPING:
                tvg_id_modified = SPECIAL_CHANNEL_MAPPING[tvg_id_modified]
 
+            proxy_mfp_value = f"{MFP}/proxy/hls/manifest.m3u8?api_password={PSW}&d="
             f.write(f'#EXTINF:-1 tvg-id="{tvg_id_modified}.it" tvg-name="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
-            f.write(f"{PROXY}{PROXYMFP}{PROXYMFPNOPSW}{url}{HEADER}\n\n")
+            f.write(f"{proxy_mfp_value}{url}{HEADER}\n\n")
 
 def main():
     channels = fetch_channels()

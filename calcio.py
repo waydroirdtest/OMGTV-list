@@ -13,11 +13,16 @@ load_dotenv(dotenv_path=dotenv_path)
 # Salva il file M3U nella directory di lavoro corrente (dove lo script viene eseguito)
 output_path = os.path.join(os.getcwd(), "calcio_playlist.m3u8")
 
-# Recupera la variabile d'ambiente PROXYMFP (ora potenzialmente caricata da .env)
-proxy_prefix = os.getenv("HLSPROXYMFP")
-if proxy_prefix is None:
-    print("Attenzione: La variabile d'ambiente PROXYMFP non è impostata. I link M3U8 non saranno prefissati.")
-    proxy_prefix = "" # Default a stringa vuota se non impostata
+MFP = os.getenv("MFP")
+PSW = os.getenv("PSW")
+# MFPRender = os.getenv("MFPRender") # Load if needed in the future
+# PSWRender = os.getenv("PSWRender") # Load if needed in the future
+
+if not MFP or not PSW:
+    print("Attenzione: Le variabili d'ambiente MFP e PSW devono essere impostate.")
+    # Default a stringa vuota se non impostata, o potresti voler uscire dallo script
+    MFP = ""
+    PSW = ""
 
 base_url = "https://calcionew.newkso.ru/calcio/"
 logo_url = "https://i.postimg.cc/NFGs2Ptq/photo-2025-03-12-12-36-48.png"
@@ -142,12 +147,14 @@ def format_channel_name(raw_name):
 channels = []
 for raw_name in channels_raw:
     clean_name = format_channel_name(raw_name)
-    url = f"{proxy_prefix}{base_url}{raw_name}mono.m3u8"
+    # New stream URL format using MFP and PSW
+    stream_target_url = f"{base_url}{raw_name}mono.m3u8"
+    url = f"{MFP}/proxy/hls/manifest.m3u8?api_password={PSW}&d={stream_target_url}"
     channels.append((clean_name, url))
 
 # Aggiungi i canali extra
 for name, path in extra_channels:
-    url = f"{proxy_prefix}{base_url}{path}"
+    url = f"{MFP}/proxy/hls/manifest.m3u8?api_password={PSW}&d={base_url}{path}"
     channels.append((name, url))
 
 # Ordina i canali alfabeticamente

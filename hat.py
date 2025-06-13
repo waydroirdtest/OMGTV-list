@@ -73,7 +73,7 @@ def generate_proxy_url(mpd_link, key1, key2 ): #api_password=f"{PSWMFP}"):
     encoded_link = urllib.parse.quote(mpd_base)
 
     # Costruisci l'URL proxy completo
-    proxy_url = f"{base_url}?d={encoded_link}&key_id={key1}&key={key2}" #&api_password={api_password}"
+    proxy_url = f"{base_url}&d={encoded_link}&key_id={key1}&key={key2}" #&api_password={api_password}"
 
     return proxy_url
 

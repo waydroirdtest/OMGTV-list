@@ -1,13 +1,12 @@
 import cloudscraper
 from bs4 import BeautifulSoup
+import requests
 import re
 import time
-import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.ssl_ import create_urllib3_context
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from urllib.parse import quote_plus
 import os
@@ -15,7 +14,14 @@ from dotenv import load_dotenv
 load_dotenv()
 
 SPZO = os.getenv("SPZO")
-PROXY_STREAM_PREFIX = os.getenv("HLSPROXYMFP")
+MFP = os.getenv("MFP")
+PSW = os.getenv("PSW")
+# MFPRender = os.getenv("MFPRender") # Load if needed in the future
+# PSWRender = os.getenv("PSWRender") # Load if needed in the future
+
+if not MFP or not PSW:
+    raise ValueError("MFP and PSW environment variables must be set.")
+
 SCRIPT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", # O qualsiasi UA tu stia usando
     "Referer": f"https://sportzone.{SPZO}/", # O qualsiasi Referer tu stia usando
@@ -76,7 +82,9 @@ def fetch_page(url, verify_ssl=True):
         chrome_options = Options()
         chrome_options.add_argument("--headless")
         chrome_options.add_argument(f"user-agent={user_agent}")
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+        # Utilizza il chromedriver installato dal pacchetto chromium-chromedriver,
+        # che dovrebbe essere nel PATH di sistema.
+        driver = webdriver.Chrome(service=Service(), options=chrome_options)
         driver.get(url)
         html = driver.page_source
         driver.quit()
@@ -352,8 +360,8 @@ def create_m3u8_playlist(events, base_url):
                 encoded_referer = quote_plus(SCRIPT_HEADERS["Referer"])
                 encoded_origin = quote_plus(SCRIPT_HEADERS["Origin"])
 
-                final_stream_url = f"{PROXY_STREAM_PREFIX}{stream_url}&h_user-agent={encoded_ua}&h_referer={encoded_referer}&h_origin={encoded_origin}"
-
+                proxy_stream_prefix_value = f"{MFP}/proxy/hls/manifest.m3u8?api_password={PSW}&d="
+                final_stream_url = f"{proxy_stream_prefix_value}{stream_url}&h_user-agent={encoded_ua}&h_referer={encoded_referer}&h_origin={encoded_origin}"
                 # Modifiche al formato #EXTINF:
                 # 1. group-title="SportZone"
                 # 2. tvg-name="{categoria_originale}" (es. "Tennis")
@@ -361,7 +369,7 @@ def create_m3u8_playlist(events, base_url):
                 original_group_title = event["group_title"] # Es. "Tennis"
                 channel_display_name = f'{event["title"]} (SZ)' # Es. "ATP & WTA vs Sky Sport Tennis (SZ)"
 
-                f.write(f'#EXTINF:-1 group-title="Sport;SportZone"{tvg_logo_attr} tvg-name="{original_group_title}",{channel_display_name}\n')
+                f.write(f'#EXTINF:-1 group-title="SportZone"{tvg_logo_attr} tvg-name="{original_group_title}",{channel_display_name}\n')
                 f.write(f'{final_stream_url}\n\n')
                 print(f"Added to playlist: {channel_display_name} (stream: {final_stream_url}, image: {image_url})")
             else:

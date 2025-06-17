@@ -1,0 +1,122 @@
+#EXTINF:-1 tvg-id="skycinemauno.it" group-title="Sky;MPD",Sky Cinema Uno (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemauno)/master_2hr-aac.mpd&key_id=111571675d8183ed169725564cded6d9&key=e077dedf383c8aed73d38567a8e6a046
+
+#EXTINF:-1 tvg-id="skycinemadue.it" group-title="Sky;MPD",Sky Cinema Due (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadue)/master_2hr-aac.mpd&key_id=11152c4ea1a3bffdd277ce333e54631a&key=17f0c028800dbcb294b9aebbae1f7e0c
+
+#EXTINF:-1 tvg-id="skycinemacomedy.it" group-title="Sky;MPD",Sky Cinema Comedy (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd&key_id=1115676eca79233f2919b53f1a1709b8&key=72298a31b1b015b52adc03ab222494c2
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" group-title="Sky;MPD",Sky Cinema Action (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaaction)/master_2hr-aac.mpd&key_id=11150443883da4df27e25110d10fca31&key=83b6390471a083e00f8f3aff2a271be9
+
+#EXTINF:-1 tvg-id="skycinemafamily.it" group-title="Sky;MPD",Sky Cinema Family (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemafamily)/master_2hr-aac.mpd&key_id=1115074065832f74af7e279e1203adce&key=20ece4131fbec82ac7ff056838512143
+
+#EXTINF:-1 tvg-id="skycinemacollection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Sky;MPD",Sky Cinema Collection (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacollection)/master_2hr-aac.mpd&key_id=11155d8a1fe0b211137c206354e16d2a&key=7f07d0ef693893a84162d51c1c7259f3
+
+#EXTINF:-1 tvg-id="skycinemadrama.it" group-title="Sky;MPD",Sky Cinema Drama (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemadrama)/master_2hr-aac.mpd&key_id=11155ad807b90b9570fb8cce067f6166&key=74c4430ed8142190e52d4b303286696f
+
+#EXTINF:-1 tvg-id="skycinemasuspense.it" group-title="Sky;MPD",Sky Cinema Suspense (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemasuspense)/master_2hr-aac.mpd&key_id=1115d04562a1c328a84b2dab41244cba&key=5cf8c65d4177349308d7043384880659
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" group-title="Sky;MPD",Sky Cinema Romance (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemaromance)/master_2hr-aac.mpd&key_id=1115dbeea57d2fadedc278956bcbfb02&key=3eee23f97ae49a81c03356599a614fca
+
+#EXTINF:-1 tvg-id="skyuno.it" group-title="Sky;MPD",Sky Uno (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd&key_id=1115002b32ddb67077a31b31cc1b03c1&key=bc1a933a25b36aeed12a60f149157a3d
+
+#EXTINF:-1 tvg-id="skyserie.it" group-title="Sky;MPD",Sky Serie (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyserie)/master_2hr-aac.mpd&key_id=1115bf01aeadce32fcec6a220375a3fa&key=9df360a2a22411897cd8b1bc48c0afc0
+
+#EXTINF:-1 tvg-id="skyatlantic.it" group-title="Sky;MPD",Sky Atlantic (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyatlantic)/master_2hr-aac.mpd&key_id=1115f02862576b34b467ad4c54a09cfc&key=bac42e800a5c437b606e2af5b291c607
+
+#EXTINF:-1 tvg-id="skycrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-crime-it.png" group-title="Sky;MPD",Sky Crime (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycrime)/master_2hr-aac.mpd&key_id=1115aa47cfa18cf73cb6f936cff1f8ee&key=a27e7383d481596cc34334336d3e7219
+
+#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-investigation-it.png" group-title="Sky;MPD",Sky Investigation (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyinvestigation)/master_2hr-aac.mpd&key_id=11153dd8de63f9748252104afd6b7405&key=255e0c5bb81bde9602d8746080496e04
+
+#EXTINF:-1 tvg-id="skydocumentaries.it" group-title="Sky;MPD",Sky Documentaries (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skydocumentaries)/master_2hr-aac.mpd&key_id=111556afa3ac362bbf6d6237a0096793&key=b80627550521e85d0997e3447245f7ff
+
+#EXTINF:-1 tvg-id="skynature.it" group-title="Sky;MPD",Sky Nature (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skynature)/master_2hr-aac.mpd&key_id=111553a2ff74eff230c8bb72efc0504c&key=80ec2c7f64b97098f4f65a15d828ce6a
+
+#EXTINF:-1 tvg-id="history.it" group-title="Sky;MPD",History Channel (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(historychannel)/master_2hr-aac.mpd&key_id=11158db9a2522642c8da56416d94c6a3&key=edb6a56266dde53f013d170d46b0b265
+
+#EXTINF:-1 tvg-id="skyarte.it" group-title="Sky;MPD",Sky Arte (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyarte)/master_2hr-aac.mpd&key_id=11158d61157893c665c5ec942528d020&key=2d4b7343dd929afbbd61ef0aa37366d9
+
+#EXTINF:-1 tvg-id="mtv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mtv-it.png" group-title="Sky;MPD",MTV (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(mtv)/master_2hr-aac.mpd&key_id=111559b5e50a4be12901e456034285a3&key=2fedd4c9c3be1b7f90e86c7bc44131f8
+
+#EXTINF:-1 tvg-id="comedycentral.it" group-title="Sky;MPD",Comedy Central (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(comedycentral)/master_2hr-aac.mpd&key_id=11155778dc9b7dde1e396a9110f09208&key=c030cf978cbdc4a4c84fc68ab467942b
+
+#EXTINF:-1 tvg-id="dazn1.it" group-title="Sport;MPD",DAZN 1 (MPD)
+{PROXYMFPMPD}&d=https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-024/stream.mpd&key_id=8ab47741930c476780515f9a00decb0a&key=7ab4b9ae5a48aa526e511a913b832769
+
+#EXTINF:-1 tvg-id="skysport24.it" group-title="Sport;MPD",Sky Sport 24 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport24)/master_2hr-aac.mpd&key_id=11151447a65b31d6cb78dd022cb67e8d&key=1d6be453be1e607c133a28826d509a86
+
+#EXTINF:-1 tvg-id="skysportuno.it" group-title="Sport;MPD",Sky Sport Uno (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyuno)/master_2hr-aac.mpd&key_id=1115002b32ddb67077a31b31cc1b03c1&key=bc1a933a25b36aeed12a60f149157a3d
+
+#EXTINF:-1 tvg-id="skysportf1.it" group-title="Sport;MPD",Sky Sport F1 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd&key_id=11155522b79e825f8cdfd7967a31da4c&key=549190d194a655561f5099427a809812
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" group-title="Sport;MPD",Sky Sport Calcio (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd&key_id=11158d8e6031888c16efac25c601f64b&key=0f3bfab5a64037ac8711e58aac24a292
+
+#EXTINF:-1 tvg-id="skysporttennis.it" group-title="Sport;MPD",Sky Sport Tennis (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd&key_id=1115df8d6727807787e98c0ceae1ee6c&key=f4b9e52e3f31f1fa41850de4799ca4e3
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" group-title="Sport;MPD",Sky Sport MotoGP (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmotogp)/master_2hr-aac.mpd&key_id=11153aff5496be1a206a178ab3c1c078&key=806eb5923c951bd205257282de834740
+
+#EXTINF:-1 tvg-id="skysportarena.it" group-title="Sport;MPD",Sky Sport Arena (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportarena)/master_2hr-aac.mpd&key_id=1115f90a6831fa7ca058a30383cb0652&key=6c086c2a0a8de8c1f413e4128246abdd
+
+#EXTINF:-1 tvg-id="skysportmax.it" group-title="Sport;MPD",Sky Sport Max (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportmax)/master_2hr-aac.mpd&key_id=11155656191f1c60af13deb6a20f0354&key=95448b624c83d9a9719342cf1ab3e157
+
+#EXTINF:-1 tvg-id="skysportnba.it" group-title="Sport;MPD",Sky Sport NBA (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportnba)/master_2hr-aac.mpd&key_id=111509ad5d16918190d8ceb1afa3c2c2&key=5369df3ee38ad965da555846bfa61a37
+
+#EXTINF:-1 tvg-id="eurosport1.it" group-title="Sport;MPD",Eurosport 1 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(eurosport1)/master_2hr-aac.mpd&key_id=11158bc4ef31195cc0e9f93bcb99b8e0&key=1e3169483337e73d3d4646931197b062
+
+#EXTINF:-1 tvg-id="eurosport2.it" group-title="Sport;MPD",Eurosport 2 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyserie)/master_2hr-aac.mpd&key_id=1115bf01aeadce32fcec6a220375a3fa&key=9df360a2a22411897cd8b1bc48c0afc0
+
+#EXTINF:-1 tvg-id="skysport251.it" group-title="Sport;MPD",Sky Sport 251 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd&key_id=11151be3428480868250f38fd1b7f372&key=43c8bf86dc2f6cba8778e7cdff0496cd
+
+#EXTINF:-1 tvg-id="skysport253.it" group-title="Sport;MPD",Sky Sport 253 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport253)/master_2hr-aac.mpd&key_id=11151848f262b43a21d7a61bc958c6aa&key=400f5a392c6c5893643b8df74a0e1eec
+
+#EXTINF:-1 tvg-id="skysport252.it" group-title="Sport;MPD",Sky Sport 252 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport252)/master_2hr-aac.mpd&key_id=1115ef7a71a700a8a00d028fd70dc4be&key=8742adddc304a5e3aa5376879b02888c
+
+#EXTINF:-1 tvg-id="skysport255.it" group-title="Sport;MPD",Sky Sport 255 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport255)/master_2hr-aac.mpd&key_id=111545473a34f1fe05aae0e10700a7e3&key=fdee7c55cb25797ea9918644f3db4ef5
+
+#EXTINF:-1 tvg-id="skysport254.it" group-title="Sport;MPD",Sky Sport 254 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyinvestigation)/master_2hr-aac.mpd&key_id=11153dd8de63f9748252104afd6b7405&key=255e0c5bb81bde9602d8746080496e04
+
+#EXTINF:-1 tvg-id="skysport257.it" group-title="Sport;MPD",Sky Sport 257 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skydocumentaries)/master_2hr-aac.mpd&key_id=111556afa3ac362bbf6d6237a0096793&key=b80627550521e85d0997e3447245f7ff
+
+#EXTINF:-1 tvg-id="skysport256.it" group-title="Sport;MPD",Sky Sport 256 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycrime)/master_2hr-aac.mpd&key_id=1115aa47cfa18cf73cb6f936cff1f8ee&key=a27e7383d481596cc34334336d3e7219
+
+#EXTINF:-1 tvg-id="skysport259.it" group-title="Sport;MPD",Sky Sport 259 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(historychannel)/master_2hr-aac.mpd&key_id=11158db9a2522642c8da56416d94c6a3&key=edb6a56266dde53f013d170d46b0b265
+
+#EXTINF:-1 tvg-id="skysport258.it" group-title="Sport;MPD",Sky Sport 258 (MPD)
+{PROXYMFPMPD}&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skynature)/master_2hr-aac.mpd&key_id=111553a2ff74eff230c8bb72efc0504c&key=80ec2c7f64b97098f4f65a15d828ce6a

@@ -1127,7 +1127,7 @@ def prepare_247_channel_tasks(parsed_247_channels_list):
     dazn1_group = STATIC_CATEGORIES_247.get(dazn1_name.lower(), DEFAULT_247_GROUP)
     tasks.append((
         dazn1_id, dazn1_name, dazn1_original_name, dazn1_tvg_id, dazn1_name,
-        dazn1_logo, dazn1_group, f"{dazn1_name} (D)" # Changed suffix here
+        dazn1_logo, dazn1_group, f"{dazn1_name} (Dpz)" # Changed suffix here
     ))
     processed_247_ids_in_this_batch.add(dazn1_id)
     for ch_info in parsed_247_channels_list:
@@ -1140,7 +1140,7 @@ def prepare_247_channel_tasks(parsed_247_channels_list):
             group_title = STATIC_CATEGORIES_247.get(channel_name.lower().strip(), DEFAULT_247_GROUP)
             tasks.append((
                 channel_id, channel_name, original_channel_name, tvg_id, channel_name,
-                tvg_logo, group_title, f"{channel_name} (D)" # Changed suffix here
+                tvg_logo, group_title, f"{channel_name} (Dpz)" # Changed suffix here
             ))
             processed_247_ids_in_this_batch.add(channel_id)
         elif channel_id in processed_247_ids_in_this_batch:

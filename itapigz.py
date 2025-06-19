@@ -7,6 +7,7 @@ import os
 import datetime
 import pytz
 import requests
+import html # Aggiunto per l'unescaping dell'HTML
 from bs4 import BeautifulSoup
 import time
 import re
@@ -552,8 +553,31 @@ def _get_rbtv77_local_page_path(sport_key, event_name):
 def _parse_rbtv77_html_content(html_content, event_name, team1_norm, team2_norm, team1_original=None, team2_original=None):
     """Analizza l'HTML di rbtv77.com per trovare loghi corrispondenti."""
     print(f"[DEBUG_LOGO] _parse_rbtv77_html_content: Inizio parsing per evento: '{event_name}'. Team Originali: '{team1_original}' vs '{team2_original}'. Team Normalizzati: '{team1_norm}' vs '{team2_norm}'.")
-    soup = BeautifulSoup(html_content, 'html.parser')
-    event_containers = soup.find_all('div', class_='PefrsX')
+    # Stampa i primi 1000 caratteri dell'HTML ricevuto per il debug
+    print(f"[DEBUG_HTML_CONTENT] Primi 1000 caratteri di html_content prima dell'unescaping:\n{html_content[:1000]}\n")
+
+    processed_html_content = html_content
+    try:
+        # Tenta prima di decodificare gli escape unicode (es. \u003c)
+        if '\\u' in processed_html_content: # Controllo generico per escape unicode
+            import codecs
+            try:
+                processed_html_content = codecs.decode(processed_html_content, 'unicode_escape')
+                print("[DEBUG_HTML_CONTENT] Tentativo di unescape unicode effettuato con codecs.decode.")
+            except Exception as e_unicode:
+                print(f"[DEBUG_HTML_CONTENT] Errore durante unescape unicode con codecs: {e_unicode}. Provo con html.unescape.")
+                # Fallback a html.unescape se codecs.decode fallisce o non è il tipo giusto di escape
+                processed_html_content = html.unescape(html_content)
+        else:
+            # Se non ci sono probabili escape unicode, usa html.unescape per entità come &lt;, &amp;
+            processed_html_content = html.unescape(html_content)
+        print(f"[DEBUG_HTML_CONTENT] Primi 1000 caratteri di processed_html_content dopo l'unescaping:\n{processed_html_content[:1000]}\n")
+        soup = BeautifulSoup(processed_html_content, 'html.parser')
+    except Exception as e_bs_init:
+        print(f"[!] Errore durante la pre-elaborazione HTML o l'inizializzazione di BeautifulSoup: {e_bs_init}")
+        return None, None
+
+    event_containers = soup.find_all('div', class_='PefrsX') 
     print(f"[DEBUG_LOGO] _parse_rbtv77_html_content: Trovati {len(event_containers)} contenitori di eventi con classe 'PefrsX'.")
     for container in event_containers:
         team_divs = container.find('div', class_='_484Pxk')

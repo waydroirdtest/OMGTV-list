@@ -6,15 +6,13 @@ Si possono utilizzare due proxy, proxydd,tvproxy e mediaflow proxy
 per OMG consiglio Mediaflow, a breve uscirà una versione che consentirà di far partire anche i flussi HAT (H) e (Hd) e Thisnot (TN)
 
 **Link ai proxy**
-https://github.com/ciccioxm3/proxydd 
-https://github.com/nzo66/tvproxy
-seguire le info di installazione nel readme
 
 https://github.com/mhdzumair/mediaflow-proxy
 
+Pigzilla
 
-questo invece serve per i link mpd, va installato senza API_PASSWORD!
-https://github.com/aleZZ2001/mediaflow-proxy
+https://github.com/ciccioxm3/Pigzdd
+
 
 per far girare anche i link HAT andarà installata una versione diversa di Mediaflow, quando sarà disponibile aggiornerò il readme
 

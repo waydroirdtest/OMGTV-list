@@ -606,35 +606,44 @@ def _parse_rbtv77_html_content(html_content, event_name, team1_norm, team2_norm,
     return None, None
 
 def _scrape_rbtv77(event_name, sport_key, team1_original, team2_original, team1_norm, team2_norm, cache_key):
-    """Legge un file HTML locale di RBTv77 e cerca i loghi."""
-    local_html_path = _get_rbtv77_local_page_path(sport_key, event_name)
-    print(f"[DEBUG_LOGO] _scrape_rbtv77: Tentativo di scraping RBTv77 per '{event_name}', sport '{sport_key}'. Percorso HTML locale: '{local_html_path}'")
-    if not local_html_path or not os.path.exists(local_html_path):
+    """Recupera e analizza una pagina HTML remota di RBTv77 e cerca i loghi."""
+    remote_html_url = _get_rbtv77_remote_html_url(sport_key, event_name)
+    print(f"[DEBUG_LOGO] _scrape_rbtv77: Tentativo di scraping RBTv77 per '{event_name}', sport '{sport_key}'. URL HTML remoto: '{remote_html_url}'")
+
+    if not remote_html_url:
+        print(f"[DEBUG_LOGO] _scrape_rbtv77: Nessun URL HTML remoto eterminato per sport '{sport_key}' ed evento '{event_name}'.")
         return None
     try:
-        with open(local_html_path, 'r', encoding='utf-8') as f:
-            html_content = f.read()
-        logo1_src_url, logo2_src_url = _parse_rbtv77_html_content(
-            html_content, event_name,
-            team1_norm, team2_norm,
-            team1_original, team2_original)
-        local_logo_path = None
-        print(f"[DEBUG_LOGO] _scrape_rbtv77: Risultati parsing RBTv77 per '{event_name}': logo1='{logo1_src_url}', logo2='{logo2_src_url}'")
-        if logo1_src_url and logo2_src_url and team1_original and team2_original:
-            print(f"[DEBUG_LOGO] _scrape_rbtv77: Trovato coppia loghi da RBTv77 per {team1_original} vs {team2_original}. Creazione logo combinato.")
-            local_logo_path = create_logo_from_urls(team1_original, team2_original, logo1_src_url, logo2_src_url)
-        elif logo1_src_url:
-            print(f"[DEBUG_LOGO] _scrape_rbtv77: URL logo singolo trovato nel file locale RBTv77 per {event_name}: {logo1_src_url}")
-            single_logo_name_base = team1_original if team1_original else event_name
-            local_logo_path = create_logo_from_urls(None, None, logo1_src_url, None, event_name_for_single_logo=single_logo_name_base)
-        if local_logo_path:
-            github_logo_url = get_github_logo_url(local_logo_path)
-            print(f"[DEBUG_LOGO] _scrape_rbtv77: Logo creato/trovato da RBTv77 per '{event_name}'. URL GitHub: {github_logo_url}")
-            if github_logo_url and cache_key: LOGO_CACHE[cache_key] = github_logo_url
-            elif github_logo_url: LOGO_CACHE[event_name] = github_logo_url
-            return github_logo_url
+        response = requests.get(remote_html_url, headers=headers, timeout=HTTP_REQUEST_TIMEOUT)
+        response.raise_for_status() # Solleva un'eccezione per status codes 4xx/5xx
+        html_content = response.text
+
+        if html_content:
+            logo1_src_url, logo2_src_url = _parse_rbtv77_html_content(
+                html_content, event_name,
+                team1_norm, team2_norm,
+                team1_original, team2_original)
+            local_logo_path = None # Percorso locale dove il logo combinato/singolo viene salvato
+            print(f"[DEBUG_LOGO] _scrape_rbtv77: Risultati parsing RBTv77 per '{event_name}': logo1='{logo1_src_url}', logo2='{logo2_src_url}'")
+            if logo1_src_url and logo2_src_url and team1_original and team2_original:
+                print(f"[DEBUG_LOGO] _scrape_rbtv77: Trovato coppia loghi da RBTv77 per {team1_original} vs {team2_original}. Creazione logo combinato.")
+                local_logo_path = create_logo_from_urls(team1_original, team2_original, logo1_src_url, logo2_src_url)
+            elif logo1_src_url:
+                print(f"[DEBUG_LOGO] _scrape_rbtv77: URL logo singolo trovato da RBTv77 per {event_name}: {logo1_src_url}")
+                single_logo_name_base = team1_original if team1_original else event_name
+                local_logo_path = create_logo_from_urls(None, None, logo1_src_url, None, event_name_for_single_logo=single_logo_name_base)
+            if local_logo_path:
+                github_logo_url = get_github_logo_url(local_logo_path)
+                print(f"[DEBUG_LOGO] _scrape_rbtv77: Logo creato/trovato da RBTv77 per '{event_name}'. URL GitHub: {github_logo_url}")
+                if github_logo_url and cache_key: LOGO_CACHE[cache_key] = github_logo_url
+                elif github_logo_url: LOGO_CACHE[event_name] = github_logo_url
+                return github_logo_url
+        else:
+            print(f"[DEBUG_LOGO] _scrape_rbtv77: Contenuto HTML vuoto da {remote_html_url}")
+    except requests.exceptions.RequestException as e_req:
+        print(f"Errore durante il download del file HTML remoto {remote_html_url}: {e_req}")
     except Exception as e:
-        print(f"Errore durante l'elaborazione del file locale RBTv77 {local_html_path}: {e}")
+        print(f"Errore durante l'elaborazione del contenuto HTML da {remote_html_url}: {e}")
     return None
 
 def normalize_team_name(team_name):
@@ -1127,7 +1136,7 @@ def prepare_247_channel_tasks(parsed_247_channels_list):
     dazn1_group = STATIC_CATEGORIES_247.get(dazn1_name.lower(), DEFAULT_247_GROUP)
     tasks.append((
         dazn1_id, dazn1_name, dazn1_original_name, dazn1_tvg_id, dazn1_name,
-        dazn1_logo, dazn1_group, f"{dazn1_name} (Dpz)" # Changed suffix here
+        dazn1_logo, dazn1_group, f"{dazn1_name} (D)" # Changed suffix here
     ))
     processed_247_ids_in_this_batch.add(dazn1_id)
     for ch_info in parsed_247_channels_list:
@@ -1140,7 +1149,7 @@ def prepare_247_channel_tasks(parsed_247_channels_list):
             group_title = STATIC_CATEGORIES_247.get(channel_name.lower().strip(), DEFAULT_247_GROUP)
             tasks.append((
                 channel_id, channel_name, original_channel_name, tvg_id, channel_name,
-                tvg_logo, group_title, f"{channel_name} (Dpz)" # Changed suffix here
+                tvg_logo, group_title, f"{channel_name} (D)" # Changed suffix here
             ))
             processed_247_ids_in_this_batch.add(channel_id)
         elif channel_id in processed_247_ids_in_this_batch:

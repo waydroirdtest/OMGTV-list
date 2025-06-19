@@ -28,7 +28,7 @@ DADDY = os.getenv("DADDY")
 
 RBT_PAGES_DIR_ITALOG = "download" # Directory dove italog si aspetta di trovare le pagine HTML
 # Dovrai impostare questo URL all'effettivo percorso raw della tua cartella 'download' su Git
-RBT_GIT_HTML_BASE_URL = os.getenv("RBT_GIT_HTML_BASE_URL", "https://github.com/ciccioxm3/OMGTV/tree/main/download/") # Esempio, da configurare
+RBT_GIT_HTML_BASE_URL = os.getenv("RBT_GIT_HTML_BASE_URL", "https://raw.githubusercontent.com/ciccioxm3/OMGTV/main/download/") # Esempio, da configurare
 RBT_SPORT_PATHS = {
     "calcio": "/football.html",
     "soccer": "/football.html",
@@ -480,6 +480,46 @@ def search_team_logo(team_name):
     except Exception as e:
         print(f"[!] Errore nella ricerca del logo per '{team_name}': {e}")
     return None
+
+def download_rbtv77_html_files(base_git_url, sport_paths_dict, local_dir):
+    """
+    Downloads RBTv77 HTML files from a raw Git URL to a local directory.
+    Overwrites existing files.
+    """
+    if not base_git_url or base_git_url == "https://raw.githubusercontent.com/tuo_utente/tuo_repo/main/download/":
+         print("[AVVISO_LOGO] RBT_GIT_HTML_BASE_URL non configurato correttamente. Salto il download dei file RBTv77.")
+         return
+
+    print(f"\nDownloading RBTv77 HTML files from {base_git_url} to {local_dir}...")
+    os.makedirs(local_dir, exist_ok=True) # Ensure local directory exists
+
+    # Ensure base_git_url ends with a slash
+    base_git_url = base_git_url if base_git_url.endswith('/') else base_git_url + '/'
+
+    download_count = 0
+    for sport_key, path_segment in sport_paths_dict.items():
+        # Construct the remote filename based on the path segment
+        filename = f"rbtv77_{path_segment.strip('/').replace('.html', '').replace('/', '_')}.html"
+        remote_url = f"{base_git_url}{filename}"
+        local_path = os.path.join(local_dir, filename)
+
+        try:
+            print(f"  Downloading {remote_url}...")
+            time.sleep(0.5) # Add a small delay to avoid hitting rate limits
+            response = requests.get(remote_url, headers=headers, timeout=HTTP_REQUEST_TIMEOUT)
+            response.raise_for_status() # Raise an exception for bad status codes (4xx or 5xx)
+
+            with open(local_path, 'w', encoding='utf-8') as f:
+                f.write(response.text)
+            print(f"  Successfully downloaded and saved {filename}")
+            download_count += 1
+
+        except requests.exceptions.RequestException as e_req:
+            print(f"  Error downloading {remote_url}: {e_req}")
+        except Exception as e_gen:
+            print(f"  Generic error saving {local_path}: {e_gen}")
+
+    print(f"Finished downloading RBTv77 HTML files. Downloaded {download_count} files.")
 
 def _get_rbtv77_remote_html_url(sport_key, event_name):
     """Determina l'URL remoto del file HTML di rbtv77.com per lo sport specificato, ospitato su Git."""
@@ -1587,6 +1627,8 @@ def generate_m3u_playlist():
 
 def main():
     # Process events and generate M3U8
+    download_rbtv77_html_files(RBT_GIT_HTML_BASE_URL, RBT_SPORT_PATHS, RBT_PAGES_DIR_ITALOG)
+
     total_processed_channels = generate_m3u_playlist()
 
     # Verify if any valid channels were created

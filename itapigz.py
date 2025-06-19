@@ -521,11 +521,11 @@ def download_rbtv77_html_files(base_git_url, sport_paths_dict, local_dir):
 
     print(f"Finished downloading RBTv77 HTML files. Downloaded {download_count} files.")
 
-def _get_rbtv77_remote_html_url(sport_key, event_name):
-    """Determina l'URL remoto del file HTML di rbtv77.com per lo sport specificato, ospitato su Git."""
-    if not RBT_GIT_HTML_BASE_URL or RBT_GIT_HTML_BASE_URL == "https://raw.githubusercontent.com/tuo_utente/tuo_repo/main/download/":
-        print("[AVVISO_LOGO] RBT_GIT_HTML_BASE_URL non configurato o è l'URL di esempio. La ricerca loghi RBTv77 potrebbe non funzionare.")
-        # Potresti voler restituire None qui o permettere che la richiesta fallisca più avanti
+def _get_rbtv77_local_page_path(sport_key, event_name):
+    """Determina il percorso del file HTML locale di rbtv77.com per lo sport specificato,
+    assumendo che sia stato scaricato in RBT_PAGES_DIR_ITALOG."""
+    # Questa funzione ora costruisce un percorso locale, non un URL remoto.
+    # RBT_GIT_HTML_BASE_URL non è più usato qui.
 
     normalized_sport_key = sport_key.lower()
     filename_base = None
@@ -544,16 +544,16 @@ def _get_rbtv77_remote_html_url(sport_key, event_name):
                     filename_base = path_segment.strip('/').replace('.html', '').replace('/', '_')
                     break
     if filename_base:
-        # Assicura che RBT_GIT_HTML_BASE_URL termini con una slash
-        base_git_url = RBT_GIT_HTML_BASE_URL if RBT_GIT_HTML_BASE_URL.endswith('/') else RBT_GIT_HTML_BASE_URL + '/'
-        return f"{base_git_url}rbtv77_{filename_base}.html"
+
+        return os.path.join(RBT_PAGES_DIR_ITALOG, f"rbtv77_{filename_base}.html")
+
     return None # Nessun file HTML corrispondente trovato
 
 def _parse_rbtv77_html_content(html_content, event_name, team1_norm, team2_norm, team1_original=None, team2_original=None):
     """Analizza l'HTML di rbtv77.com per trovare loghi corrispondenti."""
     print(f"[DEBUG_LOGO] _parse_rbtv77_html_content: Inizio parsing per evento: '{event_name}'. Team Originali: '{team1_original}' vs '{team2_original}'. Team Normalizzati: '{team1_norm}' vs '{team2_norm}'.")
     soup = BeautifulSoup(html_content, 'html.parser')
-    event_containers = soup.find_all('div', class_='PefrsX') 
+    event_containers = soup.find_all('div', class_='PefrsX')
     print(f"[DEBUG_LOGO] _parse_rbtv77_html_content: Trovati {len(event_containers)} contenitori di eventi con classe 'PefrsX'.")
     for container in event_containers:
         team_divs = container.find('div', class_='_484Pxk')
@@ -566,7 +566,7 @@ def _parse_rbtv77_html_content(html_content, event_name, team1_norm, team2_norm,
             name = name_span.text.strip() if name_span else ""
             logo_img = side_div.find('img', class_='r-logo')
             logo_url = logo_img['origin-src'] if logo_img and logo_img.get('origin-src') else \
-                       (logo_img['src'] if logo_img and logo_img.get('src') else None)
+                       (logo_img['src'] if logo_img and logo_img.get('src') else None) # Changed from logo_img.src to logo_img.get('src')
             print(f"[DEBUG_LOGO] _parse_rbtv77_html_content: Estratto lato: Nome='{name}', Logo URL='{logo_url}'")
             return name.lower(), logo_url
         name_a, logo_a_url = extract_side_data(side_a_div)
@@ -597,7 +597,7 @@ def _parse_rbtv77_html_content(html_content, event_name, team1_norm, team2_norm,
             team1_search_terms = list(set(term for term in team1_search_terms if term))
 
             team2_search_terms = get_search_terms(team2_original, team2_norm)
-            team2_search_terms = list(set(term for term in team2_search_terms if term)) 
+            team2_search_terms = list(set(term for term in team2_search_terms if term))
 
             print(f"[DEBUG_LOGO] _parse_rbtv77_html_content: Termini di ricerca per Team1 ({team1_original if team1_original else team1_norm}): {team1_search_terms}")
             print(f"[DEBUG_LOGO] _parse_rbtv77_html_content: Termini di ricerca per Team2 ({team2_original if team2_original else team2_norm}): {team2_search_terms}")
@@ -646,19 +646,20 @@ def _parse_rbtv77_html_content(html_content, event_name, team1_norm, team2_norm,
     return None, None
 
 def _scrape_rbtv77(event_name, sport_key, team1_original, team2_original, team1_norm, team2_norm, cache_key):
-    """Recupera e analizza una pagina HTML remota di RBTv77 e cerca i loghi."""
-    remote_html_url = _get_rbtv77_remote_html_url(sport_key, event_name)
-    print(f"[DEBUG_LOGO] _scrape_rbtv77: Tentativo di scraping RBTv77 per '{event_name}', sport '{sport_key}'. URL HTML remoto: '{remote_html_url}'")
+    """Legge un file HTML locale di RBTv77 (precedentemente scaricato) e cerca i loghi."""
+    local_html_path = _get_rbtv77_local_page_path(sport_key, event_name)
+    print(f"[DEBUG_LOGO] _scrape_rbtv77: Tentativo di scraping RBTv77 per '{event_name}', sport '{sport_key}'. Percorso HTML locale: '{local_html_path}'")
 
-    if not remote_html_url:
-        print(f"[DEBUG_LOGO] _scrape_rbtv77: Nessun URL HTML remoto eterminato per sport '{sport_key}' ed evento '{event_name}'.")
+    if not local_html_path:
+        print(f"[DEBUG_LOGO] _scrape_rbtv77: Nessun percorso HTML locale determinato per sport '{sport_key}' ed evento '{event_name}'.")
+        return None
+
+    if not os.path.exists(local_html_path):
+        print(f"[DEBUG_LOGO] _scrape_rbtv77: File HTML locale RBTv77 non trovato: '{local_html_path}'")
         return None
     try:
-        response = requests.get(remote_html_url, headers=headers, timeout=HTTP_REQUEST_TIMEOUT)
-        response.raise_for_status() # Solleva un'eccezione per status codes 4xx/5xx
-        html_content = response.text
-
-        if html_content:
+        with open(local_html_path, 'r', encoding='utf-8') as f:
+            html_content = f.read()
             logo1_src_url, logo2_src_url = _parse_rbtv77_html_content(
                 html_content, event_name,
                 team1_norm, team2_norm,
@@ -669,7 +670,7 @@ def _scrape_rbtv77(event_name, sport_key, team1_original, team2_original, team1_
                 print(f"[DEBUG_LOGO] _scrape_rbtv77: Trovato coppia loghi da RBTv77 per {team1_original} vs {team2_original}. Creazione logo combinato.")
                 local_logo_path = create_logo_from_urls(team1_original, team2_original, logo1_src_url, logo2_src_url)
             elif logo1_src_url:
-                print(f"[DEBUG_LOGO] _scrape_rbtv77: URL logo singolo trovato da RBTv77 per {event_name}: {logo1_src_url}")
+                print(f"[DEBUG_LOGO] _scrape_rbtv77: URL logo singolo trovato nel file locale RBTv77 per {event_name}: {logo1_src_url}")
                 single_logo_name_base = team1_original if team1_original else event_name
                 local_logo_path = create_logo_from_urls(None, None, logo1_src_url, None, event_name_for_single_logo=single_logo_name_base)
             if local_logo_path:
@@ -678,12 +679,9 @@ def _scrape_rbtv77(event_name, sport_key, team1_original, team2_original, team1_
                 if github_logo_url and cache_key: LOGO_CACHE[cache_key] = github_logo_url
                 elif github_logo_url: LOGO_CACHE[event_name] = github_logo_url
                 return github_logo_url
-        else:
-            print(f"[DEBUG_LOGO] _scrape_rbtv77: Contenuto HTML vuoto da {remote_html_url}")
-    except requests.exceptions.RequestException as e_req:
-        print(f"Errore durante il download del file HTML remoto {remote_html_url}: {e_req}")
+
     except Exception as e:
-        print(f"Errore durante l'elaborazione del contenuto HTML da {remote_html_url}: {e}")
+        print(f"Errore durante l'elaborazione del file locale RBTv77 {local_html_path}: {e}")
     return None
 
 def normalize_team_name(team_name):

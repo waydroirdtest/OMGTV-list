@@ -317,7 +317,7 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 #EXTINF:-1 tvg-id="CONCACAF Gold Cup - Saudi Arabia vs USA" tvg-name="03:15 CONCACAF Gold Cup : Saudi Arabia vs USA - 19/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-143.php
 
-#EXTINF:-1 tvg-id="Colombia Primera A - 6 - 45am - Once Caldas vs Atlético Nacional" tvg-name="03:15 Colombia Primera A - 6:45am - Once Caldas vs Atlético Nacional - 19/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol
+#EXTINF:-1 tvg-id="Colombia Primera A - Once Caldas vs Atlético Nacional" tvg-name="03:15 Colombia Primera A : Once Caldas vs Atlético Nacional - 19/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-392.php
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Lehecka J. vs Diallo G." tvg-name="13:00 ATP - LONDON : Lehecka J. vs Diallo G. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -1229,6 +1229,60 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 #EXTINF:-1 tvg-id="Peru - Primera Division - Universitario vs ADT" tvg-name="04:00 Peru - Primera Division : Universitario vs ADT - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOLTV USA
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-597.php
 
+#EXTINF:-1 tvg-id="ATP - LONDON - Lehecka J. vs Fearnley J." tvg-name="13:00 ATP - LONDON : Lehecka J. vs Fearnley J. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - London", Tennis Stream 7
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - LONDON - Nakashima B. vs Draper J." tvg-name="14:30 ATP - LONDON : Nakashima B. vs Draper J. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - London", Tennis Stream 7
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Rinderknech A." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Rinderknech A. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - London", Tennis Stream 7
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - LONDON - Rune H. vs Bautista-Agut R." tvg-name="17:30 ATP - LONDON : Rune H. vs Bautista-Agut R. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - London", Tennis Stream 7
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - HALLE - Michelsen A. vs Medvedev D." tvg-name="11:30 ATP - HALLE : Michelsen A. vs Medvedev D. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - HALLE - Cobolli F. vs Zverev A." tvg-name="13:00 ATP - HALLE : Cobolli F. vs Zverev A. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - HALLE - Bublik A. vs Machac T." tvg-name="15:00 ATP - HALLE : Bublik A. vs Machac T. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - HALLE - Doumbia S./Reboul F. vs Cabral F./Miedler L." tvg-name="15:00 ATP - HALLE : Doumbia S./Reboul F. vs Cabral F./Miedler L. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Halle", Tennis Stream 11
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - HALLE - Etcheverry T. M. vs Khachanov K." tvg-name="16:30 ATP - HALLE : Etcheverry T. M. vs Khachanov K. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="WTA - BERLIN - Jabeur O. vs Vondrousova M." tvg-name="11:30 WTA - BERLIN : Jabeur O. vs Vondrousova M. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Berlin", Tennis Stream 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - BERLIN - Mihalikova T./Nicholls O. vs Kichenok L./Routliffe E." tvg-name="11:30 WTA - BERLIN : Mihalikova T./Nicholls O. vs Kichenok L./Routliffe E. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Berlin", Tennis Stream 2
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - BERLIN - Badosa P. vs Wang Xin." tvg-name="13:00 WTA - BERLIN : Badosa P. vs Wang Xin. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Berlin", Tennis Stream 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - BERLIN - Sabalenka A. vs Rybakina E." tvg-name="16:00 WTA - BERLIN : Sabalenka A. vs Rybakina E. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Berlin", Tennis Stream 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - BERLIN - Anisimova A. vs Samsonova L." tvg-name="17:30 WTA - BERLIN : Anisimova A. vs Samsonova L. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Berlin", Tennis Stream 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Fernandez L. vs Yastremska D." tvg-name="12:00 WTA - NOTTINGHAM : Fernandez L. vs Yastremska D. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Linette M. vs Tauson C." tvg-name="13:30 WTA - NOTTINGHAM : Linette M. vs Tauson C. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Kessler M. vs Boulter K." tvg-name="15:00 WTA - NOTTINGHAM : Kessler M. vs Boulter K. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Sramkova R. vs Noskova L." tvg-name="16:30 WTA - NOTTINGHAM : Sramkova R. vs Noskova L. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1504.php
+
 #EXTINF:-1 tvg-id="Live Halle-ATP, London-ATP, Berlin-WTA & Nottingham-WTA Quarterfinals - Live Halle-ATP, London-ATP, Berlin-WTA & Nottingham-WTA Quarterfinals" tvg-name="11:30 Live Halle-ATP, London-ATP, Berlin-WTA & Nottingham-WTA Quarterfinals - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC One UK
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-356.php
 
@@ -1721,6 +1775,24 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 #EXTINF:-1 tvg-id="PFL World Tournament 5 - Semi-Finals : Gadzhi Rabadanov vs Kevin Lee" tvg-name="23:00 PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", SporTV3 Brasil
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-80.php
 
+#EXTINF:-1 tvg-id="PFL World Tournament 5 - Semi-Finals : Gadzhi Rabadanov vs Kevin Lee" tvg-name="02:00 PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", ESPN+ USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="PFL World Tournament 5 - Semi-Finals : Gadzhi Rabadanov vs Kevin Lee" tvg-name="02:00 PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", ESPN USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="PFL World Tournament 5 - Semi-Finals : Gadzhi Rabadanov vs Kevin Lee" tvg-name="02:00 PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", ESPN Deportes
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="PFL World Tournament 5 - Semi-Finals : Gadzhi Rabadanov vs Kevin Lee" tvg-name="03:10 PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", ESPN+ USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="PFL World Tournament 5 - Semi-Finals : Gadzhi Rabadanov vs Kevin Lee" tvg-name="03:10 PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", ESPN USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="PFL World Tournament 5 - Semi-Finals : Gadzhi Rabadanov vs Kevin Lee" tvg-name="03:10 PFL World Tournament 5: Semi-Finals : Gadzhi Rabadanov vs Kevin Lee - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", ESPN Deportes
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-375.php
+
 #EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Netflix PPV
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-22.php
 
@@ -1901,17 +1973,20 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 #EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Dallas Wings W" tvg-name="01:30 WNBA : Connecticut Sun W vs Dallas Wings W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ION USA
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-325.php
 
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics vs Atlanta Dream" tvg-name="01:30 WNBA : Washington Mystics vs Atlanta Dream - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Atlanta Dream W" tvg-name="01:30 WNBA : Washington Mystics W vs Atlanta Dream W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-69.php
 
 #EXTINF:-1 tvg-id="NBL - Taranaki Mountainairs vs Franklin Bulls" tvg-name="05:30 NBL : Taranaki Mountainairs vs Franklin Bulls - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sky Sport 3 NZ
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-590.php
 
-#EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Las Vegas Aces" tvg-name="04:00 WNBA : Seattle Storm vs Las Vegas Aces - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Seattle Storm W vs Las Vegas Aces W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-77.php
 
-#EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Las Vegas Aces" tvg-name="04:00 WNBA : Seattle Storm vs Las Vegas Aces - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ION USA
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Seattle Storm W vs Las Vegas Aces W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ION USA
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-325.php
+
+#EXTINF:-1 tvg-id="CEBL Basketball - Winnipeg Sea Bears vs Vancouver Bandits" tvg-name="04:00 CEBL Basketball : Winnipeg Sea Bears vs Vancouver Bandits - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NLSE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-15.php
 
 #EXTINF:-1 tvg-id="Russia Superliga - Ukhta vs Gazprom-Ugra Yugorsk" tvg-name="19:30 Russia Superliga : Ukhta vs Gazprom-Ugra Yugorsk - 20/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Match TV Russia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-127.php

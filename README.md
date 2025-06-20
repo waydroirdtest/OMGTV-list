@@ -62,43 +62,15 @@ Dopo aver modificato e committato gli script sul tuo repository GitHub:
 
    
 ### Esecuzione dei Workflow (solo la prima volta, poi va in automatico)
-### RINOMINA FILEmpd.m3u8 in mpd.m3u8 
 Torna alla sezione Actions . 
 
-Esegui i workflow nel seguente ordine:
+Esegui il workflow nel seguente ordine:
 
-1. 🚀 1 Update 24 7 :
+1. 🚀 1 unified :
    - Clicca sul nome del workflow.
    - Sulla destra, clicca su "Run workflow".
    - Conferma cliccando sul pulsante verde "Run workflow".
-2. 🚀 2 Update hat :
-   - Clicca sul nome del workflow.
-   - Sulla destra, clicca su "Run workflow".
-   - Conferma cliccando sul pulsante verde "Run workflow".
-3. 🚀 3 Update skystreaming :
-   - Clicca sul nome del workflow.
-   - Sulla destra, clicca su "Run workflow".
-   - Conferma cliccando sul pulsante verde "Run workflow".
-4. 🚀 3.5 Update thisnot :
-   - Clicca sul nome del workflow.
-   - Sulla destra, clicca su "Run workflow".
-   - Conferma cliccando sul pulsante verde "Run workflow".
-5. 🚀 4 Update SportZone Scraper :
-   - Clicca sul nome del workflow.
-   - Sulla destra, clicca su "Run workflow".
-   - Conferma cliccando sul pulsante verde "Run workflow".
-3. 🚀 5 Update SportStreaming Scraper :
-   - Clicca sul nome del workflow.
-   - Sulla destra, clicca su "Run workflow".
-   - Conferma cliccando sul pulsante verde "Run workflow".
-6. 🚀 6 Update top1 Scraper :
-   - Clicca sul nome del workflow.
-   - Sulla destra, clicca su "Run workflow".
-   - Conferma cliccando sul pulsante verde "Run workflow".
-7. 🚀 7 Update itaEvents :
-   - Clicca sul nome del workflow.
-   - Sulla destra, clicca su "Run workflow".
-   - Conferma cliccando sul pulsante verde "Run workflow".
+
 8. ⏳ ATTENDI IL COMPLETAMENTO del workflow precedente (deve apparire una spunta verde ✅).
 
      

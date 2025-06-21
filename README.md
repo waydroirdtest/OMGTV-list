@@ -11,7 +11,7 @@ https://github.com/mhdzumair/mediaflow-proxy
 
 Pigzilla
 
-https://github.com/ciccioxm3/Pigzdd
+https://github.com/MarkMCFC/tfms.xyz
 
 
 per far girare anche i link HAT andarà installata una versione diversa di Mediaflow, quando sarà disponibile aggiornerò il readme

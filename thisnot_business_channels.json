@@ -5,7 +5,7 @@
       "category": "CALCIO",
       "title": "SERIE B PLAYOUT - ITALIA",
       "date": "DOMENICA 22 GIUGNO (RITORNO)",
-      "event": "18:00 Juventus - Wydad Casablanca",
+      "event": "21:00 Atletico Madrid - Botafogo",
       "channel": "Mediaset",
       "language": "br",
       "url": "https://thisnot.business/player.php?id=Italia1_IT"
@@ -21,6 +21,18 @@
       "channel": "Ziggo",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
+    }
+  },
+  "https://thisnot.business/player.php?id=ITA_SportMotoGP": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9",
+    "info": {
+      "category": "MOTOMONDIALE",
+      "title": "GP MUGELLO - ITALIA",
+      "date": "DOMENICA 22 GIUGNO",
+      "event": "14:00 MotoGP - Gara",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=ITA_SportMotoGP"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP4": {

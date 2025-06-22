@@ -1,20 +1,28 @@
 Report Estrazione Link da thisnot.business
 ===========================================
 
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='00:00 Fluminense - Ulsan', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 River Plate - Monterrey', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
 Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
   Dettagli: Categoria='CALCIO', Evento='18:00 Juventus - Wydad Casablanca', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Pachuca', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='00:00 Salzburg - Al Hilal', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='03:00 Manchester City - Al Ain', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
+  Dettagli: Categoria='CALCIO', Evento='21:00 Atletico Madrid - Botafogo', Canale='Mediaset'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='21:00 Seattle Sounders FC - PSG', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP1
@@ -29,20 +37,28 @@ Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:30 Salernitana v Sampdoria', Canale='Dazn'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='00:00 Fluminense - Ulsan', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 River Plate - Monterrey', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
 Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
   Dettagli: Categoria='CALCIO', Evento='18:00 Juventus - Wydad Casablanca', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Pachuca', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='00:00 Salzburg - Al Hilal', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='03:00 Manchester City - Al Ain', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
+  Dettagli: Categoria='CALCIO', Evento='21:00 Atletico Madrid - Botafogo', Canale='Mediaset'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='21:00 Seattle Sounders FC - PSG', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP1
@@ -57,20 +73,28 @@ Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:30 Salernitana v Sampdoria', Canale='Dazn'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='00:00 Fluminense - Ulsan', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 River Plate - Monterrey', Canale='SporTV'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
-
 Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
   Dettagli: Categoria='CALCIO', Evento='18:00 Juventus - Wydad Casablanca', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
   Dettagli: Categoria='CALCIO', Evento='21:00 Real Madrid - Pachuca', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='00:00 Salzburg - Al Hilal', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='03:00 Manchester City - Al Ain', Canale='SporTV'
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
+  Dettagli: Categoria='CALCIO', Evento='21:00 Atletico Madrid - Botafogo', Canale='Mediaset'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
+
+Pagina Evento: https://thisnot.business/player.php?id=SporTV1_BR
+  Dettagli: Categoria='CALCIO', Evento='21:00 Seattle Sounders FC - PSG', Canale='SporTV'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP1
@@ -84,6 +108,14 @@ Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP1
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='20:30 Salernitana v Sampdoria', Canale='Dazn'
   Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+
+Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
+  Dettagli: Categoria='MOTOMONDIALE', Evento='12:15 Moto2 - Gara', Canale='Sky Sport'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
+
+Pagina Evento: https://thisnot.business/player.php?id=ITA_SportMotoGP
+  Dettagli: Categoria='MOTOMONDIALE', Evento='14:00 MotoGP - Gara', Canale='Sky Sport'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 Pagina Evento: https://thisnot.business/player.php?id=ITA_SportUno
   Dettagli: Categoria='BASKET NBA', Evento='02:00 Oklahoma City Thunder v Indiana Pacers', Canale='Sky Sport Uno'

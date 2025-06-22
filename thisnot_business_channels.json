@@ -1,40 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=SAT1": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4",
-    "info": {
-      "category": "CALCIO",
-      "title": "SERIE B PLAYOUT - ITALIA",
-      "date": "DOMENICA 22 GIUGNO (RITORNO)",
-      "event": "18:00 Mamelodi Sundowns - Borussia Dortmund",
-      "channel": "SAT.1",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=SAT1"
-    }
-  },
-  "https://thisnot.business/player.php?id=Canale5_IT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "SERIE B PLAYOUT - ITALIA",
-      "date": "DOMENICA 22 GIUGNO (RITORNO)",
-      "event": "21:00 Inter - Urawa Reds",
-      "channel": "Mediaset",
-      "language": "de",
-      "url": "https://thisnot.business/player.php?id=Canale5_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=CazeTV_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abc3orwaaaaaaaampb5zelh6d3hy6.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd&key_id=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4",
-    "info": {
-      "category": "CALCIO",
-      "title": "SERIE B PLAYOUT - ITALIA",
-      "date": "DOMENICA 22 GIUGNO (RITORNO)",
-      "event": "21:00 Inter - Urawa Reds",
-      "channel": "CazeTV",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=CazeTV_BR"
-    }
-  },
   "https://thisnot.business/player.php?id=Italia1_IT": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
     "info": {
@@ -89,9 +53,9 @@
       "category": "TENNIS",
       "title": "ATP/WTA INTERNAZIONALI",
       "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
-      "event": "16:10 Bublik v Khachanov",
+      "event": "15:00 Bublik v Medvedev",
       "channel": "Sky Sport",
-      "language": "it",
+      "language": "nl",
       "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
     }
   },
@@ -101,22 +65,10 @@
       "category": "TENNIS",
       "title": "ATP/WTA INTERNAZIONALI",
       "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
-      "event": "15:30 Alcaraz v Bautista",
+      "event": "15:00 Alcaraz v Lehecka",
       "channel": "Sky Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=ITA_SportArena"
-    }
-  },
-  "https://thisnot.business/player.php?id=ITA_SportMotoGP": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9",
-    "info": {
-      "category": "MOTOMONDIALE",
-      "title": "GP MUGELLO - ITALIA",
-      "date": "SABATO 21 GIUGNO",
-      "event": "14:00 MotoGP - Gara",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=ITA_SportMotoGP"
     }
   },
   "https://thisnot.business/player.php?id=Sportitalia": {

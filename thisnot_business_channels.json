@@ -3,12 +3,24 @@
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "SERIE B PLAYOUT - ITALIA",
-      "date": "DOMENICA 22 GIUGNO (RITORNO)",
+      "title": "CAMPIONATO EUROPEO U.21, QUARTI - SLOVACCHIA",
+      "date": "DOMENICA 22 GIUGNO",
       "event": "21:00 Atletico Madrid - Botafogo",
       "channel": "Mediaset",
       "language": "br",
       "url": "https://thisnot.business/player.php?id=Italia1_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=Rai2": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21, QUARTI - SLOVACCHIA",
+      "date": "DOMENICA 22 GIUGNO",
+      "event": "21:00 Germania U.21 - Italia U.21",
+      "channel": "Rai",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Rai2"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {
@@ -16,23 +28,23 @@
     "info": {
       "category": "TENNIS",
       "title": "ATP/WTA INTERNAZIONALI",
-      "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
+      "date": "LUNEDI 23 GIUGNO - DOMENICA 29 GIUGNO",
       "event": "11:00 Live",
       "channel": "Ziggo",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
     }
   },
-  "https://thisnot.business/player.php?id=ITA_SportMotoGP": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9",
+  "https://thisnot.business/player.php?id=ITA_SportTennis": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd%3F%26ck%3DMTExODYyZDI3YzEwNzM2OThkNmVjNWJiYzMyOGZjNGM6Nzc3ZWM5MGZjM2NkYzZjZWMxYjk2M2VmMTQ3NjBlZjE%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1",
     "info": {
-      "category": "MOTOMONDIALE",
-      "title": "GP MUGELLO - ITALIA",
-      "date": "DOMENICA 22 GIUGNO",
-      "event": "14:00 MotoGP - Gara",
+      "category": "TENNIS",
+      "title": "ATP/WTA INTERNAZIONALI",
+      "date": "LUNEDI 23 GIUGNO - DOMENICA 29 GIUGNO",
+      "event": "11:00 Live",
       "channel": "Sky Sport",
       "language": "it",
-      "url": "https://thisnot.business/player.php?id=ITA_SportMotoGP"
+      "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP4": {
@@ -40,7 +52,7 @@
     "info": {
       "category": "TENNIS",
       "title": "ATP/WTA INTERNAZIONALI",
-      "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
+      "date": "LUNEDI 23 GIUGNO - DOMENICA 29 GIUGNO",
       "event": "11:00 Live",
       "channel": "Ziggo",
       "language": "nl",
@@ -52,35 +64,11 @@
     "info": {
       "category": "TENNIS",
       "title": "ATP/WTA INTERNAZIONALI",
-      "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
+      "date": "LUNEDI 23 GIUGNO - DOMENICA 29 GIUGNO",
       "event": "11:00 Live",
       "channel": "Ziggo",
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=ZiggoSP5"
-    }
-  },
-  "https://thisnot.business/player.php?id=ITA_SportTennis": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd%3F%26ck%3DMTExODYyZDI3YzEwNzM2OThkNmVjNWJiYzMyOGZjNGM6Nzc3ZWM5MGZjM2NkYzZjZWMxYjk2M2VmMTQ3NjBlZjE%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1",
-    "info": {
-      "category": "TENNIS",
-      "title": "ATP/WTA INTERNAZIONALI",
-      "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
-      "event": "15:00 Bublik v Medvedev",
-      "channel": "Sky Sport",
-      "language": "nl",
-      "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
-    }
-  },
-  "https://thisnot.business/player.php?id=ITA_SportArena": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel%28skysportarena%29/master_2hr-aac.mpd%3F%26ck%3DMTExNWY5MGE2ODMxZmE3Y2EwNThhMzAzODNjYjA2NTI6NmMwODZjMmEwYThkZThjMWY0MTNlNDEyODI0NmFiZGQ%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1115f90a6831fa7ca058a30383cb0652&key=6c086c2a0a8de8c1f413e4128246abdd",
-    "info": {
-      "category": "TENNIS",
-      "title": "ATP/WTA INTERNAZIONALI",
-      "date": "LUNEDI 16 GIUGNO - DOMENICA 22 GIUGNO",
-      "event": "15:00 Alcaraz v Lehecka",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=ITA_SportArena"
     }
   },
   "https://thisnot.business/player.php?id=Sportitalia": {
@@ -91,7 +79,7 @@
       "date": "TUTTI I GIORNI",
       "event": "Live",
       "channel": "Sportitalia",
-      "language": "it",
+      "language": "nl",
       "url": "https://thisnot.business/player.php?id=Sportitalia"
     }
   },

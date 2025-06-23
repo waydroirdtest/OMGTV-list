@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Fury FC 105 - Whitehead vs. Valenzuela" tvg-name="23:30 Fury FC 105: Whitehead vs. Valenzuela - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="GCW - Take A Picture 2025" tvg-name="00:00 GCW: Take A Picture 2025 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="2025 USAC Eastern Storm at Action Track USA - 2025 USAC Eastern Storm at Action Track USA" tvg-name="00:15 2025 USAC Eastern Storm at Action Track USA - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="DIRTcar Summer Nationals Late Models Lincoln - DIRTcar Summer Nationals Late Models Lincoln" tvg-name="00:45 DIRTcar Summer Nationals Late Models Lincoln - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Dirtvision
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="Late Models Slinger Speedway - Late Models Slinger Speedway" tvg-name="01:30 Late Models Slinger Speedway - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-107.php
+
 #EXTINF:-1 tvg-id="Norway - Eliteserien - Vålerenga vs Molde" tvg-name="14:30 Norway - Eliteserien : Vålerenga vs Molde - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Norway
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1.php
 
@@ -611,88 +626,88 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 #EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Svitolina E. vs Mertens E." tvg-name="14:00 WTA - BAD HOMBURG : Svitolina E. vs Mertens E. - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 3
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1503.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC One UK
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC One UK
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-356.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-40.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-113.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-46.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-701.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-556.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6 HD
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6 HD
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-627.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-472.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-393.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-396.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 35 NL
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 35 NL
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-383.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-474.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 3 France
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 3 France
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-118.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-47.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-713.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-714.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-436.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", M+ #Vamos Spain
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", M+ #Vamos Spain
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-521.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-429.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Serbia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-430.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 3 Serbia
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 3 Serbia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-431.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-915.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-916.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-97.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-101.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-102.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-453.php
 
-#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="11:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Sport Israel
+#EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 7" tvg-name="02:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 7 - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Sport Israel
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-144.php
 
 #EXTINF:-1 tvg-id="Supercars Championship Race 19 | Darwin - Supercars Championship Race 19 | Darwin" tvg-name="07:00 Supercars Championship Race 19 | Darwin - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 3 UK
@@ -1546,4 +1561,448 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 
 #EXTINF:-1 tvg-id="Jumping in the water. Russian Championship. Live broadcast from Ekaterinburg - Jumping in the water. Russian Championship. Live broadcast from Ekaterinburg" tvg-name="13:00 Jumping in the water. Russian Championship. Live broadcast from Ekaterinburg - 22/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", Match TV Russia
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-127.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Bohemians vs Shamrock Rovers" tvg-name="20:45 Ireland Republic - Premier Division : Bohemians vs Shamrock Rovers - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Cork City vs Drogheda United" tvg-name="20:45 Ireland Republic - Premier Division : Cork City vs Drogheda United - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Sligo Rovers vs Galway United" tvg-name="20:45 Ireland Republic - Premier Division : Sligo Rovers vs Galway United - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - St Patrick's vs Derry City" tvg-name="20:45 Ireland Republic - Premier Division : St Patrick's vs Derry City - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-69.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Waterford United vs Shelbourne" tvg-name="20:45 Ireland Republic - Premier Division : Waterford United vs Shelbourne - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-76.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Bray Wanderers vs UCD" tvg-name="20:45 Ireland Republic - First Division : Bray Wanderers vs UCD - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Cobh Ramblers vs Kerry" tvg-name="20:45 Ireland Republic - First Division : Cobh Ramblers vs Kerry - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Finn Harps vs Dundalk" tvg-name="20:45 Ireland Republic - First Division : Finn Harps vs Dundalk - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Longford Town vs Athlone Town" tvg-name="20:45 Ireland Republic - First Division : Longford Town vs Athlone Town - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Treaty United vs Wexford" tvg-name="20:45 Ireland Republic - First Division : Treaty United vs Wexford - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-107.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Germany U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Germany U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Germany U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Germany U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Germany U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Germany U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Germany U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Germany U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Germany U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Germany U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2 HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-92.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Germany U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Germany U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1 HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Spain U19 vs Germany U19" tvg-name="17:00 UEFA U19 European Championship : Spain U19 vs Germany U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - GIF Sundsvall vs Trelleborg FF" tvg-name="19:00 Sweden - Superettan : GIF Sundsvall vs Trelleborg FF - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 1 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Helsingborg vs Umeå" tvg-name="19:00 Sweden - Superettan : Helsingborg vs Umeå - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 2 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="Iceland - Besta deild karla - ÍBV vs Afturelding" tvg-name="20:00 Iceland - Besta deild karla : ÍBV vs Afturelding - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SÝN Sport 5 Iceland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Netherlands U19 vs Romania U19" tvg-name="20:00 UEFA U19 European Championship : Netherlands U19 vs Romania U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Netherlands U19 vs Romania U19" tvg-name="20:00 UEFA U19 European Championship : Netherlands U19 vs Romania U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Netherlands U19 vs Romania U19" tvg-name="20:00 UEFA U19 European Championship : Netherlands U19 vs Romania U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Netherlands U19 vs Romania U19" tvg-name="20:00 UEFA U19 European Championship : Netherlands U19 vs Romania U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 1 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Netherlands U19 vs Romania U19" tvg-name="20:00 UEFA U19 European Championship : Netherlands U19 vs Romania U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2 HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-92.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Netherlands U19 vs Romania U19" tvg-name="20:00 UEFA U19 European Championship : Netherlands U19 vs Romania U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1 HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA U19 European Championship - Netherlands U19 vs Romania U19" tvg-name="20:00 UEFA U19 European Championship : Netherlands U19 vs Romania U19 - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TeleCinco Espana
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-532.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Italia 1 IT
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Action UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sport Hungary
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Telefe Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Pro TV Romania
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport 2 Digitalb
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-414.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Super Sport MaXimo 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Atlético Madrid vs Botafogo" tvg-name="21:00 FIFA Club World Cup : Atlético Madrid vs Botafogo - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Plus Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT 1 Turkey
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Pro Arena Romania HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV2 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Oneplay Sport 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1027.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DSports 2 Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-476.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-478.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport 3 Digitalb
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-12.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-415.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs PSG" tvg-name="21:00 FIFA Club World Cup : Seattle Sounders FC vs PSG - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Live Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="Iceland - Besta deild karla - Valur vs KR" tvg-name="21:15 Iceland - Besta deild karla : Valur vs KR - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SÝN Sport 1 Iceland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-13.php
+
+#EXTINF:-1 tvg-id="Uruguay Primera Division - Boston River vs Torque" tvg-name="23:00 Uruguay Primera Division : Boston River vs Torque - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", VTV+
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-391.php
+
+#EXTINF:-1 tvg-id="Uruguay Primera Division - Boston River vs Torque" tvg-name="23:00 Uruguay Primera Division : Boston River vs Torque - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOLTV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-597.php
+
+#EXTINF:-1 tvg-id="Argentina Primera Nacional - Nueva Chicago vs Club Atletico Colón" tvg-name="00:00 Argentina Primera Nacional : Nueva Chicago vs Club Atletico Colón - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TYC Sports Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-746.php
+
+#EXTINF:-1 tvg-id="Uruguay Primera Division - Cerro Largo vs Plaza Colonia" tvg-name="01:00 Uruguay Primera Division : Cerro Largo vs Plaza Colonia - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", VTV+
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-391.php
+
+#EXTINF:-1 tvg-id="Uruguay Primera Division - Cerro Largo vs Plaza Colonia" tvg-name="01:00 Uruguay Primera Division : Cerro Largo vs Plaza Colonia - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOLTV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-597.php
+
+#EXTINF:-1 tvg-id="Ecuador Primera A - Manta vs Orense" tvg-name="02:00 Ecuador Primera A : Manta vs Orense - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal del Futbol
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-21.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TBS USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-336.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", truTV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-341.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT 1 Turkey
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DSports Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-19.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-415.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport 2 Digitalb
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Palmeiras" tvg-name="03:00 FIFA Club World Cup : Inter Miami vs Palmeiras - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Live Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVI Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-723.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MBC Masr 2
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MBC Action
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-22.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV2 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-79.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DSports 2 Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport 3 Digitalb
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-12.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-414.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Grandstand
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-412.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MáXimo 1 HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Porto vs Al Ahly" tvg-name="03:00 FIFA Club World Cup : Porto vs Al Ahly - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Plus Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Jubb P. vs Tirante T. A." tvg-name="08:30 WIMBLEDON - QUALIFYING : Jubb P. vs Tirante T. A. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 15
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Fucsovics M. vs Rodionov J." tvg-name="10:00 WIMBLEDON - QUALIFYING : Fucsovics M. vs Rodionov J. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 13
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Bagnis F. vs Peniston R." tvg-name="11:30 WIMBLEDON - QUALIFYING : Bagnis F. vs Peniston R. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 100
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Nava E. vs Krueger M." tvg-name="13:00 WIMBLEDON - QUALIFYING : Nava E. vs Krueger M. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 100
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - MALLORCA - Martinez P. vs Moutet C." tvg-name="09:30 ATP - MALLORCA : Martinez P. vs Moutet C. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - MALLORCA - Diallo G. vs Munar J." tvg-name="12:00 ATP - MALLORCA : Diallo G. vs Munar J. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - MALLORCA - Tien L. vs Engel J." tvg-name="14:30 ATP - MALLORCA : Tien L. vs Engel J. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Bergs Z. vs Fonseca J." tvg-name="08:30 ATP - EASTBOURNE : Bergs Z. vs Fonseca J. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Evans D. vs Kecmanovic M." tvg-name="10:00 ATP - EASTBOURNE : Evans D. vs Kecmanovic M. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Marozsan F. vs Sonego L." tvg-name="12:00 ATP - EASTBOURNE : Marozsan F. vs Sonego L. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Marozsan F. vs Sonego L." tvg-name="12:00 ATP - EASTBOURNE : Marozsan F. vs Sonego L. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 9
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1509.php
+
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Tseng C. H. vs Davidovich Fokina A." tvg-name="13:30 ATP - EASTBOURNE : Tseng C. H. vs Davidovich Fokina A. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Alexandrova E. vs Bencic B." tvg-name="08:00 WTA - BAD HOMBURG : Alexandrova E. vs Bencic B. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Frech M. vs Tauson C." tvg-name="08:00 WTA - BAD HOMBURG : Frech M. vs Tauson C. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 2
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Tomljanovic A. vs Noskova L." tvg-name="08:00 WTA - BAD HOMBURG : Tomljanovic A. vs Noskova L. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 3
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Samsonova L. vs Siniakova K." tvg-name="09:30 WTA - BAD HOMBURG : Samsonova L. vs Siniakova K. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 2
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Vekic D. vs Shnaider D." tvg-name="09:30 WTA - BAD HOMBURG : Vekic D. vs Shnaider D. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Osaka N. vs Danilovic O." tvg-name="12:30 WTA - BAD HOMBURG : Osaka N. vs Danilovic O. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Azarenka V. vs Siegemund L." tvg-name="13:00 WTA - BAD HOMBURG : Azarenka V. vs Siegemund L. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 2
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Bronzetti L. vs Eala A." tvg-name="08:30 WTA - EASTBOURNE : Bronzetti L. vs Eala A. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 5
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Pavlyuchenkova A. vs Tomova V." tvg-name="08:30 WTA - EASTBOURNE : Pavlyuchenkova A. vs Tomova V. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Jones F. vs Minnen G." tvg-name="10:00 WTA - EASTBOURNE : Jones F. vs Minnen G. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Blinkova A. vs Bouzkova M." tvg-name="11:30 WTA - EASTBOURNE : Blinkova A. vs Bouzkova M. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 6
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Kasatkina D. vs Sun L." tvg-name="12:00 WTA - EASTBOURNE : Kasatkina D. vs Sun L. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Joint M. vs Jabeur O." tvg-name="13:30 WTA - EASTBOURNE : Joint M. vs Jabeur O. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-701.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-556.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6 HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-627.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-383.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-474.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 3 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-118.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-713.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-436.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", M+ #Vamos Spain
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-521.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports Prime Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-638.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-429.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-430.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-915.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-916.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-97.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Sport Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Netflix PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-20.php
+
+#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Variety 4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-419.php
+
+#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Grandstand
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-412.php
+
+#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Supersports Action
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-420.php
+
+#EXTINF:-1 tvg-id="Premiership Speedway - Ipswich Witches vs Leicester Lions - Premiership Speedway - Ipswich Witches vs Leicester Lions" tvg-name="20:30 Premiership Speedway - Ipswich Witches vs Leicester Lions - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 1 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="Women's 3x3 Basketball World Championship - Australia vs Poland" tvg-name="06:35 Women's 3x3 Basketball World Championship : Australia vs Poland - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TVP Sport Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="Women's 3x3 Basketball World Championship - Poland vs Madagascar" tvg-name="19:30 Women's 3x3 Basketball World Championship : Poland vs Madagascar - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TVP Sport Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="Süper Ligi - Besiktas JK vs. Fenerbahce Istanbul" tvg-name="19:30 Süper Ligi : Besiktas JK vs. Fenerbahce Istanbul - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN SPORTS 5 Turkey
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-14.php
+
+#EXTINF:-1 tvg-id="Süper Ligi - Besiktas JK vs. Fenerbahce Istanbul" tvg-name="19:30 Süper Ligi : Besiktas JK vs. Fenerbahce Istanbul - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 2 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-433.php
+
+#EXTINF:-1 tvg-id="Süper Ligi - Besiktas JK vs. Fenerbahce Istanbul" tvg-name="19:30 Süper Ligi : Besiktas JK vs. Fenerbahce Istanbul - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Süper Ligi - Besiktas JK vs. Fenerbahce Istanbul" tvg-name="19:30 Süper Ligi : Besiktas JK vs. Fenerbahce Istanbul - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 9 HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-630.php
+
+#EXTINF:-1 tvg-id="Süper Ligi - Besiktas JK vs. Fenerbahce Istanbul" tvg-name="19:30 Süper Ligi : Besiktas JK vs. Fenerbahce Istanbul - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 1 Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="Premier Padel, First Round - Valladolid P2 - Premier Padel" tvg-name="17:00 Premier Padel, First Round : Valladolid P2 - Premier Padel - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN Sports 1 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="Premier Padel, First Round - Valladolid P2 - Premier Padel" tvg-name="17:00 Premier Padel, First Round : Valladolid P2 - Premier Padel - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport TV6 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-291.php
+
+#EXTINF:-1 tvg-id="Premier Padel, First Round - Valladolid P2 - Premier Padel" tvg-name="17:00 Premier Padel, First Round : Valladolid P2 - Premier Padel - 23/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport 4 Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-143.php
 

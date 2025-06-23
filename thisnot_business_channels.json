@@ -3,24 +3,24 @@
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, QUARTI - SLOVACCHIA",
-      "date": "DOMENICA 22 GIUGNO",
-      "event": "21:00 Atletico Madrid - Botafogo",
+      "title": "CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA",
+      "date": "MERCOLEDI 25 GIUGNO",
+      "event": "21:00 Benfica - Bayern Monaco",
       "channel": "Mediaset",
       "language": "br",
       "url": "https://thisnot.business/player.php?id=Italia1_IT"
     }
   },
-  "https://thisnot.business/player.php?id=Rai2": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+  "https://thisnot.business/player.php?id=SporTV2_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&key_id=9009b7189e3e68cc09d17811f2beb55a&key=dd3f96a94c909da48ff40c92aabf8cf3",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, QUARTI - SLOVACCHIA",
-      "date": "DOMENICA 22 GIUGNO",
-      "event": "21:00 Germania U.21 - Italia U.21",
-      "channel": "Rai",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Rai2"
+      "title": "CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA",
+      "date": "MERCOLEDI 25 GIUGNO",
+      "event": "21:00 Auckland City - Boca Juniors",
+      "channel": "SporTV",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SporTV2_BR"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {
@@ -43,7 +43,7 @@
       "date": "LUNEDI 23 GIUGNO - DOMENICA 29 GIUGNO",
       "event": "11:00 Live",
       "channel": "Sky Sport",
-      "language": "it",
+      "language": "nl",
       "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
     }
   },

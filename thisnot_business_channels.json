@@ -1,4 +1,16 @@
 {
+  "https://thisnot.business/player.php?id=SporTV2_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&key_id=9009b7189e3e68cc09d17811f2beb55a&key=dd3f96a94c909da48ff40c92aabf8cf3",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA",
+      "date": "MERCOLEDI 25 GIUGNO",
+      "event": "21:00 Borussia Dortmund - Ulsan",
+      "channel": "SporTV",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=SporTV2_BR"
+    }
+  },
   "https://thisnot.business/player.php?id=Italia1_IT": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
     "info": {
@@ -9,18 +21,6 @@
       "channel": "Mediaset",
       "language": "br",
       "url": "https://thisnot.business/player.php?id=Italia1_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=SporTV2_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&key_id=9009b7189e3e68cc09d17811f2beb55a&key=dd3f96a94c909da48ff40c92aabf8cf3",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA",
-      "date": "MERCOLEDI 25 GIUGNO",
-      "event": "21:00 Auckland City - Boca Juniors",
-      "channel": "SporTV",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SporTV2_BR"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {
@@ -71,6 +71,30 @@
       "url": "https://thisnot.business/player.php?id=ZiggoSP5"
     }
   },
+  "https://thisnot.business/player.php?id=ITA_SportF1": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10",
+    "info": {
+      "category": "FORMULA 1",
+      "title": "GP RED BULL RING - AUSTRIA",
+      "date": "VENERDI 27 GIUGNO",
+      "event": "15:00 Gara",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=ITA_SportF1"
+    }
+  },
+  "https://thisnot.business/player.php?id=ITA_SportMotoGP": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9",
+    "info": {
+      "category": "MOTOMONDIALE",
+      "title": "GP ASSEN - OLANDA",
+      "date": "VENERDI 27 GIUGNO",
+      "event": "14:00 MotoGP - Gara",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=ITA_SportMotoGP"
+    }
+  },
   "https://thisnot.business/player.php?id=Sportitalia": {
     "proxy_url": "https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8",
     "info": {
@@ -79,7 +103,7 @@
       "date": "TUTTI I GIORNI",
       "event": "Live",
       "channel": "Sportitalia",
-      "language": "nl",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=Sportitalia"
     }
   },

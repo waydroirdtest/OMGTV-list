@@ -1,22 +1,10 @@
 {
-  "https://thisnot.business/player.php?id=SporTV2_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&key_id=9009b7189e3e68cc09d17811f2beb55a&key=dd3f96a94c909da48ff40c92aabf8cf3",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA",
-      "date": "MERCOLEDI 25 GIUGNO",
-      "event": "21:00 Wydad Casablanca - Al Ain",
-      "channel": "SporTV",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SporTV2_BR"
-    }
-  },
   "https://thisnot.business/player.php?id=SporTV3_BR": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd&key_id=cb705d43ec369891b851a078cabfac5c&key=fdfefad94eac611692a9e790f266ae4d",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA",
-      "date": "MERCOLEDI 25 GIUGNO",
+      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
+      "date": "SABATO 28 GIUGNO",
       "event": "03:00 Al Hilal - Pachuca",
       "channel": "SporTV",
       "language": "br",
@@ -27,8 +15,8 @@
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA",
-      "date": "MERCOLEDI 25 GIUGNO",
+      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
+      "date": "SABATO 28 GIUGNO",
       "event": "03:00 Inter - River Plate",
       "channel": "Mediaset",
       "language": "br",
@@ -39,12 +27,24 @@
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA",
-      "date": "MERCOLEDI 25 GIUGNO",
+      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
+      "date": "SABATO 28 GIUGNO",
       "event": "21:00 Juventus - Manchester City",
       "channel": "Mediaset",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=Canale5_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=SporTV2_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&key_id=9009b7189e3e68cc09d17811f2beb55a&key=dd3f96a94c909da48ff40c92aabf8cf3",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
+      "date": "SABATO 28 GIUGNO",
+      "event": "21:00 Wydad Casablanca - Al Ain",
+      "channel": "SporTV",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SporTV2_BR"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {
@@ -59,6 +59,18 @@
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
     }
   },
+  "https://thisnot.business/player.php?id=SAT1": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
+      "date": "SABATO 28 GIUGNO",
+      "event": "21:00 Germania U.21 - Inghilterra U.21",
+      "channel": "Sat.1",
+      "language": "nl",
+      "url": "https://thisnot.business/player.php?id=SAT1"
+    }
+  },
   "https://thisnot.business/player.php?id=ITA_SportTennis": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd%3F%26ck%3DMTExODYyZDI3YzEwNzM2OThkNmVjNWJiYzMyOGZjNGM6Nzc3ZWM5MGZjM2NkYzZjZWMxYjk2M2VmMTQ3NjBlZjE%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1",
     "info": {
@@ -67,7 +79,7 @@
       "date": "LUNEDI 23 GIUGNO - DOMENICA 29 GIUGNO",
       "event": "11:00 Live",
       "channel": "Sky Sport",
-      "language": "nl",
+      "language": "de",
       "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
     }
   },

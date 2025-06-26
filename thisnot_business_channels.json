@@ -1,28 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=SporTV3_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd&key_id=cb705d43ec369891b851a078cabfac5c&key=fdfefad94eac611692a9e790f266ae4d",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
-      "date": "SABATO 28 GIUGNO",
-      "event": "03:00 Al Hilal - Pachuca",
-      "channel": "SporTV",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=SporTV3_BR"
-    }
-  },
-  "https://thisnot.business/player.php?id=Italia1_IT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
-      "date": "SABATO 28 GIUGNO",
-      "event": "03:00 Inter - River Plate",
-      "channel": "Mediaset",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Italia1_IT"
-    }
-  },
   "https://thisnot.business/player.php?id=Canale5_IT": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd",
     "info": {
@@ -31,7 +7,7 @@
       "date": "SABATO 28 GIUGNO",
       "event": "21:00 Juventus - Manchester City",
       "channel": "Mediaset",
-      "language": "it",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=Canale5_IT"
     }
   },
@@ -45,6 +21,18 @@
       "channel": "SporTV",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=SporTV2_BR"
+    }
+  },
+  "https://thisnot.business/player.php?id=SporTV3_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd&key_id=cb705d43ec369891b851a078cabfac5c&key=fdfefad94eac611692a9e790f266ae4d",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
+      "date": "SABATO 28 GIUGNO",
+      "event": "03:00 Al Hilal - Pachuca",
+      "channel": "SporTV",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=SporTV3_BR"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {

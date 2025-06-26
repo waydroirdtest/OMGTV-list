@@ -1,14 +1,6 @@
 Report Estrazione Link da thisnot.business
 ===========================================
 
-Pagina Evento: https://thisnot.business/player.php?id=SporTV3_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 Urawa Reds - Monterrey', Canale='SporTV'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd&key_id=cb705d43ec369891b851a078cabfac5c&key=fdfefad94eac611692a9e790f266ae4d
-
-Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
-  Dettagli: Categoria='CALCIO', Evento='03:00 Inter - River Plate', Canale='Mediaset'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
-
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 Juventus - Manchester City', Canale='Mediaset'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd
@@ -32,14 +24,6 @@ Pagina Evento: https://thisnot.business/player.php?id=ZiggoSP1
 Pagina Evento: https://thisnot.business/player.php?id=SAT1
   Dettagli: Categoria='CALCIO', Evento='21:00 Germania U.21 - Inghilterra U.21', Canale='Sat.1'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
-
-Pagina Evento: https://thisnot.business/player.php?id=SporTV3_BR
-  Dettagli: Categoria='CALCIO', Evento='03:00 Urawa Reds - Monterrey', Canale='SporTV'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd&key_id=cb705d43ec369891b851a078cabfac5c&key=fdfefad94eac611692a9e790f266ae4d
-
-Pagina Evento: https://thisnot.business/player.php?id=Italia1_IT
-  Dettagli: Categoria='CALCIO', Evento='03:00 Inter - River Plate', Canale='Mediaset'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
 
 Pagina Evento: https://thisnot.business/player.php?id=Canale5_IT
   Dettagli: Categoria='CALCIO', Evento='21:00 Juventus - Manchester City', Canale='Mediaset'

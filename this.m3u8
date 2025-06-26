@@ -1,16 +1,13 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="SporTV3_BR" tvg-name="CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA SABATO 28 GIUGNO 03:00 Al Hilal - Pachuca" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd&key_id=cb705d43ec369891b851a078cabfac5c&key=fdfefad94eac611692a9e790f266ae4d
-
-#EXTINF:-1 tvg-id="Italia1_IT" tvg-name="CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA SABATO 28 GIUGNO 03:00 Inter - River Plate" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd
-
 #EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA SABATO 28 GIUGNO 21:00 Juventus - Manchester City" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd
 
 #EXTINF:-1 tvg-id="SporTV2_BR" tvg-name="CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA SABATO 28 GIUGNO 21:00 Wydad Casablanca - Al Ain" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&key_id=9009b7189e3e68cc09d17811f2beb55a&key=dd3f96a94c909da48ff40c92aabf8cf3
+
+#EXTINF:-1 tvg-id="SporTV3_BR" tvg-name="CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA SABATO 28 GIUGNO 03:00 Al Hilal - Pachuca" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd&key_id=cb705d43ec369891b851a078cabfac5c&key=fdfefad94eac611692a9e790f266ae4d
 
 #EXTINF:-1 tvg-id="ZiggoSP1" tvg-name="ATP/WTA INTERNAZIONALI LUNEDI 23 GIUGNO - DOMENICA 29 GIUGNO 11:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601012829:UTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26RTS%3D1717205309%26from%3D11%26hms_devid%3D1008%26online%3D1717205309%26mag_hms%3D1008%2C311%2C305%26_%3D1717205322621%26ck%3DZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM%3D&key_id=ef34ae91b4f2415e8439b2ad105e7488&key=243248d8de1ff8c7c587ee2057317523

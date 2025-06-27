@@ -1,4 +1,28 @@
 {
+  "https://thisnot.business/player.php?id=DaznFree": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/9gn19vz5j0m51670quhlxe6f4/web/stream.mpd%3Foutlet%3Ddazn-row",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
+      "date": "SABATO 28 GIUGNO",
+      "event": "21:00 Juventus - Manchester City",
+      "channel": "Dazn",
+      "language": "",
+      "url": "https://thisnot.business/player.php?id=DaznFree"
+    }
+  },
+  "https://thisnot.business/player.php?id=DaznHDR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-ak-livedazn.akamaized.net/16mxblv51t3uo1iibr8ojegolz/web/stream.mpd%3Foutlet%3Ddazn-italy%26plang%3Dit%26ck%3DeyJjZmI1ZTJiNzNiZWY0ZjNjODc4ZjI1YWI4NmE3NDUxZiI6IjBkNjcxMmJmMmE4NGVkY2M5M2QwMDFhOTYxM2Y2ZmVjIn0%3D%26headers%3DeyJkYXpuLXRva2VuIjoic3QlM0QxNzUwOTYwNzU5fmV4cCUzRDE3NTEwNDcxNTl%2BYWNsJTNEJTJGKn5pZCUzRDM1NDJlMTJjZWE3ZH5kYXRhJTNEY291bnRyeSUzRGl0JTIzcGF0aCUzRDFzJTJDMWQlMjNoYXNocCUzRDVmNmQwN2MwNDk2YzUxZmU3ODg0Nzc4ZDA2ZGIyMjRhYjBlMTcyZWE0OTE2YWI5NWMxMjM1NDc5M2EzZWE3ZjMlMjNoYXNodWElM0Q5NTU5ZDFlMzVmODFkNTA1NjAyN2NjMDc2YjUxODBlYTBhODYwNjEyN2Q1NmZkZjJmODYxYzkxODVjYzE3Y2I3JTIzd20lM0QwfmhtYWMlM0QzMTkzNGJmNDAwODcwOTdlOTQwODBjMjAwMDU1NTBjYjRiYTdhNDk4ZTg5Y2FmOWY0OTk1NTMyNDA4NDk4NzkyIn0&key_id=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec",
+    "info": {
+      "category": "CALCIO",
+      "title": "CAMPIONATO EUROPEO U.21, FINALE - SLOVACCHIA",
+      "date": "SABATO 28 GIUGNO",
+      "event": "21:00 Juventus - Manchester City",
+      "channel": "Dazn HDR",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=DaznHDR"
+    }
+  },
   "https://thisnot.business/player.php?id=Canale5_IT": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd",
     "info": {
@@ -7,7 +31,7 @@
       "date": "SABATO 28 GIUGNO",
       "event": "21:00 Juventus - Manchester City",
       "channel": "Mediaset",
-      "language": "",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=Canale5_IT"
     }
   },

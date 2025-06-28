@@ -100,7 +100,7 @@
     "info": {
       "category": "FORMULA 1",
       "title": "GP RED BULL RING - AUSTRIA",
-      "date": "VENERDI 27 GIUGNO",
+      "date": "SABATO 28 GIUGNO",
       "event": "15:00 Gara",
       "channel": "Sky Sport",
       "language": "it",
@@ -112,47 +112,11 @@
     "info": {
       "category": "MOTOMONDIALE",
       "title": "GP ASSEN - OLANDA",
-      "date": "VENERDI 27 GIUGNO",
+      "date": "SABATO 28 GIUGNO",
       "event": "14:00 MotoGP - Gara",
       "channel": "Sky Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=ITA_SportMotoGP"
-    }
-  },
-  "https://thisnot.business/player.php?id=Sportitalia": {
-    "proxy_url": "https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8",
-    "info": {
-      "category": "EXTRA",
-      "title": "CANALI SPORTIVI",
-      "date": "TUTTI I GIORNI",
-      "event": "Live",
-      "channel": "Sportitalia",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Sportitalia"
-    }
-  },
-  "https://thisnot.business/player.php?id=Solocalcio": {
-    "proxy_url": "https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio/chunklist.m3u8",
-    "info": {
-      "category": "EXTRA",
-      "title": "CANALI SPORTIVI",
-      "date": "TUTTI I GIORNI",
-      "event": "Live",
-      "channel": "Solocalcio",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Solocalcio"
-    }
-  },
-  "https://thisnot.business/player.php?id=PrimaveraTV": {
-    "proxy_url": "https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/chunklist.m3u8",
-    "info": {
-      "category": "EXTRA",
-      "title": "CANALI SPORTIVI",
-      "date": "TUTTI I GIORNI",
-      "event": "Live",
-      "channel": "Primavera TV",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=PrimaveraTV"
     }
   }
 }

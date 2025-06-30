@@ -1,26 +1,26 @@
 {
-  "https://thisnot.business/player.php?id=ITA_SportMotoGP": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9",
+  "https://thisnot.business/player.php?id=Italia1_IT": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ee91704e23b78016&key=bfd04d6f544c9cc4d35cb13ab6778587",
     "info": {
-      "category": "MOTOMONDIALE",
-      "title": "GP ASSEN - OLANDA",
+      "category": "CALCIO",
+      "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
       "date": "DOMENICA 29 GIUGNO",
-      "event": "14:00 MotoGP - Gara",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=ITA_SportMotoGP"
+      "event": "22:00 Flamengo - Bayern Monaco",
+      "channel": "Mediaset",
+      "language": "",
+      "url": "https://thisnot.business/player.php?id=Italia1_IT"
     }
   },
-  "https://thisnot.business/player.php?id=ITA_SportF1": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10",
+  "https://thisnot.business/player.php?id=Canale5_IT": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937",
     "info": {
-      "category": "FORMULA 1",
-      "title": "GP RED BULL RING - AUSTRIA",
+      "category": "CALCIO",
+      "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
       "date": "DOMENICA 29 GIUGNO",
-      "event": "15:00 Gara",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=ITA_SportF1"
+      "event": "21:00 Real Madrid - Juventus",
+      "channel": "Mediaset",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Canale5_IT"
     }
   },
   "https://thisnot.business/player.php?id=Channel5": {
@@ -33,30 +33,6 @@
       "channel": "Channel5",
       "language": "br",
       "url": "https://thisnot.business/player.php?id=Channel5"
-    }
-  },
-  "https://thisnot.business/player.php?id=Italia1_IT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hr.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
-      "date": "DOMENICA 29 GIUGNO",
-      "event": "22:00 Flamengo - Bayern Monaco",
-      "channel": "Mediaset",
-      "language": "uk",
-      "url": "https://thisnot.business/player.php?id=Italia1_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=Canale5_IT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hr.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
-      "date": "DOMENICA 29 GIUGNO",
-      "event": "21:00 Real Madrid - Juventus",
-      "channel": "Mediaset",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Canale5_IT"
     }
   },
   "https://thisnot.business/player.php?id=SAT1": {
@@ -77,7 +53,7 @@
       "category": "TENNIS",
       "title": "ATP/WTA WIMBLEDON - INGHILTERRA",
       "date": "LUNEDI 30 GIUGNO - DOMENICA 13 LUGLIO",
-      "event": "11:00 Live",
+      "event": "12:00 Live",
       "channel": "Sky Sport",
       "language": "de",
       "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
@@ -89,7 +65,7 @@
       "category": "TENNIS",
       "title": "ATP/WTA WIMBLEDON - INGHILTERRA",
       "date": "LUNEDI 30 GIUGNO - DOMENICA 13 LUGLIO",
-      "event": "11:00 Live",
+      "event": "12:00 Live",
       "channel": "Sky Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=ITA_SportArena"
@@ -101,7 +77,7 @@
       "category": "TENNIS",
       "title": "ATP/WTA WIMBLEDON - INGHILTERRA",
       "date": "LUNEDI 30 GIUGNO - DOMENICA 13 LUGLIO",
-      "event": "11:00 Live",
+      "event": "12:00 Live",
       "channel": "Ziggo",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
@@ -113,7 +89,7 @@
       "category": "TENNIS",
       "title": "ATP/WTA WIMBLEDON - INGHILTERRA",
       "date": "LUNEDI 30 GIUGNO - DOMENICA 13 LUGLIO",
-      "event": "11:00 Live",
+      "event": "12:00 Live",
       "channel": "Ziggo",
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=ZiggoSP4"

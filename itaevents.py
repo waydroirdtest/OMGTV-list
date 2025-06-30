@@ -17,7 +17,7 @@ MFP = os.getenv("MFP")
 PSW = os.getenv("PSW")
 # MFPRender = os.getenv("MFPRender") # Load if needed in the future
 # PSWRender = os.getenv("PSWRender") # Load if needed in the future
-PROXY = os.getenv("PROXY", "") # Kept as a general optional prefix
+PZPROXY = os.getenv("PZPROXY", "") # Kept as a general optional prefix
 
 if not MFP or not PSW:
     raise ValueError("MFP and PSW environment variables must be set.")
@@ -717,7 +717,8 @@ def process_events():
                                     italian_sport_key = translate_sport_to_italian(clean_sport_key)
                                     file.write(f'#EXTINF:-1 tvg-id="{event_name} - {event_details.split(":", 1)[1].strip() if ":" in event_details else event_details}" tvg-name="{tvg_name}" tvg-logo="{event_logo}" group-title="{italian_sport_key}", {channel_name_str}\n')
                                     # New stream URL format
-                                    file.write(f"{PROXY}{MFP}/extractor/video?host=DLHD&redirect_stream=true&api_password={PSW}&d={stream_url_dynamic}\n\n")
+                                    #file.write(f"{PROXY}{MFP}/extractor/video?host=DLHD&redirect_stream=true&api_password={PSW}&d={stream_url_dynamic}\n\n")
+                                    file.write(f"{PZPROXY}/proxy/m3u?url={stream_url_dynamic}\n\n")
                                 included_channels_count += 1
 
                             else:

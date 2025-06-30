@@ -253,7 +253,8 @@ def generate_m3u8_247(matches):
             if stream_url_dynamic:
                 file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name} (D)\n")
                 # New stream URL format
-                file.write(f"{PROXY}{MFP}/extractor/video?host=DLHD&redirect_stream=true&api_password={PSW}&d={stream_url_dynamic}\n\n")
+                #file.write(f"{PROXY}{MFP}/extractor/video?host=DLHD&redirect_stream=true&api_password={PSW}&d={stream_url_dynamic}\n\n")
+                file.write(f"{PZPROXY}/proxy/m3u?url={stream_url_dynamic}\n\n")
                 processed_247_channels += 1
             else:
                 print(f"Failed to get stream URL for 24/7 channel ID: {channel_id}. Skipping M3U8 entry for this channel.")

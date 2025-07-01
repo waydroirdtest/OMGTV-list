@@ -1,106 +1,145 @@
 #EXTM3U url-tvg="https://github.com/nomegit/nomerepo/raw/refs/heads/main/epg.xml"
 
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 1 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2775802255/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3007400791/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/62558606/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2143522071/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1665920101/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4246774056/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2100771782/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2775802255/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3007400791/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Intrattenimento;Mediaset",ITALIA 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/663536394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4038365720/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 1 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2651461317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",20 MEDIASET (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 2 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1939210164/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4246774056/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3036316886/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/525374356/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4038365720/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2651461317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/415795144/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3590183307/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -108,8 +147,8 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3039389215/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -120,23 +159,14 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA UNO (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2872151911/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2416993844/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA FAMILY (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -147,44 +177,56 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/963607327/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1806815496/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2890008905/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/269503091/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
+#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 4 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3137990890/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2143522071/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2719953688/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="Rai 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI 4K (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2049087681/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
+#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2130255339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3093535330/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3251217290/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1134113883/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3249873828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4272937805/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/500203271/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tgcom 24" tvg-logo="" group-title="Notizie;Mediaset",TGCOM 24 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2418148449/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -192,17 +234,20 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4238969402/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7 (2)" tvg-logo="" group-title="Altro",LA 7 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/775530063/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3373510242/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/729945219/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1785098768/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -213,110 +258,86 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/78838793/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2221901869/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",27 TWENTYSEVEN (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/80896559/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3376031355/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/877200714/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/836680112/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/363506221/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI YOYO (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1785501924/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2007798511/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1699876530/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1768670187/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/363506221/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3036316886/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1886684667/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/294457245/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 2 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/525374356/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo (2)" tvg-logo="" group-title="Sky",CIELO (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 6 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY NOVE (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",20 MEDIASET (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 5 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 4 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2416993844/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 2 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1939210164/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/62558606/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3008151733/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1806815496/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax (2)" tvg-logo="" group-title="Discovery",DMAX (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",ITALIA 2 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1613543898/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2330574729/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/558282118/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1665920101/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time (2)" tvg-logo="" group-title="Intrattenimento;Discovery",REAL TIME (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -324,35 +345,32 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/576490047/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo (2)" tvg-logo="" group-title="Sky",CIELO (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2719953688/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 5 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3163380543/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="k2.it" tvg-name="K2 (2)" tvg-logo="" group-title="Bambini",K2 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2255724318/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2711959620/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 6 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3251217290/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="k2.it" tvg-name="K2 (2)" tvg-logo="" group-title="Bambini",K2 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2255724318/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime (2)" tvg-logo="" group-title="Discovery",TOP CRIME (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3420407456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -360,23 +378,17 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 3 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1134113883/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1284441949/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/608774683/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 5 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 4 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4241820180/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/500203271/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/4272937805/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/444768053/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -393,6 +405,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2911178456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -408,26 +423,20 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3439223610/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3373510242/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/729945219/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2767861049/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7 (2)" tvg-logo="" group-title="Altro",LA 7 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/775530063/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf (2)" tvg-logo="" group-title="Sport",SKY SPORT GOLF (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3897711086/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1 (2)" tvg-logo="" group-title="Altro",RSI LA 1 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2455610203/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2242741766/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -459,6 +468,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/433893159/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2221901869/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3213195143/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -471,14 +483,8 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2989824407/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3376031355/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/836680112/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",27 TWENTYSEVEN (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/80896559/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sport Italia Solo Calcio [live During Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/830949486/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -489,8 +495,8 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3810188456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI YOYO (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1785501924/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 2 (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/877200714/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="italia2.it" tvg-name="Mediaset Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",MEDIASET ITALIA 2 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3538009430/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -501,11 +507,11 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia (backup)" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (BACKUP) (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3165086929/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1699876530/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/318057128/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2007798511/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super! (2)" tvg-logo="" group-title="Bambini",SUPER! (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2900362153/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -518,9 +524,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 
 #EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sportitalia Solocalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORTITALIA SOLOCALCIO (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2198410339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila14.it" tvg-name="Sky Primafila 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 14 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/187661709/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -536,9 +539,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 
 #EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3841982646/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1886684667/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/317837654/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -612,6 +612,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI GULP (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1901652742/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/1768670187/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/3064811192/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -635,9 +638,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/pla
 
 #EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/588488827/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/294457245/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/play/2436070507/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1734,774 +1734,6 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://mag03.tvx.pr
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~u0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481~-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601013557:UTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26_%3D1717205757900%26RTS%3D1717205758%26from%3D11%26hms_devid%3D538%26online%3D1717205758%26mag_hms%3D538%26ck%3DYjVjMDRjZmI2ZGE4NDEwNGJhNWJiZTUxY2QwNjViMTI6ZDk2NTYxYmU0ODE5ZDNlZDRlNWY0ZjU0MDE1YmFhY2E%3D&key_id=b5c04cfb6da84104ba5bbe51cd065b12&key=d96561be4819d3ed4e5f4f54015baaca
 
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="2025 Summer Shootout at Charlotte Motor Speedway - 2025 Summer Shootout at Charlotte Motor Speedway" tvg-name="23:00 2025 Summer Shootout at Charlotte Motor Speedway - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
-
-#EXTINF:-1 tvg-id="2025 Wild Thing Kart Series at Stafford Speedway - 2025 Wild Thing Kart Series at Stafford Speedway" tvg-name="00:00 2025 Wild Thing Kart Series at Stafford Speedway - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
-
-#EXTINF:-1 tvg-id="DIRTcar Summer Nationals Late Models - DIRTcar Summer Nationals Late Models" tvg-name="00:15 DIRTcar Summer Nationals Late Models - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Dirtvision
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="2025 BC39 Kickoff Party at Prime 47 - 2025 BC39 Kickoff Party at Prime 47" tvg-name="00:30 2025 BC39 Kickoff Party at Prime 47 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
-
-#EXTINF:-1 tvg-id="2025 Pennsylvania Sprint Speedweek at Lincoln Speedway - 2025 Pennsylvania Sprint Speedweek at Lincoln Speedway" tvg-name="00:55 2025 Pennsylvania Sprint Speedweek at Lincoln Speedway - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
-
-#EXTINF:-1 tvg-id="South Africa - DStv Premiership - Cape Town City vs Casric Stars" tvg-name="15:00 South Africa - DStv Premiership : Cape Town City vs Casric Stars - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Ludogorets vs Hradec Králové" tvg-name="17:00 World - Club Friendly : Ludogorets vs Hradec Králové - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - CSKA 1948 Sofia II vs Hajduk Split" tvg-name="17:30 World - Club Friendly : CSKA 1948 Sofia II vs Hajduk Split - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ŠTV 1 Slovenia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Ludogorets vs København" tvg-name="18:00 World - Club Friendly : Ludogorets vs København - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
-
-#EXTINF:-1 tvg-id="Friendly Club Match - Dynamo Moscow vs OFK Belgrade" tvg-name="18:00 Friendly Club Match : Dynamo Moscow vs OFK Belgrade - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH Premier Russia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-573.php
-
-#EXTINF:-1 tvg-id="Friendly Club Match - Dynamo Moscow vs OFK Belgrade" tvg-name="18:00 Friendly Club Match : Dynamo Moscow vs OFK Belgrade - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH TV Russia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Djurgården vs Norrköping" tvg-name="19:00 Sweden - Allsvenskan : Djurgården vs Norrköping - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 2 Sweden
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Mjällby vs Malmö FF" tvg-name="19:00 Sweden - Allsvenskan : Mjällby vs Malmö FF - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 1 Sweden
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
-
-#EXTINF:-1 tvg-id="Norway - Eliteserien - Brann vs Sandefjord" tvg-name="19:00 Norway - Eliteserien : Brann vs Sandefjord - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport 1 Norway
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Channel 5 UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-355.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Sky Sports Golf UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-70.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Canale 5 IT
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", DAZN 1 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", TRT 1 Turkey
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", BNT 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-476.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", BNT 3
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-478.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", SporTV BR
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-918.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Oneplay Sport 3 CZ
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1029.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Telefe Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Oneplay Sport 1 CZ
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1027.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", 1TV Georgia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Pro TV Romania
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", SuperSport 2 Digitalb
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", SuperSport Premier League
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", SuperSport Laliga
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-415.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", SuperSport MaXimo 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Sport 5 Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Fluminense" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Fluminense - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278419_internazionale-x-fluminense.jpg" group-title="Calcio", Sport 5 Live Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera Nacional - Colón vs Club Atlético Mitre" tvg-name="00:00 Argentina - Primera Nacional : Colón vs Club Atlético Mitre - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TyC Sports Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-746.php
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - Paysandu vs Ferroviária" tvg-name="00:00 Brazil - Serie B : Paysandu vs Ferroviária - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
-
-#EXTINF:-1 tvg-id="Uruguayan First Division - Cerro Largo vs River Plate" tvg-name="00:00 Uruguayan First Division : Cerro Largo vs River Plate - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOLTV USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-597.php
-
-#EXTINF:-1 tvg-id="Chile - Copa Chile - Antofagasta vs Santiago Wanderers" tvg-name="01:00 Chile - Copa Chile : Antofagasta vs Santiago Wanderers - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium Chile
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-642.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", Channel 5 UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-355.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", TBS USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-336.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", Sky Sports Golf UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-70.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", 1TV Georgia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", M4 Sport Hungary
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", DAZN 1 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", MBC Masr 2
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", MBC Action
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-15.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", Dsports Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", Oneplay Sport 1 CZ
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1027.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", DAZN Portugal FIFA Mundial de Clubes
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-918.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", TRT Spor Turkey
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", TUDN USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", UniMás
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-133.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", SuperSport 2 Digitalb
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", SporTV BR
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", SuperSport Grandstand
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-412.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", SuperSport Premier League
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", SuperSport MaXimo 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Hilal" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Hilal - 30/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751278361_manchester-city-x-al-hilal.jpg" group-title="Calcio", Sport 5 Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Bellucci M. vs Crawford O." tvg-name="08:30 ATP - WIMBLEDON : Bellucci M. vs Crawford O. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 16
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1516.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Bellucci M. vs Crawford O." tvg-name="08:30 ATP - WIMBLEDON : Bellucci M. vs Crawford O. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 36
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1536.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Bonzi B. vs Medvedev D." tvg-name="08:30 ATP - WIMBLEDON : Bonzi B. vs Medvedev D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 2
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Bonzi B. vs Medvedev D." tvg-name="08:30 ATP - WIMBLEDON : Bonzi B. vs Medvedev D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 22
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1522.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Kopriva V. vs Thompson J." tvg-name="08:30 ATP - WIMBLEDON : Kopriva V. vs Thompson J. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 9
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Kopriva V. vs Thompson J." tvg-name="08:30 ATP - WIMBLEDON : Kopriva V. vs Thompson J. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 29
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1529.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Lehecka J. vs Dellien H." tvg-name="08:30 ATP - WIMBLEDON : Lehecka J. vs Dellien H. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 17
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Lehecka J. vs Dellien H." tvg-name="08:30 ATP - WIMBLEDON : Lehecka J. vs Dellien H. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 37
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1537.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Mannarino A. vs O'Connell C." tvg-name="08:30 ATP - WIMBLEDON : Mannarino A. vs O'Connell C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 5
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Mannarino A. vs O'Connell C." tvg-name="08:30 ATP - WIMBLEDON : Mannarino A. vs O'Connell C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 25
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1525.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Moller E. vs Tiafoe F." tvg-name="08:30 ATP - WIMBLEDON : Moller E. vs Tiafoe F. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 12
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Moller E. vs Tiafoe F." tvg-name="08:30 ATP - WIMBLEDON : Moller E. vs Tiafoe F. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 32
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1532.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Tarvet O. vs Riedi L." tvg-name="08:30 ATP - WIMBLEDON : Tarvet O. vs Riedi L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 4
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Tarvet O. vs Riedi L." tvg-name="08:30 ATP - WIMBLEDON : Tarvet O. vs Riedi L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 24
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Tien L. vs Basavareddy N." tvg-name="08:30 ATP - WIMBLEDON : Tien L. vs Basavareddy N. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 6
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1506.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Tien L. vs Basavareddy N." tvg-name="08:30 ATP - WIMBLEDON : Tien L. vs Basavareddy N. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 26
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1526.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Bergs Z. vs Harris L." tvg-name="10:00 ATP - WIMBLEDON : Bergs Z. vs Harris L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 7
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Bergs Z. vs Harris L." tvg-name="10:00 ATP - WIMBLEDON : Bergs Z. vs Harris L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 27
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1527.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Norrie C. vs Bautista-Agut R." tvg-name="10:00 ATP - WIMBLEDON : Norrie C. vs Bautista-Agut R. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 18
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1518.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Norrie C. vs Bautista-Agut R." tvg-name="10:00 ATP - WIMBLEDON : Norrie C. vs Bautista-Agut R. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 38
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1538.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Popyrin A. vs Fery A." tvg-name="10:00 ATP - WIMBLEDON : Popyrin A. vs Fery A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 15
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1515.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Popyrin A. vs Fery A." tvg-name="10:00 ATP - WIMBLEDON : Popyrin A. vs Fery A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 35
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1535.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rune H. vs Jarry N." tvg-name="10:00 ATP - WIMBLEDON : Rune H. vs Jarry N. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 3
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rune H. vs Jarry N." tvg-name="10:00 ATP - WIMBLEDON : Rune H. vs Jarry N. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 23
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1523.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Cerundolo F. vs Borges N." tvg-name="10:30 ATP - WIMBLEDON : Cerundolo F. vs Borges N. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 17
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Cerundolo F. vs Borges N." tvg-name="10:30 ATP - WIMBLEDON : Cerundolo F. vs Borges N. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 37
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1537.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Darderi L. vs Safiullin R." tvg-name="10:30 ATP - WIMBLEDON : Darderi L. vs Safiullin R. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 5
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Darderi L. vs Safiullin R." tvg-name="10:30 ATP - WIMBLEDON : Darderi L. vs Safiullin R. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 25
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1525.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Royer V. vs Tsitsipas S." tvg-name="10:30 ATP - WIMBLEDON : Royer V. vs Tsitsipas S. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 12
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Royer V. vs Tsitsipas S." tvg-name="10:30 ATP - WIMBLEDON : Royer V. vs Tsitsipas S. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 32
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1532.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fognini F. vs Alcaraz C." tvg-name="11:00 ATP - WIMBLEDON : Fognini F. vs Alcaraz C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 11
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fognini F. vs Alcaraz C." tvg-name="11:00 ATP - WIMBLEDON : Fognini F. vs Alcaraz C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 31
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1531.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Auger-Aliassime F. vs Duckworth J." tvg-name="11:30 ATP - WIMBLEDON : Auger-Aliassime F. vs Duckworth J. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 14
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1514.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Auger-Aliassime F. vs Duckworth J." tvg-name="11:30 ATP - WIMBLEDON : Auger-Aliassime F. vs Duckworth J. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 34
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1534.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Carreno-Busta P. vs Rodesch C." tvg-name="11:30 ATP - WIMBLEDON : Carreno-Busta P. vs Rodesch C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 10
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Carreno-Busta P. vs Rodesch C." tvg-name="11:30 ATP - WIMBLEDON : Carreno-Busta P. vs Rodesch C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 30
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1530.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Struff J-L. vs Misolic F." tvg-name="11:30 ATP - WIMBLEDON : Struff J-L. vs Misolic F. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 8
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Struff J-L. vs Misolic F." tvg-name="11:30 ATP - WIMBLEDON : Struff J-L. vs Misolic F. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 28
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1528.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Berrettini M. vs Majchrzak K." tvg-name="12:00 ATP - WIMBLEDON : Berrettini M. vs Majchrzak K. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 3
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Berrettini M. vs Majchrzak K." tvg-name="12:00 ATP - WIMBLEDON : Berrettini M. vs Majchrzak K. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 23
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1523.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fearnley J. vs Fonseca J." tvg-name="12:00 ATP - WIMBLEDON : Fearnley J. vs Fonseca J. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fearnley J. vs Fonseca J." tvg-name="12:00 ATP - WIMBLEDON : Fearnley J. vs Fonseca J. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 21
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Harris B. vs Lajovic D." tvg-name="12:00 ATP - WIMBLEDON : Harris B. vs Lajovic D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 15
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1515.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Harris B. vs Lajovic D." tvg-name="12:00 ATP - WIMBLEDON : Harris B. vs Lajovic D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 35
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1535.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - McDonald M. vs Khachanov K." tvg-name="12:00 ATP - WIMBLEDON : McDonald M. vs Khachanov K. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 18
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1518.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - McDonald M. vs Khachanov K." tvg-name="12:00 ATP - WIMBLEDON : McDonald M. vs Khachanov K. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 38
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1538.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Quinn E. vs Searle H." tvg-name="12:00 ATP - WIMBLEDON : Quinn E. vs Searle H. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 4
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Quinn E. vs Searle H." tvg-name="12:00 ATP - WIMBLEDON : Quinn E. vs Searle H. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 24
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rublev A. vs Djere L." tvg-name="12:00 ATP - WIMBLEDON : Rublev A. vs Djere L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 16
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1516.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rublev A. vs Djere L." tvg-name="12:00 ATP - WIMBLEDON : Rublev A. vs Djere L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 36
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1536.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Arnaldi M. vs Van De Zandschulp B." tvg-name="13:30 ATP - WIMBLEDON : Arnaldi M. vs Van De Zandschulp B. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 6
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1506.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Arnaldi M. vs Van De Zandschulp B." tvg-name="13:30 ATP - WIMBLEDON : Arnaldi M. vs Van De Zandschulp B. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 26
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1526.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Brooksby J. vs Griekspoor T." tvg-name="13:30 ATP - WIMBLEDON : Brooksby J. vs Griekspoor T. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 14
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1514.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Brooksby J. vs Griekspoor T." tvg-name="13:30 ATP - WIMBLEDON : Brooksby J. vs Griekspoor T. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 34
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1534.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Diallo G. vs Altmaier D." tvg-name="13:30 ATP - WIMBLEDON : Diallo G. vs Altmaier D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 8
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Diallo G. vs Altmaier D." tvg-name="13:30 ATP - WIMBLEDON : Diallo G. vs Altmaier D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 28
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1528.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Mpetshi Perricard G." tvg-name="13:30 ATP - WIMBLEDON : Fritz T. vs Mpetshi Perricard G. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 2
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Mpetshi Perricard G." tvg-name="13:30 ATP - WIMBLEDON : Fritz T. vs Mpetshi Perricard G. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 22
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1522.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Holt B. vs Davidovich Fokina A." tvg-name="13:30 ATP - WIMBLEDON : Holt B. vs Davidovich Fokina A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 9
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Holt B. vs Davidovich Fokina A." tvg-name="13:30 ATP - WIMBLEDON : Holt B. vs Davidovich Fokina A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 29
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1529.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Mochizuki S. vs Zeppieri G." tvg-name="13:30 ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 7
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Mochizuki S. vs Zeppieri G." tvg-name="13:30 ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 27
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1527.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rinderknech A. vs Zverev A." tvg-name="14:30 ATP - WIMBLEDON : Rinderknech A. vs Zverev A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 11
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rinderknech A. vs Zverev A." tvg-name="14:30 ATP - WIMBLEDON : Rinderknech A. vs Zverev A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 31
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1531.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Birrell K. vs Vekic D." tvg-name="08:30 WTA - WIMBLEDON : Birrell K. vs Vekic D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 15
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1515.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Birrell K. vs Vekic D." tvg-name="08:30 WTA - WIMBLEDON : Birrell K. vs Vekic D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 35
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1535.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bondar A. vs Svitolina E." tvg-name="08:30 WTA - WIMBLEDON : Bondar A. vs Svitolina E. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 18
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1518.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bondar A. vs Svitolina E." tvg-name="08:30 WTA - WIMBLEDON : Bondar A. vs Svitolina E. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 38
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1538.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Kartal S. vs Ostapenko J." tvg-name="08:30 WTA - WIMBLEDON : Kartal S. vs Ostapenko J. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 3
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Kartal S. vs Ostapenko J." tvg-name="08:30 WTA - WIMBLEDON : Kartal S. vs Ostapenko J. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 23
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1523.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Lys E. vs Yuan Y." tvg-name="08:30 WTA - WIMBLEDON : Lys E. vs Yuan Y. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 8
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Lys E. vs Yuan Y." tvg-name="08:30 WTA - WIMBLEDON : Lys E. vs Yuan Y. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 28
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1528.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Parry D. vs Martic P." tvg-name="08:30 WTA - WIMBLEDON : Parry D. vs Martic P. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 10
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Parry D. vs Martic P." tvg-name="08:30 WTA - WIMBLEDON : Parry D. vs Martic P. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 30
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1530.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Todoni A. A. vs Bucsa C." tvg-name="08:30 WTA - WIMBLEDON : Todoni A. A. vs Bucsa C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 7
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Todoni A. A. vs Bucsa C." tvg-name="08:30 WTA - WIMBLEDON : Todoni A. A. vs Bucsa C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 27
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1527.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Tomova V. vs Jabeur O." tvg-name="08:30 WTA - WIMBLEDON : Tomova V. vs Jabeur O. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 14
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1514.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Tomova V. vs Jabeur O." tvg-name="08:30 WTA - WIMBLEDON : Tomova V. vs Jabeur O. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 34
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1534.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Haddad Maia B. vs Sramkova R." tvg-name="10:00 WTA - WIMBLEDON : Haddad Maia B. vs Sramkova R. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 10
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Haddad Maia B. vs Sramkova R." tvg-name="10:00 WTA - WIMBLEDON : Haddad Maia B. vs Sramkova R. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 30
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1530.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Pera B. vs Noskova L." tvg-name="10:00 WTA - WIMBLEDON : Pera B. vs Noskova L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 14
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1514.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Pera B. vs Noskova L." tvg-name="10:00 WTA - WIMBLEDON : Pera B. vs Noskova L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 34
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1534.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Stearns P. vs Siegemund L." tvg-name="10:00 WTA - WIMBLEDON : Stearns P. vs Siegemund L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 8
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Stearns P. vs Siegemund L." tvg-name="10:00 WTA - WIMBLEDON : Stearns P. vs Siegemund L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 28
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1528.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Danilovic O. vs Zhang S." tvg-name="10:30 WTA - WIMBLEDON : Danilovic O. vs Zhang S. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 9
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Danilovic O. vs Zhang S." tvg-name="10:30 WTA - WIMBLEDON : Danilovic O. vs Zhang S. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 29
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1529.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Gracheva V. vs Sasnovich A." tvg-name="10:30 WTA - WIMBLEDON : Gracheva V. vs Sasnovich A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 6
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1506.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Gracheva V. vs Sasnovich A." tvg-name="10:30 WTA - WIMBLEDON : Gracheva V. vs Sasnovich A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 26
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1526.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Minnen G. vs Gadecki O." tvg-name="10:30 WTA - WIMBLEDON : Minnen G. vs Gadecki O. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 4
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Minnen G. vs Gadecki O." tvg-name="10:30 WTA - WIMBLEDON : Minnen G. vs Gadecki O. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 24
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Ruse G. vs Keys M." tvg-name="10:30 WTA - WIMBLEDON : Ruse G. vs Keys M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 2
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Ruse G. vs Keys M." tvg-name="10:30 WTA - WIMBLEDON : Ruse G. vs Keys M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 22
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1522.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sabalenka A. vs Branstine C." tvg-name="10:30 WTA - WIMBLEDON : Sabalenka A. vs Branstine C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sabalenka A. vs Branstine C." tvg-name="10:30 WTA - WIMBLEDON : Sabalenka A. vs Branstine C. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 21
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Shnaider D. vs Uchijima M." tvg-name="10:30 WTA - WIMBLEDON : Shnaider D. vs Uchijima M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 16
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1516.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Shnaider D. vs Uchijima M." tvg-name="10:30 WTA - WIMBLEDON : Shnaider D. vs Uchijima M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 36
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1536.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Li A. vs Golubic V." tvg-name="12:00 WTA - WIMBLEDON : Li A. vs Golubic V. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 6
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1506.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Li A. vs Golubic V." tvg-name="12:00 WTA - WIMBLEDON : Li A. vs Golubic V. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 26
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1526.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Paolini J. vs Sevastova A." tvg-name="12:00 WTA - WIMBLEDON : Paolini J. vs Sevastova A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 2
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Paolini J. vs Sevastova A." tvg-name="12:00 WTA - WIMBLEDON : Paolini J. vs Sevastova A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 22
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1522.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Rakhimova K. vs Ito A." tvg-name="12:00 WTA - WIMBLEDON : Rakhimova K. vs Ito A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 7
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Rakhimova K. vs Ito A." tvg-name="12:00 WTA - WIMBLEDON : Rakhimova K. vs Ito A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 27
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1527.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Wickmayer Y. vs Zarazua R." tvg-name="12:00 WTA - WIMBLEDON : Wickmayer Y. vs Zarazua R. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 9
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Wickmayer Y. vs Zarazua R." tvg-name="12:00 WTA - WIMBLEDON : Wickmayer Y. vs Zarazua R. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 29
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1529.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Dart H. vs Galfi D." tvg-name="12:30 WTA - WIMBLEDON : Dart H. vs Galfi D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 17
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Dart H. vs Galfi D." tvg-name="12:30 WTA - WIMBLEDON : Dart H. vs Galfi D. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 37
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1537.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Fernandez L. vs Klugman H." tvg-name="12:30 WTA - WIMBLEDON : Fernandez L. vs Klugman H. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 12
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Fernandez L. vs Klugman H." tvg-name="12:30 WTA - WIMBLEDON : Fernandez L. vs Klugman H. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 32
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1532.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sun L. vs Bouzkova M." tvg-name="12:30 WTA - WIMBLEDON : Sun L. vs Bouzkova M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 5
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sun L. vs Bouzkova M." tvg-name="12:30 WTA - WIMBLEDON : Sun L. vs Bouzkova M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 25
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1525.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Badosa P. vs Boulter K." tvg-name="13:00 WTA - WIMBLEDON : Badosa P. vs Boulter K. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 11
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Badosa P. vs Boulter K." tvg-name="13:00 WTA - WIMBLEDON : Badosa P. vs Boulter K. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 31
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1531.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Pavlyuchenkova A. vs Tomljanovic A." tvg-name="13:30 WTA - WIMBLEDON : Pavlyuchenkova A. vs Tomljanovic A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 10
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Pavlyuchenkova A. vs Tomljanovic A." tvg-name="13:30 WTA - WIMBLEDON : Pavlyuchenkova A. vs Tomljanovic A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 30
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1530.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Siniakova K. vs Zheng Q." tvg-name="14:00 WTA - WIMBLEDON : Siniakova K. vs Zheng Q. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 3
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Siniakova K. vs Zheng Q." tvg-name="14:00 WTA - WIMBLEDON : Siniakova K. vs Zheng Q. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 23
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1523.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Krueger A. vs Stojsavljevic M." tvg-name="14:00 WTA - WIMBLEDON : Krueger A. vs Stojsavljevic M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 17
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Krueger A. vs Stojsavljevic M." tvg-name="14:00 WTA - WIMBLEDON : Krueger A. vs Stojsavljevic M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 37
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1537.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Mertens E. vs Fruhvirtova L." tvg-name="14:00 WTA - WIMBLEDON : Mertens E. vs Fruhvirtova L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 16
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1516.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Mertens E. vs Fruhvirtova L." tvg-name="14:00 WTA - WIMBLEDON : Mertens E. vs Fruhvirtova L. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 36
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1536.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Osaka N. vs Gibson T." tvg-name="14:00 WTA - WIMBLEDON : Osaka N. vs Gibson T. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 18
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1518.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Osaka N. vs Gibson T." tvg-name="14:00 WTA - WIMBLEDON : Osaka N. vs Gibson T. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 38
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1538.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Putintseva Y. vs Anisimova A." tvg-name="14:00 WTA - WIMBLEDON : Putintseva Y. vs Anisimova A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 15
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1515.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Putintseva Y. vs Anisimova A." tvg-name="14:00 WTA - WIMBLEDON : Putintseva Y. vs Anisimova A. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 35
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1535.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Raducanu E. vs Xu M." tvg-name="14:00 WTA - WIMBLEDON : Raducanu E. vs Xu M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Raducanu E. vs Xu M." tvg-name="14:00 WTA - WIMBLEDON : Raducanu E. vs Xu M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 21
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Vondrousova M. vs Kessler M." tvg-name="14:00 WTA - WIMBLEDON : Vondrousova M. vs Kessler M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 12
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Vondrousova M. vs Kessler M." tvg-name="14:00 WTA - WIMBLEDON : Vondrousova M. vs Kessler M. - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 32
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1532.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC Two UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-357.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-839.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-46.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-701.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-129.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 4 Cyprus
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-914.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-915.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports Prime Greece
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-638.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-636.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-438.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 3 Spain
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-526.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", M+ Vamos Spain
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-521.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 4 Spain
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-527.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TRT Spor Turkey
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SRF Zwei
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-116.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 5 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 6 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-496.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 7 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-497.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 8 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-498.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV3 Portugal
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-454.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-57.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-524.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-231.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Greece
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-41.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-58.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-525.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-773.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-879.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-773.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-42.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Canal+ Sport 5 Afrique
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-490.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 6 Arabic
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-97.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-99.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Stars Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Early Round Coverage, Day 1 - 2025 Wimbledon Championships Early Round Coverage, Day 1" tvg-name="20:00 2025 Wimbledon Championships Early Round Coverage, Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Star Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Netflix PPV
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Variety 4
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-419.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Grandstand
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-412.php
-
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Supersports Action
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-420.php
-
-#EXTINF:-1 tvg-id="Women's AmeriCup - Brazil W vs Canada W" tvg-name="20:10 Women's AmeriCup : Brazil W vs Canada W - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN4 Brazil
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-85.php
-
-#EXTINF:-1 tvg-id="ACB Liga Endesa - Real Madrid vs Valencia" tvg-name="21:15 ACB Liga Endesa : Real Madrid vs Valencia - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 7 Greece
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-628.php
-
-#EXTINF:-1 tvg-id="Women's AmeriCup - FIBA Club World Cup: Round of 16" tvg-name="02:00 Women's AmeriCup : FIBA Club World Cup: Round of 16 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
-
-#EXTINF:-1 tvg-id="Women's AmeriCup - Puerto Rico W vs USA W" tvg-name="02:10 Women's AmeriCup : Puerto Rico W vs USA W - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Brazil
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
-
-#EXTINF:-1 tvg-id="Premier Padel 2025 - Bordeaux P2 Day 1" tvg-name="14:00 Premier Padel 2025: Bordeaux P2 Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN Sports 3 Malaysia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-714.php
-
-#EXTINF:-1 tvg-id="Premier Padel 2025 - Bordeaux P2 Day 1" tvg-name="14:00 Premier Padel 2025: Bordeaux P2 Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", beIN SPORTS 3 Arabic
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
-
-#EXTINF:-1 tvg-id="Premier Padel 2025 - Bordeaux P2 Day 1" tvg-name="14:00 Premier Padel 2025: Bordeaux P2 Day 1 - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport 4 Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
-
-#EXTINF:-1 tvg-id="ANZ Premiership - Stars vs Mystics" tvg-name="07:30 ANZ Premiership : Stars vs Mystics - 30/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Netball", Sky Sport 1 NZ
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-588.php
-
 #EXTINF:-1 tvg-id="World - Club Friendly - Radomlje vs Dinamo Zagreb" tvg-name="17:30 World - Club Friendly : Radomlje vs Dinamo Zagreb - 01/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ŠTV 1 Slovenia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
 

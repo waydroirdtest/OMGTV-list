@@ -1,14 +1,14 @@
 {
-  "https://thisnot.business/player.php?id=Italia1_IT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ee91704e23b78016&key=bfd04d6f544c9cc4d35cb13ab6778587",
+  "https://thisnot.business/player.php?id=SporTV1_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
     "info": {
       "category": "CALCIO",
       "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
-      "date": "DOMENICA 29 GIUGNO",
-      "event": "22:00 Flamengo - Bayern Monaco",
-      "channel": "Mediaset",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=Italia1_IT"
+      "date": "LUNEDI 30 GIUGNO",
+      "event": "03:00 Borussia Dortmund - Monterrey",
+      "channel": "SporTV",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SporTV1_BR"
     }
   },
   "https://thisnot.business/player.php?id=Canale5_IT": {
@@ -16,11 +16,35 @@
     "info": {
       "category": "CALCIO",
       "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
-      "date": "DOMENICA 29 GIUGNO",
+      "date": "LUNEDI 30 GIUGNO",
       "event": "21:00 Real Madrid - Juventus",
       "channel": "Mediaset",
       "language": "br",
       "url": "https://thisnot.business/player.php?id=Canale5_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=DaznHD": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-ac-live.cdn.indazn.com/1op9h5sx92pfm1xwxf11jk4vai/web/stream.mpd%3Fchannel%3D1652%26outlet%3Ddazn-italy%26plang%3Dit%26headers%3DeyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW10cFpDSTZJblYxYVdSZk1TSjkuZXlKd1lYUm9jeUk2V3lJdk1XOXdPV2cxYzNnNU1uQm1iVEY0ZDNobU1URnFhelIyWVdraVhTd2laWGhqSWpwYlhTd2lhR1ZoWkdWeWN5STZXeUoxYzJWeUxXRm5aVzUwSWwwc0ltTnZJanAwY25WbExDSnBjQ0k2Wm1Gc2MyVXNJbUZ6YmlJNlptRnNjMlVzSW1sdWRITnBaeUk2SW1kemMwdGlaQzEwVkVkMlZXUkJWbVpGWWtOc09FZzFNRkkyZUVsaE1tUTJjVWx3V1ZKc2EwUllOMFVpTENKcFlYUWlPakUzTlRFek1EWTBPVElzSW1WNGNDSTZNVGMxTVRNNU1qZzVNbjAuNmRvMHZtcGQ5ZmpFdWR1Z3R1SUQ0eDRwcXpkU3FfNXVzZ2hEM2czaEFCSSJ9",
+    "info": {
+      "category": "CALCIO",
+      "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
+      "date": "LUNEDI 30 GIUGNO",
+      "event": "21:00 Inter - Fluminense",
+      "channel": "Dazn",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=DaznHD"
+    }
+  },
+  "https://thisnot.business/player.php?id=DaznFree": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1i1wre3pajbdj13s1myhqktytl/web/stream.mpd%3Foutlet%3Ddazn-row",
+    "info": {
+      "category": "CALCIO",
+      "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
+      "date": "LUNEDI 30 GIUGNO",
+      "event": "21:00 Inter - Fluminense",
+      "channel": "Dazn",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=DaznFree"
     }
   },
   "https://thisnot.business/player.php?id=Channel5": {
@@ -28,7 +52,7 @@
     "info": {
       "category": "CALCIO",
       "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
-      "date": "DOMENICA 29 GIUGNO",
+      "date": "LUNEDI 30 GIUGNO",
       "event": "03:00 Manchester City - Al Hilal",
       "channel": "Channel5",
       "language": "br",
@@ -40,7 +64,7 @@
     "info": {
       "category": "CALCIO",
       "title": "MONDIALE PER CLUB, OTTAVI DI FINALE - USA",
-      "date": "DOMENICA 29 GIUGNO",
+      "date": "LUNEDI 30 GIUGNO",
       "event": "03:00 Borussia Dortmund - Monterrey",
       "channel": "Sat.1",
       "language": "br",

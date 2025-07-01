@@ -1,15 +1,21 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="Italia1_IT" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA DOMENICA 29 GIUGNO 22:00 Flamengo - Bayern Monaco" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ee91704e23b78016&key=bfd04d6f544c9cc4d35cb13ab6778587
+#EXTINF:-1 tvg-id="SporTV1_BR" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA LUNEDI 30 GIUGNO 03:00 Borussia Dortmund - Monterrey" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
 
-#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA DOMENICA 29 GIUGNO 21:00 Real Madrid - Juventus" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
+#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA LUNEDI 30 GIUGNO 21:00 Real Madrid - Juventus" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
-#EXTINF:-1 tvg-id="Channel5" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA DOMENICA 29 GIUGNO 03:00 Manchester City - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Channel5 (TN)
+#EXTINF:-1 tvg-id="DaznHD" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA LUNEDI 30 GIUGNO 21:00 Inter - Fluminense" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-ac-live.cdn.indazn.com/1op9h5sx92pfm1xwxf11jk4vai/web/stream.mpd%3Fchannel%3D1652%26outlet%3Ddazn-italy%26plang%3Dit%26headers%3DeyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW10cFpDSTZJblYxYVdSZk1TSjkuZXlKd1lYUm9jeUk2V3lJdk1XOXdPV2cxYzNnNU1uQm1iVEY0ZDNobU1URnFhelIyWVdraVhTd2laWGhqSWpwYlhTd2lhR1ZoWkdWeWN5STZXeUoxYzJWeUxXRm5aVzUwSWwwc0ltTnZJanAwY25WbExDSnBjQ0k2Wm1Gc2MyVXNJbUZ6YmlJNlptRnNjMlVzSW1sdWRITnBaeUk2SW1kemMwdGlaQzEwVkVkMlZXUkJWbVpGWWtOc09FZzFNRkkyZUVsaE1tUTJjVWx3V1ZKc2EwUllOMFVpTENKcFlYUWlPakUzTlRFek1EWTBPVElzSW1WNGNDSTZNVGMxTVRNNU1qZzVNbjAuNmRvMHZtcGQ5ZmpFdWR1Z3R1SUQ0eDRwcXpkU3FfNXVzZ2hEM2czaEFCSSJ9
+
+#EXTINF:-1 tvg-id="DaznFree" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA LUNEDI 30 GIUGNO 21:00 Inter - Fluminense" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1i1wre3pajbdj13s1myhqktytl/web/stream.mpd%3Foutlet%3Ddazn-row
+
+#EXTINF:-1 tvg-id="Channel5" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA LUNEDI 30 GIUGNO 03:00 Manchester City - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Channel5 (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
-#EXTINF:-1 tvg-id="SAT1" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA DOMENICA 29 GIUGNO 03:00 Borussia Dortmund - Monterrey" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
+#EXTINF:-1 tvg-id="SAT1" tvg-name="MONDIALE PER CLUB, OTTAVI DI FINALE - USA LUNEDI 30 GIUGNO 03:00 Borussia Dortmund - Monterrey" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 
 #EXTINF:-1 tvg-id="ITA_SportTennis" tvg-name="ATP/WTA WIMBLEDON - INGHILTERRA LUNEDI 30 GIUGNO - DOMENICA 13 LUGLIO 12:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)

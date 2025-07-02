@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-id="SporTV1_BR" tvg-name="CONCACAF GOLD CUP, SEMIFINALI - NORD AMERICA GIOVEDI 3 LUGLIO 03:00 Borussia Dortmund - Monterrey" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
 
-#EXTINF:-1 tvg-id="Channel5" tvg-name="CONCACAF GOLD CUP, SEMIFINALI - NORD AMERICA GIOVEDI 3 LUGLIO 03:00 Manchester City - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Channel5 (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://cachehsi2b.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-
-#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CONCACAF GOLD CUP, SEMIFINALI - NORD AMERICA GIOVEDI 3 LUGLIO 21:00 Real Madrid - Juventus" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
-
 #EXTINF:-1 tvg-id="SAT1" tvg-name="CONCACAF GOLD CUP, SEMIFINALI - NORD AMERICA GIOVEDI 3 LUGLIO 03:00 Borussia Dortmund - Monterrey" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
 

@@ -1,11 +1,5 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="SporTV1_BR" tvg-name="CONCACAF GOLD CUP, SEMIFINALI - NORD AMERICA GIOVEDI 3 LUGLIO 03:00 Borussia Dortmund - Monterrey" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
-
-#EXTINF:-1 tvg-id="SAT1" tvg-name="CONCACAF GOLD CUP, SEMIFINALI - NORD AMERICA GIOVEDI 3 LUGLIO 03:00 Borussia Dortmund - Monterrey" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
-
 #EXTINF:-1 tvg-id="RTE2" tvg-name="CONCACAF GOLD CUP, SEMIFINALI - NORD AMERICA GIOVEDI 3 LUGLIO 21:00 Spagna - Portogallo" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 

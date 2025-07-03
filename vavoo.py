@@ -2,19 +2,18 @@ import requests
 import json
 import re
 import os
+import time
 from dotenv import load_dotenv
 load_dotenv()
 MFP = os.getenv("MFP")
 PSW = os.getenv("PSW")
+PZPROXY = os.getenv("PZPROXY")
 # MFPRender = os.getenv("MFPRender") # Load if needed in the future
 # PSWRender = os.getenv("PSWRender") # Load if needed in the future
 
-if not MFP or not PSW:
-    raise ValueError("MFP and PSW environment variables must be set.")
-
 # This script uses its own HEADER, not the one from .env for NOMEGITHUB etc.
-NOMEGITHUB = os.getenv("NOMEGITHUB")
-NOMEREPO = os.getenv("NOMEREPO")
+NOMEGITHUB = os.getenv("NOMEGITHUB", "testuser")
+NOMEREPO = os.getenv("NOMEREPO", "testrepo")
 
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
 OUTPUT_FILE = "channels_italy.m3u8"
@@ -257,12 +256,71 @@ def assign_category(name):
 def extract_user_agent():
     return "VAVOO/2.6"
 
+def getAuthSignature():
+    headers = {
+        "user-agent": "okhttp/4.11.0",
+        "accept": "application/json",
+        "content-type": "application/json; charset=utf-8",
+        "content-length": "1106",
+        "accept-encoding": "gzip"
+    }
+    data = {
+        "token": "tosFwQCJMS8qrW_AjLoHPQ41646J5dRNha6ZWHnijoYQQQoADQoXYSo7ki7O5-CsgN4CH0uRk6EEoJ0728ar9scCRQW3ZkbfrPfeCXW2VgopSW2FWDqPOoVYIuVPAOnXCZ5g",
+        "reason": "app-blur",
+        "locale": "de",
+        "theme": "dark",
+        "metadata": {
+            "device": {
+                "type": "Handset",
+                "os": "Android",
+                "osVersion": "10",
+                "model": "Pixel 4",
+                "brand": "Google"
+            }
+        }
+    }
+    resp = requests.post("https://vavoo.to/mediahubmx-signature.json", json=data, headers=headers, timeout=10)
+    return resp.json().get("signature")
+
+def vavoo_groups():
+    # Puoi aggiungere altri gruppi per più canali
+    return ["Italy"]
+
 def fetch_channels():
-    """Scarica i dati JSON dai canali di Vavoo."""
+    """Scarica i dati JSON dai canali di Vavoo usando la nuova API."""
     try:
-        response = requests.get(f"{BASE_URL}/channels", timeout=10)
-        response.raise_for_status()
-        return response.json()
+        signature = getAuthSignature()
+        headers = {
+            "user-agent": "okhttp/4.11.0",
+            "accept": "application/json",
+            "content-type": "application/json; charset=utf-8",
+            "accept-encoding": "gzip",
+            "mediahubmx-signature": signature
+        }
+        all_channels = []
+        for group in vavoo_groups():
+            cursor = 0
+            while True:
+                data = {
+                    "language": "de",
+                    "region": "AT",
+                    "catalogId": "iptv",
+                    "id": "iptv",
+                    "adult": False,
+                    "search": "",
+                    "sort": "name",
+                    "filter": {"group": group},
+                    "cursor": cursor,
+                    "clientVersion": "3.0.2"
+                }
+                resp = requests.post("https://vavoo.to/mediahubmx-catalog.json", json=data, headers=headers, timeout=10)
+                r = resp.json()
+                items = r.get("items", [])
+                all_channels.extend(items)
+                cursor = r.get("nextCursor")
+                if not cursor:
+                    break
+        return all_channels
     except requests.RequestException as e:
         print(f"Errore durante il download: {e}")
         return []
@@ -273,7 +331,8 @@ def filter_channels(channels):
     seen = {}
 
     for ch in channels:
-        if ch.get("country") == "Italy":
+        # Usa 'group' invece di 'country' per la nuova API
+        if ch.get("group") == "Italy":
             original_name = ch["name"].lower()
             if any(f in original_name for f in CHANNEL_REMOVE):
                 continue
@@ -287,7 +346,10 @@ def filter_channels(channels):
             if count > 1:
                 clean_name = f"{clean_name} ({count})"
 
-            results.append((clean_name, f"{BASE_URL}/play/{ch['id']}/index.m3u8", category))
+            # Usa l'URL dal campo "url" invece di costruirlo
+            url = ch.get("url", "")
+            if url:
+                results.append((clean_name, url, category))
 
     return results
 
@@ -297,7 +359,7 @@ def save_m3u8(channels):
         os.remove(OUTPUT_FILE)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(f'#EXTM3U url-tvg="https://github.com/{NOMEGITHUB}/{NOMEREPO}/raw/refs/heads/main/epg.xml"\n\n')
+        f.write(f'#EXTM3U url-tvg="https://git.pizzapi.uk/{NOMEGITHUB}/{NOMEREPO}/raw/branch/main/epg.xml"\n\n')
         user_agent = extract_user_agent()
 
         for name, url, category in channels:
@@ -314,7 +376,8 @@ def save_m3u8(channels):
             if tvg_id_modified in SPECIAL_CHANNEL_MAPPING:
                tvg_id_modified = SPECIAL_CHANNEL_MAPPING[tvg_id_modified]
 
-            proxy_mfp_value = f"{MFP}/proxy/hls/manifest.m3u8?api_password={PSW}&d="
+            #proxy_mfp_value = f"{MFP}/proxy/hls/manifest.m3u8?api_password={PSW}&d="
+            proxy_mfp_value = f"{PZPROXY}/proxy/m3u?url="
             f.write(f'#EXTINF:-1 tvg-id="{tvg_id_modified}.it" tvg-name="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
             f.write(f"{proxy_mfp_value}{url}{HEADER}\n\n")
 

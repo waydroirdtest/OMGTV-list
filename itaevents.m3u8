@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="GCW - Backyard Wrestling 7" tvg-name="20:00 GCW: Backyard Wrestling 7 - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="NCL 55 - Project: NORTH" tvg-name="22:30 NCL 55: Project: NORTH - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="2025 Lucas Oil Late Model Dirt Series at Atomic Speedway - 2025 Lucas Oil Late Model Dirt Series at Atomic Speedway" tvg-name="23:45 2025 Lucas Oil Late Model Dirt Series at Atomic Speedway - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="2025 The Mira Vision Challenge at Autodrome Granby - 2025 The Mira Vision Challenge at Autodrome Granby" tvg-name="00:15 2025 The Mira Vision Challenge at Autodrome Granby - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="Attica Speedway Sprint Cars - Attica Speedway Sprint Cars" tvg-name="00:30 Attica Speedway Sprint Cars - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="Williams Grove Speedway Sprints - Williams Grove Speedway Sprints" tvg-name="01:00 Williams Grove Speedway Sprints - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway - 2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway" tvg-name="01:00 2025 USAC Bill Gardner Sprintacular at Lincoln Park Speedway - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="2025 NAPA All Star Circuit of Champions at Stateline Speedway - 2025 NAPA All Star Circuit of Champions at Stateline Speedway" tvg-name="01:00 2025 NAPA All Star Circuit of Champions at Stateline Speedway - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="Pro Wrestling Revolution - Lucha Libre - San Jose, February 2025 (en Español)" tvg-name="01:00 Pro Wrestling Revolution: Lucha Libre - San Jose, February 2025 (en Español) - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models - World of Outlaws Late Models" tvg-name="01:15 World of Outlaws Late Models - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Belleville - American Sprint Car Series Belleville" tvg-name="01:15 American Sprint Car Series Belleville - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="DIRTcar Summer Nationals Late Models Red Hil - DIRTcar Summer Nationals Late Models Red Hil" tvg-name="01:30 DIRTcar Summer Nationals Late Models Red Hil - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Dirtvision
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
 #EXTINF:-1 tvg-id="Robogobo The Chirp Chasers; Play Day Season 1, Episode 21 - Robogobo The Chirp Chasers; Play Day Season 1, Episode 21" tvg-name="15:00 Robogobo The Chirp Chasers; Play Day Season 1, Episode 21 - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tv Shows", Disney Channel
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-312.php
 
@@ -488,7 +524,7 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
 #EXTINF:-1 tvg-id="Major League Soccer - LA Galaxy vs Vancouver Whitecaps" tvg-name="04:30 Major League Soccer : LA Galaxy vs Vancouver Whitecaps - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RDS 2
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-840.php
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Press Conferences" tvg-name="14:08 ATP - WIMBLEDON : Wimbledon Press Conferences - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 26
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Press Conferences" tvg-name="16:01 ATP - WIMBLEDON : Wimbledon Press Conferences - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 26
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1526.php
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fucsovics M. vs Monfils G." tvg-name="13:30 ATP - WIMBLEDON : Fucsovics M. vs Monfils G. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 18

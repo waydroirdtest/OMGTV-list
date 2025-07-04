@@ -396,6 +396,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1228534500ffff8
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -510,9 +513,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17532606771304e
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -580,9 +580,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/22890389722acc4
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33760313550167605877f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
@@ -1061,6 +1058,10 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-
 
 #EXTINF:-1 tvg-id="Boomerang.it" tvg-chno="609" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boomerang-it.png" group-title="Sky",Boomerang 
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(boomerang)/master_2hr-aac.mpd&key_id=1115cc41a0daf57a22c1c81bd139b559&key=31347f9bbc90713e972249b54ec882b2
+
+#EXTINF:-1 tvg-id="skyadventure.it" tvg-chno="610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Sky_Adventure_Logo_1080p.png" group-title="Sky",Sky Adventure
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyadventure)/master_2hr-aac.mpd&key_id=11158035ffbf17eebd02027e96383161&key=7e1ea10428e8c5cdfdac6c55b23018d2
+
 
 #EXTINF:-1 tvg-id="bari.it" tvg-name="Bari" tvg-logo="https://i.postimg.cc/NFGs2Ptq/photo-2025-03-12-12-36-48.png" group-title="Sport;Calcio TOP1",Bari (CT1)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://calcionew.newkso.ru/calcio/Bari/mono.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fcalcionew.newkso.ru%2F&h_origin=https%3A%2F%2Fcalcionew.newkso.ru

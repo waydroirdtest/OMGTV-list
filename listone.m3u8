@@ -54,14 +54,14 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3743894403dc7e6
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -146,9 +146,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42489970292d293
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -269,9 +266,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1803677691b051b
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -399,9 +393,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1228534500ffff8
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -516,9 +507,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17532606771304e
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -616,9 +604,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33428493134b007
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
@@ -1704,20 +1689,11 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//g003-lin-i
 #EXTINF:-1 tvg-id="RTE2" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Portogallo - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
-#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
-
-#EXTINF:-1 tvg-id="DaznFreeES" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Fluminense - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/31ny6drefuhh1dy62egnrqc8p/web/stream.mpd%3Foutlet%3Ddazn-row
-
-#EXTINF:-1 tvg-id="MBCaction" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 21:00 Fluminense - Al Hilal" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", MBC (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd&key_id=5567531458e9c2e93d22935c45fdef52&key=f2f613fb2132acd019d2a96bf1be15c1
-
-#EXTINF:-1 tvg-id="SporTV1_BR" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 03:00 Palmeiras - Chelsea" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
-
-#EXTINF:-1 tvg-id="SAT1" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 18:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
+#EXTINF:-1 tvg-id="SAT1" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 22:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sat.1 (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4
+
+#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 22:00 Real Madrid - Borussia Dortmund" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
 #EXTINF:-1 tvg-id="SportTV1_PT" tvg-name="CONCACAF GOLD CUP, FINALE - NORD AMERICA LUNEDI 7 LUGLIO 01:00 USA - Messico" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sport•TV (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
@@ -1754,6 +1730,12 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://mag01.tvx.pr
 
 #EXTINF:-1 tvg-id="ITA_SportF1" tvg-name="GP SILVERSTONE - INGHILTERRA SABATO 5 LUGLIO 16:00 Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10
+
+#EXTINF:-1 tvg-id="Eurosport1IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
+
+#EXTINF:-1 tvg-id="Eurosport2IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 
 # Playlist generata da SkyStreaming
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Sligo Rovers vs Shamrock Rovers" tvg-name="20:45 Ireland Republic - Premier Division : Sligo Rovers vs Shamrock Rovers - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV

@@ -23,6 +23,30 @@
       "url": "https://thisnot.business/player.php?id=Canale5_IT"
     }
   },
+  "https://thisnot.business/player.php?id=DaznFreeES": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/31ny6drefuhh1dy62egnrqc8p/web/stream.mpd%3Foutlet%3Ddazn-row",
+    "info": {
+      "category": "CALCIO",
+      "title": "CONCACAF GOLD CUP, FINALE - NORD AMERICA",
+      "date": "LUNEDI 7 LUGLIO",
+      "event": "21:00 Fluminense - Al Hilal",
+      "channel": "Dazn",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=DaznFreeES"
+    }
+  },
+  "https://thisnot.business/player.php?id=MBCaction": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://uselector.cdn.intigral-ott.net/MBAH/MBAH.isml/manifest.mpd&key_id=5567531458e9c2e93d22935c45fdef52&key=f2f613fb2132acd019d2a96bf1be15c1",
+    "info": {
+      "category": "CALCIO",
+      "title": "CONCACAF GOLD CUP, FINALE - NORD AMERICA",
+      "date": "LUNEDI 7 LUGLIO",
+      "event": "21:00 Fluminense - Al Hilal",
+      "channel": "MBC",
+      "language": "es",
+      "url": "https://thisnot.business/player.php?id=MBCaction"
+    }
+  },
   "https://thisnot.business/player.php?id=SporTV1_BR": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
     "info": {
@@ -31,7 +55,7 @@
       "date": "LUNEDI 7 LUGLIO",
       "event": "03:00 Palmeiras - Chelsea",
       "channel": "SporTV",
-      "language": "it",
+      "language": "sa",
       "url": "https://thisnot.business/player.php?id=SporTV1_BR"
     }
   },
@@ -184,7 +208,7 @@
     "info": {
       "category": "FORMULA 1",
       "title": "GP SILVERSTONE - INGHILTERRA",
-      "date": "VENERDI 4 LUGLIO",
+      "date": "SABATO 5 LUGLIO",
       "event": "16:00 Gara",
       "channel": "Sky Sport",
       "language": "it",

@@ -63,17 +63,11 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365827745096a99
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -378,6 +372,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1482866609814ff
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/381279617198e7a1b969ee&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -429,9 +426,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17596257388e83c
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Sky",SKY DOCUMENTARIES (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -455,9 +449,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/18766170987dd5e
 
 #EXTINF:-1 tvg-id="skyprimafila15.it" tvg-name="Sky Primafila 15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 15 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila16.it" tvg-name="Sky Primafila 16" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 16 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -530,6 +521,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3007400791d5bc6
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -623,9 +617,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2900362153b8a05
 
 #EXTINF:-1 tvg-id="tennischannel.it" tvg-name="Tennis Channel" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tgcom 24" tvg-logo="" group-title="Notizie;Mediaset",TGCOM 24 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -2164,7 +2155,7 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
 #EXTINF:-1 tvg-id="Men's Club Soccer Friendlies - Mazatlán FC vs Cruz Azul" tvg-name="02:30 Men's Club Soccer Friendlies : Mazatlán FC vs Cruz Azul - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Deportes
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Press Conferences" tvg-name="11:11 ATP - WIMBLEDON : Wimbledon Press Conferences - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 26
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Press Conferences" tvg-name="11:46 ATP - WIMBLEDON : Wimbledon Press Conferences - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 26
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1526.php
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Khachanov K. vs Majchrzak K." tvg-name="12:00 ATP - WIMBLEDON : Khachanov K. vs Majchrzak K. - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 2
@@ -2929,13 +2920,13 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-148.php
 #EXTINF:-1 tvg-id="3x3 FIBA International Quest 2025 - 3x3 FIBA International Quest 2025" tvg-name="15:30 3x3 FIBA International Quest 2025 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ERT 2 Greece
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-12.php
 
-#EXTINF:-1 tvg-id="FIBA World Cup U19 - 3rd Place New Zealand U19 vs Slovenia U19 - FIBA World Cup U19 - 3rd Place New Zealand U19 vs Slovenia U19" tvg-name="17:00 FIBA World Cup U19 - 3rd Place New Zealand U19 vs Slovenia U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
+#EXTINF:-1 tvg-id="FIBA World Cup U19 3rd Place - New Zealand U19 vs Slovenia U19" tvg-name="17:00 FIBA World Cup U19 3rd Place : New Zealand U19 vs Slovenia U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-634.php
 
-#EXTINF:-1 tvg-id="FIBA World Cup U19 - 3rd Place New Zealand U19 vs Slovenia U19 - FIBA World Cup U19 - 3rd Place New Zealand U19 vs Slovenia U19" tvg-name="17:00 FIBA World Cup U19 - 3rd Place New Zealand U19 vs Slovenia U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Brazil
+#EXTINF:-1 tvg-id="FIBA World Cup U19 3rd Place - New Zealand U19 vs Slovenia U19" tvg-name="17:00 FIBA World Cup U19 3rd Place : New Zealand U19 vs Slovenia U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Brazil
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
 
-#EXTINF:-1 tvg-id="Basketball - FIBA AmeriCup (W): for 7th place" tvg-name="17:40 Basketball: FIBA AmeriCup (W): for 7th place - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 4 Croatia
+#EXTINF:-1 tvg-id="Women's AmeriCup - Dominican Republic W vs Mexico W" tvg-name="17:40 Women's AmeriCup : Dominican Republic W vs Mexico W - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 4 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
 
 #EXTINF:-1 tvg-id="WNBA Basketball - Seattle Storm vs New York Liberty" tvg-name="19:00 WNBA Basketball : Seattle Storm vs New York Liberty - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TNT Sports 3 UK
@@ -2950,16 +2941,16 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-767.php
 #EXTINF:-1 tvg-id="WNBA Basketball - Seattle Storm vs New York Liberty" tvg-name="19:00 WNBA Basketball : Seattle Storm vs New York Liberty - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 4 Greece
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-625.php
 
-#EXTINF:-1 tvg-id="FIBA World Cup U19 - Final USA U19 vs Germany U19 - FIBA World Cup U19 - Final USA U19 vs Germany U19" tvg-name="20:00 FIBA World Cup U19 - Final USA U19 vs Germany U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
+#EXTINF:-1 tvg-id="FIBA World Cup U19 Final - USA U19 vs Germany U19" tvg-name="20:00 FIBA World Cup U19 Final : USA U19 vs Germany U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-634.php
 
-#EXTINF:-1 tvg-id="FIBA World Cup U19 - Final USA U19 vs Germany U19 - FIBA World Cup U19 - Final USA U19 vs Germany U19" tvg-name="20:00 FIBA World Cup U19 - Final USA U19 vs Germany U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Brazil
+#EXTINF:-1 tvg-id="FIBA World Cup U19 Final - USA U19 vs Germany U19" tvg-name="20:00 FIBA World Cup U19 Final : USA U19 vs Germany U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Brazil
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
 
-#EXTINF:-1 tvg-id="FIBA World Cup U19 - Final USA U19 vs Germany U19 - FIBA World Cup U19 - Final USA U19 vs Germany U19" tvg-name="20:00 FIBA World Cup U19 - Final USA U19 vs Germany U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="FIBA World Cup U19 Final - USA U19 vs Germany U19" tvg-name="20:00 FIBA World Cup U19 Final : USA U19 vs Germany U19 - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
-#EXTINF:-1 tvg-id="Basketball - FIBA AmeriCup (W): for 5th place" tvg-name="20:10 Basketball: FIBA AmeriCup (W): for 5th place - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 4 Croatia
+#EXTINF:-1 tvg-id="Women's AmeriCup - Colombia W vs Puerto Rico W" tvg-name="20:10 Women's AmeriCup : Colombia W vs Puerto Rico W - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 4 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
 
 #EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Las Vegas Aces W" tvg-name="22:00 WNBA : Connecticut Sun W vs Las Vegas Aces W - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBCS Boston USA
@@ -2974,7 +2965,7 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-892.php
 #EXTINF:-1 tvg-id="NBA Sacramento Summer League - Miami Heat vs Los Angeles Lakers" tvg-name="22:30 NBA Sacramento Summer League : Miami Heat vs Los Angeles Lakers - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
 
-#EXTINF:-1 tvg-id="FIBA AmeriCup (W) - for 3rd place" tvg-name="23:40 FIBA AmeriCup (W): for 3rd place - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="FIBA AmeriCup (W) 3rd place - Argentina W vs Canada W" tvg-name="23:40 FIBA AmeriCup (W) 3rd place : Argentina W vs Canada W - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
 #EXTINF:-1 tvg-id="Calgary Surge vs Edmonton Stingers - Calgary Surge vs Edmonton Stingers" tvg-name="00:00 Calgary Surge vs Edmonton Stingers - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Next Level Sports
@@ -2995,7 +2986,7 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx W vs Chicago Sky W" tvg-name="01:00 WNBA : Minnesota Lynx W vs Chicago Sky W - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network North
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-898.php
 
-#EXTINF:-1 tvg-id="FIBA AmeriCup (W) - FINALS" tvg-name="02:10 FIBA AmeriCup (W): FINALS - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="FIBA AmeriCup (W) FINALS - Brazil W vs USA W" tvg-name="02:10 FIBA AmeriCup (W) FINALS : Brazil W vs USA W - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
 #EXTINF:-1 tvg-id="Kilkenny vs Tipperary - Kilkenny vs Tipperary" tvg-name="16:30 Kilkenny vs Tipperary - 06/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Gaa", RTE 2

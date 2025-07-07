@@ -2,10 +2,6 @@ Report Estrazione Link da thisnot.business
 ===========================================
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Svizzera - Islanda', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='18:00 Spagna - Belgio', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
@@ -50,10 +46,6 @@ Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Svizzera - Islanda', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='18:00 Spagna - Belgio', Canale='RTE'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
@@ -96,10 +88,6 @@ Pagina Evento: https://thisnot.business/player.php?id=Channel5
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Dettagli: Categoria='CALCIO', Evento='01:00 USA - Messico', Canale='Sport•TV'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
-
-Pagina Evento: https://thisnot.business/player.php?id=RTE2
-  Dettagli: Categoria='CALCIO', Evento='21:00 Svizzera - Islanda', Canale='RTE'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Dettagli: Categoria='CALCIO', Evento='18:00 Spagna - Belgio', Canale='RTE'

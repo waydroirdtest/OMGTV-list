@@ -1,40 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=ITA_SportF1": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd%3F%26ck%3DMTExODk3ZDUxMGFjMGZlZDBkNWQwNTBlZjU0YjViZDY6N2RhODVmNzI0NTg3YjlkOGE4NTA5NTY1MzQyMWVlMTA%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP SILVERSTONE - INGHILTERRA",
-      "date": "DOMENICA 6 LUGLIO",
-      "event": "16:00 Gara",
-      "channel": "Sky Sport",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=ITA_SportF1"
-    }
-  },
-  "https://thisnot.business/player.php?id=SportF1_DE": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/032111-50/index.mpd&key_id=000b4b05b463b25ac9474c6b8de9242a&key=108e1dc2c98ce68de84cbfd1b1715c03",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP SILVERSTONE - INGHILTERRA",
-      "date": "DOMENICA 6 LUGLIO",
-      "event": "16:00 Gara",
-      "channel": "Sky Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SportF1_DE"
-    }
-  },
-  "https://thisnot.business/player.php?id=TSN5": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd&key_id=f4608dc9b6164cd7b96791af91cc334c&key=8d4bc6537629d3f7ad5aa4e75516f6da",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP SILVERSTONE - INGHILTERRA",
-      "date": "DOMENICA 6 LUGLIO",
-      "event": "16:00 Gara",
-      "channel": "TSN",
-      "language": "de",
-      "url": "https://thisnot.business/player.php?id=TSN5"
-    }
-  },
   "https://thisnot.business/player.php?id=RTE2": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
     "info": {
@@ -69,6 +33,18 @@
       "channel": "SporTV",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=SporTV1_BR"
+    }
+  },
+  "https://thisnot.business/player.php?id=Channel5": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "CONCACAF GOLD CUP, FINALE - NORD AMERICA",
+      "date": "LUNEDI 7 LUGLIO",
+      "event": "21:00 PSG - Real Madrid",
+      "channel": "Chanel 5",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Channel5"
     }
   },
   "https://thisnot.business/player.php?id=SportTV1_PT": {

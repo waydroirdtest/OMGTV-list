@@ -96,9 +96,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2651461317c35e3
 #EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY NOVE (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="disney+film.it" tvg-name="Disney+ Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film",DISNEY+ FILM (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -149,6 +146,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42489970292d293
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -423,6 +423,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17596257388e83c
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Sky",SKY DOCUMENTARIES (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -446,6 +449,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/18766170987dd5e
 
 #EXTINF:-1 tvg-id="skyprimafila15.it" tvg-name="Sky Primafila 15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 15 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila16.it" tvg-name="Sky Primafila 16" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 16 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -516,9 +522,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/344556251909fe0
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -554,9 +557,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/271195962000118
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -617,6 +617,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2900362153b8a05
 
 #EXTINF:-1 tvg-id="tennischannel.it" tvg-name="Tennis Channel" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tgcom 24" tvg-logo="" group-title="Notizie;Mediaset",TGCOM 24 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1815,20 +1818,35 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//g003-lin-i
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportf1%29/master_2hr-aac.mpd&key_id=111897d510ac0fed0d5d050ef54b5bd6&key=7da85f724587b9d8a85095653421ee10
 
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="RTE2" tvg-name="MONDIALE PER CLUB, SEMIFINALI - USA MARTEDI 8 LUGLIO 21:00 Francia - Galles" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-#EXTINF:-1 tvg-id="Rai2" tvg-name="MONDIALE PER CLUB, SEMIFINALI - USA MARTEDI 8 LUGLIO 21:00 Portogallo - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-
-#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="MONDIALE PER CLUB, SEMIFINALI - USA MARTEDI 8 LUGLIO 21:00 PSG - Real Madrid" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
+#EXTINF:-1 tvg-id="Canale5_IT" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 PSG - Real Madrid" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Mediaset (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937
 
-#EXTINF:-1 tvg-id="SporTV1_BR" tvg-name="MONDIALE PER CLUB, SEMIFINALI - USA MARTEDI 8 LUGLIO 21:00 Fluminense - Chelsea" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
+#EXTINF:-1 tvg-id="SporTV1_BR" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 Fluminense - Chelsea" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733
 
-#EXTINF:-1 tvg-id="Channel5" tvg-name="MONDIALE PER CLUB, SEMIFINALI - USA MARTEDI 8 LUGLIO 21:00 PSG - Real Madrid" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Chanel 5 (TN)
+#EXTINF:-1 tvg-id="Channel5" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 PSG - Real Madrid" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Chanel 5 (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 tvg-id="RTE2" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 18:00 Inghilterra - Olanda" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+#EXTINF:-1 tvg-id="France2" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 Francia - Galles" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", France 2 (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+
+#EXTINF:-1 tvg-id="RSILA2" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 Olanda - Francia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RSI (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+#EXTINF:-1 tvg-id="RaiSport" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 Norvegia - Islanda" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RAI (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 tvg-id="Rai2" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 Italia - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RAI (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+
+#EXTINF:-1 tvg-id="SportTV1_PT" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 Portogallo - Belgio" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sport•TV (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+#EXTINF:-1 tvg-id="RTS2" tvg-name="CAMPIONATO EUROPEO FEMMINILE - SVIZZERA MARTEDI 8 LUGLIO 21:00 Inghilterra - Galles" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTS (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 
 #EXTINF:-1 tvg-id="ITA_SportTennis" tvg-name="ATP/WTA WIMBLEDON - INGHILTERRA LUNEDI 30 GIUGNO - DOMENICA 13 LUGLIO 12:00 Best Match" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysporttennis%29/master_2hr-aac.mpd%3F%26ck%3DMTExODYyZDI3YzEwNzM2OThkNmVjNWJiYzMyOGZjNGM6Nzc3ZWM5MGZjM2NkYzZjZWMxYjk2M2VmMTQ3NjBlZjE%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=111862d27c1073698d6ec5bbc328fc4c&key=777ec90fc3cdc6cec1b963ef14760ef1

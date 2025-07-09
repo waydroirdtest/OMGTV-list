@@ -4,23 +4,11 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "21:00 PSG - Real Madrid",
       "channel": "Mediaset",
-      "language": "br",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=Canale5_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=SporTV1_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&key_id=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
-      "event": "21:00 Fluminense - Chelsea",
-      "channel": "SporTV",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SporTV1_BR"
     }
   },
   "https://thisnot.business/player.php?id=Channel5": {
@@ -28,7 +16,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "21:00 PSG - Real Madrid",
       "channel": "Chanel 5",
       "language": "it",
@@ -40,10 +28,10 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "18:00 Inghilterra - Olanda",
       "channel": "RTE",
-      "language": "ie",
+      "language": "uk",
       "url": "https://thisnot.business/player.php?id=RTE2"
     }
   },
@@ -52,7 +40,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "21:00 Francia - Galles",
       "channel": "France 2",
       "language": "ie",
@@ -64,7 +52,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "21:00 Olanda - Francia",
       "channel": "RSI",
       "language": "fr",
@@ -76,7 +64,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "21:00 Norvegia - Islanda",
       "channel": "RAI",
       "language": "it",
@@ -88,7 +76,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "21:00 Italia - Spagna",
       "channel": "RAI",
       "language": "it",
@@ -100,7 +88,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "21:00 Portogallo - Belgio",
       "channel": "Sport•TV",
       "language": "it",
@@ -112,7 +100,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MARTEDI 8 LUGLIO",
+      "date": "MERCOLEDI 9 LUGLIO",
       "event": "21:00 Inghilterra - Galles",
       "channel": "RTS",
       "language": "fr",

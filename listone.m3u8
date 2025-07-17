@@ -54,6 +54,9 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -255,6 +258,9 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 4 (V) (2)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="rai4k.it" tvg-name="Rai 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI 4K (V)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -269,6 +275,9 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -396,6 +405,9 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -433,9 +445,6 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
-https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
@@ -523,9 +532,6 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
-https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)

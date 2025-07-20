@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV EVENT - Freedom Stage | Tomorrowland Belgium - PPV EVENT - Freedom Stage | Tomorrowland Belgium" tvg-name="17:00 PPV EVENT - Freedom Stage | Tomorrowland Belgium - 20/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="PPV EVENT - MainStage | Tomorrowland Belgium 2025 LIVE - PPV EVENT - MainStage | Tomorrowland Belgium 2025 LIVE" tvg-name="17:00 PPV EVENT - MainStage | Tomorrowland Belgium 2025 LIVE - 20/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Whelen Modified Tour at Monadnock Speedway - 2025 NASCAR Whelen Modified Tour at Monadnock Speedway" tvg-name="21:15 2025 NASCAR Whelen Modified Tour at Monadnock Speedway - 20/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="2025 MARS Late Models at Quincy Raceway - 2025 MARS Late Models at Quincy Raceway" tvg-name="00:30 2025 MARS Late Models at Quincy Raceway - 20/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
+
+#EXTINF:-1 tvg-id="2025 Late Models at Slinger Speedway - 2025 Late Models at Slinger Speedway" tvg-name="01:15 2025 Late Models at Slinger Speedway - 20/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
+
+#EXTINF:-1 tvg-id="TNA - Slammiversary 2025" tvg-name="02:00 TNA: Slammiversary 2025 - 20/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
+
 #EXTINF:-1 tvg-id="Korea Republic - K League 1 - Seoul vs Ulsan" tvg-name="12:00 Korea Republic - K League 1 : Seoul vs Ulsan - 20/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-124.php
 

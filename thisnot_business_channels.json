@@ -1,83 +1,59 @@
 {
-  "https://thisnot.business/player.php?id=RaiSport": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
+  "https://thisnot.business/player.php?id=Premiere1_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERLIGA - ARGENTINA",
-      "date": "SABATO 19 LUGLIO",
-      "event": "21:00 Francia - Germania",
-      "channel": "Rai",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=RaiSport"
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "00:30 Flamengo - Fluminense",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere1_BR"
     }
   },
-  "https://thisnot.business/player.php?id=RTE2": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+  "https://thisnot.business/player.php?id=Premiere2_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERLIGA - ARGENTINA",
-      "date": "SABATO 19 LUGLIO",
-      "event": "21:00 Francia - Germania",
-      "channel": "RTE",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=RTE2"
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "21:00 Vitoria - RB Bragantino",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere2_BR"
     }
   },
-  "https://thisnot.business/player.php?id=ArenaS6_ME": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arenasport_6/default/index.mpd&key_id=4027767195c75c43b4467c8b201f2bb1&key=92ea546360c6d3e57a476fab293cb5c8,7469ff6e477e53b68dc0579914b245f0:ef31f822ff8011e0773f0c14673744a1,0e66a3e432e25bdf802316df8583c596:f0c31e7787e533ef4cebd586b44b3484",
+  "https://thisnot.business/player.php?id=Premiere3_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERLIGA - ARGENTINA",
-      "date": "SABATO 19 LUGLIO",
-      "event": "14:45 Widzew Lodz - Zaglebie Lubin",
-      "channel": "Arena Sport",
-      "language": "ie",
-      "url": "https://thisnot.business/player.php?id=ArenaS6_ME"
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "22:30 Palmeiras - Atletico Mineiro",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere3_BR"
     }
   },
-  "https://thisnot.business/player.php?id=ArenaSP2_ME": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_2/default/index.mpd&key_id=50e2b92181a35cd9a603bf398660e5c7&key=0779f9325ccbb29b5926793236a1537d,dc5ff1824cd650569eb2252dce236b67:55e89387b90d67f0fe7b8f7845c3b9e6,39a06f8583d25d1dbf62a4cee3170342:5976017af75ba543275891b960e403ab",
+  "https://thisnot.business/player.php?id=Premiere5_BR": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd&key_id=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERLIGA - ARGENTINA",
-      "date": "SABATO 19 LUGLIO",
-      "event": "17:30 Wisla Plock - Korona Kielce",
-      "channel": "Arena Sport",
-      "language": "rs",
-      "url": "https://thisnot.business/player.php?id=ArenaSP2_ME"
-    }
-  },
-  "https://thisnot.business/player.php?id=ArenaS2_ME": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arenasport_2/default/index.mpd&key_id=16c25e879df45ec298524e7d21404a98&key=80fe93c754faaebc8e8bdbfad7cfc107,4bd0cff22dc85ea5b225d7f9a952e965:acf2c5ff11f481972e0f5ceb979b25bb,0e496cb5280256678de0ac8c4a3f6eac:b70540aeb2f3609c9c3b69bffed51f50",
-    "info": {
-      "category": "CALCIO",
-      "title": "SUPERLIGA - ARGENTINA",
-      "date": "SABATO 19 LUGLIO",
-      "event": "17:30 Universitatea Cluj - UTA Arad",
-      "channel": "Arena Sport",
-      "language": "rs",
-      "url": "https://thisnot.business/player.php?id=ArenaS2_ME"
-    }
-  },
-  "https://thisnot.business/player.php?id=ArenaS4_ME": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arenasport_4/default/index.mpd&key_id=83bbb54e895350c8b0a427fd37708c2d&key=6b8697bea26aeea2295f958893b5ae15,7e6b68480d655385925932de025210c9:ca2b051c5333722a1af9bf3815bcc76c,0208912a7ff35a8faec820a2e7ce1a27:fdd2b16fdbf20b29c161008b71c4f7c8",
-    "info": {
-      "category": "CALCIO",
-      "title": "SUPERLIGA - ARGENTINA",
-      "date": "SABATO 19 LUGLIO",
-      "event": "20:30 Petrolul 52 - FCSB",
-      "channel": "Arena Sport",
-      "language": "rs",
-      "url": "https://thisnot.business/player.php?id=ArenaS4_ME"
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "22:30 Sport Recife - Botafogo",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere5_BR"
     }
   },
   "https://thisnot.business/player.php?id=TNTSP_ARG": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERLIGA - ARGENTINA",
-      "date": "SABATO 19 LUGLIO",
-      "event": "21:45 Newell's Old Boys - Banfield",
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "02:00 Independiente - Talleres Cordoba",
       "channel": "TNT (VPN ARGENTINA/URUGUAY)",
       "language": "ar",
       "url": "https://thisnot.business/player.php?id=TNTSP_ARG"
@@ -87,12 +63,48 @@
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERLIGA - ARGENTINA",
-      "date": "SABATO 19 LUGLIO",
-      "event": "21:45 Tigre - Argentinos Juniors",
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "00:00 Belgrano - Racing Club",
       "channel": "ESPN (VPN ARGENTINA/URUGUAY)",
       "language": "ar",
       "url": "https://thisnot.business/player.php?id=ESPNP_ARG"
+    }
+  },
+  "https://thisnot.business/player.php?id=Rai2": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "21:00 Inghilterra - Italia",
+      "channel": "Rai",
+      "language": "ar",
+      "url": "https://thisnot.business/player.php?id=Rai2"
+    }
+  },
+  "https://thisnot.business/player.php?id=RTE2": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+    "info": {
+      "category": "CALCIO",
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "21:00 Germania - Spagna",
+      "channel": "RTE",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=RTE2"
+    }
+  },
+  "https://thisnot.business/player.php?id=RaiSport": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "EUROPEI FEMMINILI - SEMIFINALI",
+      "date": "MARTEDI 22 LUGLIO",
+      "event": "21:00 Germania - Spagna",
+      "channel": "Rai",
+      "language": "ie",
+      "url": "https://thisnot.business/player.php?id=RaiSport"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {
@@ -100,23 +112,23 @@
     "info": {
       "category": "MOTOMONDIALE",
       "title": "GP BRNO - REPUBBLICA CECA",
-      "date": "SABATO 19 LUGLIO",
+      "date": "DOMENICA 20 LUGLIO",
       "event": "14:00 MotoGP - Gara",
       "channel": "Ziggo",
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
     }
   },
-  "https://thisnot.business/player.php?id=TNTSP1": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d",
+  "https://thisnot.business/player.php?id=RSILA2": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
     "info": {
-      "category": "UFC",
-      "title": "UFC 318 - USA",
+      "category": "MOTOMONDIALE",
+      "title": "GP BRNO - REPUBBLICA CECA",
       "date": "DOMENICA 20 LUGLIO",
-      "event": "04:00 Oleksandr Usyk vs Daniel Dubois",
-      "channel": "TNT Sports",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=TNTSP1"
+      "event": "14:00 MotoGP - Gara",
+      "channel": "RSI",
+      "language": "nl",
+      "url": "https://thisnot.business/player.php?id=RSILA2"
     }
   },
   "https://thisnot.business/player.php?id=Eurosport1IT": {

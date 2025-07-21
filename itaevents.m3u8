@@ -194,8 +194,23 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
 #EXTINF:-1 tvg-id="ATP - UMAG - Guillen Meza A. vs Wawrinka S." tvg-name="21:00 ATP - UMAG : Guillen Meza A. vs Wawrinka S. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Umag", Tennis Stream 8
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
 
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - TBD" tvg-name="16:30 ATP - WASHINGTON : TBD - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 9
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Arnaldi M. vs Altmaier D." tvg-name="13:30 ATP - WASHINGTON : Arnaldi M. vs Altmaier D. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Bonzi B. vs Marozsan F." tvg-name="13:30 ATP - WASHINGTON : Bonzi B. vs Marozsan F. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Quinn E. vs O'Connell C." tvg-name="13:30 ATP - WASHINGTON : Quinn E. vs O'Connell C. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Evans D. vs Bergs Z." tvg-name="15:00 ATP - WASHINGTON : Evans D. vs Bergs Z. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Zhukayev B. vs Muller A." tvg-name="15:00 ATP - WASHINGTON : Zhukayev B. vs Muller A. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - McDonald M. vs Smith C." tvg-name="15:00 ATP - WASHINGTON : McDonald M. vs Smith C. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
 
 #EXTINF:-1 tvg-id="WTA - PRAGUE - Bouzkova M. vs Gao X." tvg-name="11:00 WTA - PRAGUE : Bouzkova M. vs Gao X. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
@@ -218,8 +233,11 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
 #EXTINF:-1 tvg-id="WTA - PRAGUE - Maleckova J. vs Sramkova R." tvg-name="15:30 WTA - PRAGUE : Maleckova J. vs Sramkova R. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
 
-#EXTINF:-1 tvg-id="WTA - WASHINGTON - TBD" tvg-name="16:30 WTA - WASHINGTON : TBD - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 4
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Potapova A. vs Mboko V." tvg-name="13:30 WTA - WASHINGTON : Potapova A. vs Mboko V. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Fernandez L. vs Joint M." tvg-name="15:00 WTA - WASHINGTON : Fernandez L. vs Joint M. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
 
 #EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php

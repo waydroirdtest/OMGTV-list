@@ -1,23 +1,5 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="Premiere1_BR" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 00:30 Flamengo - Fluminense" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4
-
-#EXTINF:-1 tvg-id="Premiere2_BR" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 21:00 Vitoria - RB Bragantino" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
-
-#EXTINF:-1 tvg-id="Premiere3_BR" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 22:30 Palmeiras - Atletico Mineiro" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
-
-#EXTINF:-1 tvg-id="Premiere5_BR" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 22:30 Sport Recife - Botafogo" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd&key_id=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd
-
-#EXTINF:-1 tvg-id="TNTSP_ARG" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 02:00 Independiente - Talleres Cordoba" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", TNT (VPN ARGENTINA/URUGUAY) (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
-
-#EXTINF:-1 tvg-id="ESPNP_ARG" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 00:00 Belgrano - Racing Club" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", ESPN (VPN ARGENTINA/URUGUAY) (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
-
 #EXTINF:-1 tvg-id="Rai2" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 21:00 Inghilterra - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 

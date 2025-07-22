@@ -324,6 +324,12 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1890950169c0c68
 #EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rakutendrama.it" tvg-name="Rakuten Drama" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN DRAMA (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/209862439074120bb15132&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -395,6 +401,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1228534500ffff8
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -534,9 +543,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a76
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 (2)" tvg-logo="" group-title="Sport",SKY SPORT F1 (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -559,7 +565,13 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30363168866e9ee
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -607,6 +619,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33428493134b007
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
@@ -1797,24 +1812,6 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="Premiere1_BR" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 00:30 Flamengo - Fluminense" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4
-
-#EXTINF:-1 tvg-id="Premiere2_BR" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 21:00 Vitoria - RB Bragantino" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
-
-#EXTINF:-1 tvg-id="Premiere3_BR" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 22:30 Palmeiras - Atletico Mineiro" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848
-
-#EXTINF:-1 tvg-id="Premiere5_BR" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 22:30 Sport Recife - Botafogo" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd&key_id=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd
-
-#EXTINF:-1 tvg-id="TNTSP_ARG" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 02:00 Independiente - Talleres Cordoba" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", TNT (VPN ARGENTINA/URUGUAY) (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
-
-#EXTINF:-1 tvg-id="ESPNP_ARG" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 00:00 Belgrano - Racing Club" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", ESPN (VPN ARGENTINA/URUGUAY) (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
-
 #EXTINF:-1 tvg-id="Rai2" tvg-name="EUROPEI FEMMINILI - SEMIFINALI MARTEDI 22 LUGLIO 21:00 Inghilterra - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 
@@ -1831,356 +1828,683 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.c
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="Russia - Premier League - Orenburg vs CSKA Moskva" tvg-name="16:30 Russia - Premier League : Orenburg vs CSKA Moskva - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Premier Russia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-573.php
-
-#EXTINF:-1 tvg-id="Russia - Premier League - Orenburg vs CSKA Moskva" tvg-name="16:30 Russia - Premier League : Orenburg vs CSKA Moskva - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-434.php
-
-#EXTINF:-1 tvg-id="Russia - Premier League - Orenburg vs CSKA Moskva" tvg-name="16:30 Russia - Premier League : Orenburg vs CSKA Moskva - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
-
-#EXTINF:-1 tvg-id="Latvia - Virsliga - Tukums vs Grobiņa" tvg-name="17:00 Latvia - Virsliga : Tukums vs Grobiņa - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Latvia
+#EXTINF:-1 tvg-id="Korea Republic - K League 1 - Pohang Steelers vs Suwon FC" tvg-name="12:30 Korea Republic - K League 1 : Pohang Steelers vs Suwon FC - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
 
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Lokomotiv Plovdiv vs Dobrudzha 1919" tvg-name="18:00 Bulgaria - Parva Liga : Lokomotiv Plovdiv vs Dobrudzha 1919 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
+#EXTINF:-1 tvg-id="Korea Republic - K League 1 - Gwangju vs Sangju Sangmu" tvg-name="12:30 Korea Republic - K League 1 : Gwangju vs Sangju Sangmu - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-124.php
 
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Lokomotiv Plovdiv vs Dobrudzha 1919" tvg-name="18:00 Bulgaria - Parva Liga : Lokomotiv Plovdiv vs Dobrudzha 1919 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 4 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Unirea Slobozia vs Csikszereda" tvg-name="18:00 Romania - Liga I : Unirea Slobozia vs Csikszereda - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Unirea Slobozia vs Csikszereda" tvg-name="18:00 Romania - Liga I : Unirea Slobozia vs Csikszereda - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Unirea Slobozia vs Csikszereda" tvg-name="18:00 Romania - Liga I : Unirea Slobozia vs Csikszereda - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-433.php
-
-#EXTINF:-1 tvg-id="Russia - FNL - Rodina Moskva vs Chernomorets" tvg-name="18:30 Russia - FNL : Rodina Moskva vs Chernomorets - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Premier Russia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-573.php
-
-#EXTINF:-1 tvg-id="Russia - FNL - Rodina Moskva vs Chernomorets" tvg-name="18:30 Russia - FNL : Rodina Moskva vs Chernomorets - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH TV Russia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
-
-#EXTINF:-1 tvg-id="Poland - I Liga - Puszcza Niepołomice vs Ruch Chorzów" tvg-name="19:00 Poland - I Liga : Puszcza Niepołomice vs Ruch Chorzów - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
-
-#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Norrköping vs Värnamo" tvg-name="19:00 Sweden - Allsvenskan : Norrköping vs Värnamo - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 1 Sweden
+#EXTINF:-1 tvg-id="Korea Republic - K League 1 - Gwangju vs Sangju Sangmu" tvg-name="12:30 Korea Republic - K League 1 : Gwangju vs Sangju Sangmu - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="Sweden - Superettan - Landskrona vs Trelleborg FF" tvg-name="19:00 Sweden - Superettan : Landskrona vs Trelleborg FF - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 2 Sweden
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+#EXTINF:-1 tvg-id="Club Friendly - Borussia M'gladbach vs Metalist 1925 Kharkiv" tvg-name="18:00 Club Friendly : Borussia M'gladbach vs Metalist 1925 Kharkiv - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Bundesliga 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-558.php
 
-#EXTINF:-1 tvg-id="Sweden - Superettan - Utsikten vs Helsingborg" tvg-name="19:00 Sweden - Superettan : Utsikten vs Helsingborg - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", max Extra 3 Sweden
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
-
-#EXTINF:-1 tvg-id="Serbia - Super Liga - OFK Beograd vs Spartak Subotica" tvg-name="20:00 Serbia - Super Liga : OFK Beograd vs Spartak Subotica - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Spartak Varna vs Beroe" tvg-name="20:15 Bulgaria - Parva Liga : Spartak Varna vs Beroe - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
-
-#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Spartak Varna vs Beroe" tvg-name="20:15 Bulgaria - Parva Liga : Spartak Varna vs Beroe - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 4 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Dinamo Bucureşti vs Botoşani" tvg-name="20:30 Romania - Liga I : Dinamo Bucureşti vs Botoşani - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Dinamo Bucureşti vs Botoşani" tvg-name="20:30 Romania - Liga I : Dinamo Bucureşti vs Botoşani - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Dinamo Bucureşti vs Botoşani" tvg-name="20:30 Romania - Liga I : Dinamo Bucureşti vs Botoşani - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
-
-#EXTINF:-1 tvg-id="Romania - Liga I - Dinamo Bucureşti vs Botoşani" tvg-name="20:30 Romania - Liga I : Dinamo Bucureşti vs Botoşani - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-433.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVI Portugal
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-723.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Deportes
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS Australia 3
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-493.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Mexico
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-926.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sporting TV Portugal
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-716.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-85.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Sporting CP vs Sunderland" tvg-name="21:00 World - Club Friendly : Sporting CP vs Sunderland - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera B Metropolitana - Dock Sud vs Flandria" tvg-name="20:30 Argentina - Primera B Metropolitana : Dock Sud vs Flandria - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TyC Sports Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-746.php
-
-#EXTINF:-1 tvg-id="World COTIF Tournament U20 - ADH Brazil vs Valencia" tvg-name="20:30 World COTIF Tournament U20 : ADH Brazil vs Valencia - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Deportes
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
-
-#EXTINF:-1 tvg-id="World COTIF Tournament - Argentina U20 vs Chile U20" tvg-name="22:30 World COTIF Tournament : Argentina U20 vs Chile U20 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Deportes
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
-
-#EXTINF:-1 tvg-id="World COTIF Tournament - Argentina U20 vs Chile U20" tvg-name="22:30 World COTIF Tournament : Argentina U20 vs Chile U20 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Argentina vs Peru" tvg-name="23:00 Copa América Femenina : Argentina vs Peru - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Argentina vs Peru" tvg-name="23:00 Copa América Femenina : Argentina vs Peru - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Argentina vs Peru" tvg-name="23:00 Copa América Femenina : Argentina vs Peru - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Argentina vs Peru" tvg-name="23:00 Copa América Femenina : Argentina vs Peru - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Argentina vs Peru" tvg-name="23:00 Copa América Femenina : Argentina vs Peru - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DIRECTV Sports Argentina
+#EXTINF:-1 tvg-id="Club Friendly - Borussia M'gladbach vs Metalist 1925 Kharkiv" tvg-name="18:00 Club Friendly : Borussia M'gladbach vs Metalist 1925 Kharkiv - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport News DE
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
 
-#EXTINF:-1 tvg-id="Copa América Femenina - Argentina vs Peru" tvg-name="23:00 Copa América Femenina : Argentina vs Peru - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+#EXTINF:-1 tvg-id="Club Friendly - Borussia M'gladbach vs Metalist 1925 Kharkiv" tvg-name="18:00 Club Friendly : Borussia M'gladbach vs Metalist 1925 Kharkiv - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-556.php
 
-#EXTINF:-1 tvg-id="Argentina - Primera División - Estudiantes vs Huracán" tvg-name="00:00 Argentina - Primera División : Estudiantes vs Huracán - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Premium Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-387.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Estudiantes vs Huracán" tvg-name="00:00 Argentina - Primera División : Estudiantes vs Huracán - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Estudiantes vs Huracán" tvg-name="00:00 Argentina - Primera División : Estudiantes vs Huracán - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="UEFA Champions League - Lincoln Red Imps vs Crvena Zvezda" tvg-name="18:00 UEFA Champions League : Lincoln Red Imps vs Crvena Zvezda - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
 
-#EXTINF:-1 tvg-id="Argentina - Primera División - Estudiantes vs Huracán" tvg-name="00:00 Argentina - Primera División : Estudiantes vs Huracán - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
+#EXTINF:-1 tvg-id="UEFA Champions League - Lincoln Red Imps vs Crvena Zvezda" tvg-name="18:00 UEFA Champions League : Lincoln Red Imps vs Crvena Zvezda - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 BiH
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-579.php
 
-#EXTINF:-1 tvg-id="Argentina - Primera División - Estudiantes vs Huracán" tvg-name="00:00 Argentina - Primera División : Estudiantes vs Huracán - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
-
-#EXTINF:-1 tvg-id="Chile - Primera Division - Huachipato vs O'Higgins" tvg-name="01:00 Chile - Primera Division : Huachipato vs O'Higgins - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT SPORTS Premium Chile
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-642.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Chile vs Ecuador" tvg-name="02:00 Copa América Femenina : Chile vs Ecuador - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Chile vs Ecuador" tvg-name="02:00 Copa América Femenina : Chile vs Ecuador - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Chile vs Ecuador" tvg-name="02:00 Copa América Femenina : Chile vs Ecuador - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Chile vs Ecuador" tvg-name="02:00 Copa América Femenina : Chile vs Ecuador - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Chile vs Ecuador" tvg-name="02:00 Copa América Femenina : Chile vs Ecuador - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DIRECTV Sports Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
-
-#EXTINF:-1 tvg-id="Copa América Femenina - Chile vs Ecuador" tvg-name="02:00 Copa América Femenina : Chile vs Ecuador - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - Defensa y Justicia vs Aldosivi" tvg-name="02:15 Argentina - Primera División : Defensa y Justicia vs Aldosivi - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-388.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - San Martín San Juan vs Deportivo Riestra" tvg-name="02:15 Argentina - Primera División : San Martín San Juan vs Deportivo Riestra - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Premium Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-387.php
-
-#EXTINF:-1 tvg-id="Argentina - Primera División - San Martín San Juan vs Deportivo Riestra" tvg-name="02:15 Argentina - Primera División : San Martín San Juan vs Deportivo Riestra - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Argentina
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
-
-#EXTINF:-1 tvg-id="Mexico - Liga MX Femenil - Atlético San Luis vs Monterrey" tvg-name="03:00 Mexico - Liga MX Femenil : Atlético San Luis vs Monterrey - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Mexico
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-926.php
-
-#EXTINF:-1 tvg-id="ATP - KITZBUHEL - Comesana F. vs Boyer T." tvg-name="11:00 ATP - KITZBUHEL : Comesana F. vs Boyer T. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Kitzbuhel", Tennis Stream 7
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - KITZBUHEL - Schwaerzler J. J. vs Fucsovics M." tvg-name="12:30 ATP - KITZBUHEL : Schwaerzler J. J. vs Fucsovics M. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Kitzbuhel", Tennis Stream 7
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - KITZBUHEL - Rinderknech A. vs Bagnis F." tvg-name="14:00 ATP - KITZBUHEL : Rinderknech A. vs Bagnis F. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Kitzbuhel", Tennis Stream 7
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - KITZBUHEL - Gaston H. vs Gombos N." tvg-name="15:30 ATP - KITZBUHEL : Gaston H. vs Gombos N. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Kitzbuhel", Tennis Stream 7
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - UMAG - Tseng C. H. vs Zeppieri G." tvg-name="16:30 ATP - UMAG : Tseng C. H. vs Zeppieri G. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Umag", Tennis Stream 8
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="ATP - UMAG - Lajovic D. vs Atmane T." tvg-name="18:00 ATP - UMAG : Lajovic D. vs Atmane T. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Umag", Tennis Stream 8
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="ATP - UMAG - Guillen Meza A. vs Wawrinka S." tvg-name="21:00 ATP - UMAG : Guillen Meza A. vs Wawrinka S. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Umag", Tennis Stream 8
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - Arnaldi M. vs Altmaier D." tvg-name="13:30 ATP - WASHINGTON : Arnaldi M. vs Altmaier D. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - Bonzi B. vs Marozsan F." tvg-name="13:30 ATP - WASHINGTON : Bonzi B. vs Marozsan F. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
-
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - Quinn E. vs O'Connell C." tvg-name="13:30 ATP - WASHINGTON : Quinn E. vs O'Connell C. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
-
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - Evans D. vs Bergs Z." tvg-name="15:00 ATP - WASHINGTON : Evans D. vs Bergs Z. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
-
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - Zhukayev B. vs Muller A." tvg-name="15:00 ATP - WASHINGTON : Zhukayev B. vs Muller A. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
-
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - McDonald M. vs Smith C." tvg-name="15:00 ATP - WASHINGTON : McDonald M. vs Smith C. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="WTA - PRAGUE - Bouzkova M. vs Gao X." tvg-name="11:00 WTA - PRAGUE : Bouzkova M. vs Gao X. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - PRAGUE - Hontama M. vs Parks A." tvg-name="11:00 WTA - PRAGUE : Hontama M. vs Parks A. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 2
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - PRAGUE - Bejlek S. vs Uchijima M." tvg-name="12:30 WTA - PRAGUE : Bejlek S. vs Uchijima M. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - PRAGUE - Sharma A. vs Li A." tvg-name="12:30 WTA - PRAGUE : Sharma A. vs Li A. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 2
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - PRAGUE - Golubic V. vs Cocciaretto E." tvg-name="14:00 WTA - PRAGUE : Golubic V. vs Cocciaretto E. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - PRAGUE - Tomova V. vs Stefanini L." tvg-name="14:00 WTA - PRAGUE : Tomova V. vs Stefanini L. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 2
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - PRAGUE - Maleckova J. vs Sramkova R." tvg-name="15:30 WTA - PRAGUE : Maleckova J. vs Sramkova R. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - WASHINGTON - Potapova A. vs Mboko V." tvg-name="13:30 WTA - WASHINGTON : Potapova A. vs Mboko V. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - WASHINGTON - Fernandez L. vs Joint M." tvg-name="15:00 WTA - WASHINGTON : Fernandez L. vs Joint M. - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-46.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-701.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV3 Portugal
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-454.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 PLUS Israel
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-474.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-383.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-713.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-429.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-714.php
-
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="UEFA Champions League - Lincoln Red Imps vs Crvena Zvezda" tvg-name="18:00 UEFA Champions League : Lincoln Red Imps vs Crvena Zvezda - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 1 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
 
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
+#EXTINF:-1 tvg-id="UEFA Champions League - Noah vs Ferencváros" tvg-name="18:00 UEFA Champions League : Noah vs Ferencváros - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sport Hungry
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
 
-#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 1 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+#EXTINF:-1 tvg-id="UEFA Champions League - Noah vs Ferencváros" tvg-name="18:00 UEFA Champions League : Noah vs Ferencváros - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Plus Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
 
-#EXTINF:-1 tvg-id="Premiership Speedway - Leicester Lions vs Sheffield Tigers - Premiership Speedway - Leicester Lions vs Sheffield Tigers" tvg-name="20:30 Premiership Speedway - Leicester Lions vs Sheffield Tigers - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 1 UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-31.php
+#EXTINF:-1 tvg-id="Club Friendly - Napoli vs Arezzo" tvg-name="18:00 Club Friendly : Napoli vs Arezzo - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-23.php
 
-#EXTINF:-1 tvg-id="NASCAR Cup Series - Autotrader EchoPark Automotive 400" tvg-name="23:30 NASCAR Cup Series : Autotrader EchoPark Automotive 400 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", truTV USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-341.php
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 1 : Nigeria vs South Africa" tvg-name="18:00 Africa Women Cup of Nations W : Semi Final 1 : Nigeria vs South Africa - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Netflix PPV
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 1 : Nigeria vs South Africa" tvg-name="18:00 Africa Women Cup of Nations W : Semi Final 1 : Nigeria vs South Africa - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Azam Sports HD
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Variety 4
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-419.php
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 1 : Nigeria vs South Africa" tvg-name="18:00 Africa Women Cup of Nations W : Semi Final 1 : Nigeria vs South Africa - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Grandstand
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-412.php
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 1 : Nigeria vs South Africa" tvg-name="18:00 Africa Women Cup of Nations W : Semi Final 1 : Nigeria vs South Africa - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
 
-#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Supersports Action
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-420.php
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 1 : Nigeria vs South Africa" tvg-name="18:00 Africa Women Cup of Nations W : Semi Final 1 : Nigeria vs South Africa - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV6 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-291.php
 
-#EXTINF:-1 tvg-id="NBA Summer League Basketball - Houston Rockets vs. Minnesota Timberwolves" tvg-name="23:30 NBA Summer League Basketball : Houston Rockets vs. Minnesota Timberwolves - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Space City Home Network
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-921.php
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 1 : Nigeria vs South Africa" tvg-name="18:00 Africa Women Cup of Nations W : Semi Final 1 : Nigeria vs South Africa - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
 
-#EXTINF:-1 tvg-id="The Basketball Tournament - Green Mountain vs. Stars of Storrs" tvg-name="00:00 The Basketball Tournament : Green Mountain vs. Stars of Storrs - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Fox Sports 2 USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 1 : Nigeria vs South Africa" tvg-name="18:00 Africa Women Cup of Nations W : Semi Final 1 : Nigeria vs South Africa - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
 
-#EXTINF:-1 tvg-id="The Basketball Tournament - We Are D3 vs. Boeheim's Army" tvg-name="02:00 The Basketball Tournament : We Are D3 vs. Boeheim's Army - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Fox Sports 2 USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+#EXTINF:-1 tvg-id="Israel - Toto Cup Ligat Al - Ashdod vs Hapoel Katamon" tvg-name="18:45 Israel - Toto Cup Ligat Al : Ashdod vs Hapoel Katamon - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
 
-#EXTINF:-1 tvg-id="2025 World Aquatics Championships - Women's Water Polo - 1st Semifinal" tvg-name="11:25 2025 World Aquatics Championships - Women's Water Polo: 1st Semifinal - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", M4 Sports Hungary
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
+#EXTINF:-1 tvg-id="Israel - Toto Cup Ligat Al - Hapoel Petah Tikva vs Hapoel Tel Aviv" tvg-name="19:00 Israel - Toto Cup Ligat Al : Hapoel Petah Tikva vs Hapoel Tel Aviv - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
 
-#EXTINF:-1 tvg-id="2025 World Aquatics Championships - Women's Water Polo - 1st Semifinal" tvg-name="11:25 2025 World Aquatics Championships - Women's Water Polo: 1st Semifinal - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", RTP 2 Portugal
+#EXTINF:-1 tvg-id="UEFA Champions League - Viktoria Plzeň vs Servette" tvg-name="19:00 UEFA Champions League : Viktoria Plzeň vs Servette - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTS 2 Switzerland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Maccabi Tel Aviv" tvg-name="19:00 UEFA Champions League : Paphos vs Maccabi Tel Aviv - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cablenet Sports 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Maccabi Tel Aviv" tvg-name="19:00 UEFA Champions League : Paphos vs Maccabi Tel Aviv - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Rīgas FS vs Malmö FF" tvg-name="19:00 UEFA Champions League : Rīgas FS vs Malmö FF - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Latvia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="Club Friendly - Deportivo Alavés vs Athletic Club" tvg-name="19:00 Club Friendly : Deportivo Alavés vs Athletic Club - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ETB 1 Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="Club Friendly - St. Gallen vs Villarreal" tvg-name="19:00 Club Friendly : St. Gallen vs Villarreal - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOL PLAY Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-530.php
+
+#EXTINF:-1 tvg-id="Club Friendly - St. Gallen vs Villarreal" tvg-name="19:00 Club Friendly : St. Gallen vs Villarreal - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
+
+#EXTINF:-1 tvg-id="Club Friendly - St. Gallen vs Villarreal" tvg-name="19:00 Club Friendly : St. Gallen vs Villarreal - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 4 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Slovan Bratislava vs Zrinjski" tvg-name="20:15 UEFA Champions League : Slovan Bratislava vs Zrinjski - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 BiH
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-579.php
+
+#EXTINF:-1 tvg-id="COTIF L'Alcúdia International U-20 Soccer Tournament - Saudi Arabia U20 vs. Mauritania U20" tvg-name="20:30 COTIF L'Alcúdia International U-20 Soccer Tournament: Saudi Arabia U20 vs. Mauritania U20 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Lech Poznań vs Breidablik" tvg-name="20:30 UEFA Champions League : Lech Poznań vs Breidablik - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP 1 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-560.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Lech Poznań vs Breidablik" tvg-name="20:30 UEFA Champions League : Lech Poznań vs Breidablik - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SÝN Sport 1 Iceland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Rangers vs Panathinaikos" tvg-name="20:45 UEFA Champions League : Rangers vs Panathinaikos - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 1 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-451.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Rangers vs Panathinaikos" tvg-name="20:45 UEFA Champions League : Rangers vs Panathinaikos - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 1 Ireland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-771.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Rangers vs Panathinaikos" tvg-name="20:45 UEFA Champions League : Rangers vs Panathinaikos - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 1 Cyprus
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-911.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Rangers vs Panathinaikos" tvg-name="20:45 UEFA Champions League : Rangers vs Panathinaikos - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 1 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-622.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Rijeka vs Ludogorets" tvg-name="20:45 UEFA Champions League : Rijeka vs Ludogorets - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Rijeka vs Ludogorets" tvg-name="20:45 UEFA Champions League : Rijeka vs Ludogorets - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 1 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-779.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Rijeka vs Ludogorets" tvg-name="20:45 UEFA Champions League : Rijeka vs Ludogorets - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 PLUS Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Motherwell vs Greenock Morton" tvg-name="20:45 Scottish League Cup : Motherwell vs Greenock Morton - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 2 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-550.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Motherwell vs Greenock Morton" tvg-name="20:45 Scottish League Cup : Motherwell vs Greenock Morton - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 2 Ireland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-799.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Motherwell vs Greenock Morton" tvg-name="20:45 Scottish League Cup : Motherwell vs Greenock Morton - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Motherwell vs Greenock Morton" tvg-name="20:45 Scottish League Cup : Motherwell vs Greenock Morton - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 2 Cyprus
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-912.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Motherwell vs Greenock Morton" tvg-name="20:45 Scottish League Cup : Motherwell vs Greenock Morton - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 3 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
+
+#EXTINF:-1 tvg-id="Scottish League Cup - Motherwell vs Greenock Morton" tvg-name="20:45 Scottish League Cup : Motherwell vs Greenock Morton - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 2 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-623.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Network USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ITV 1 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-350.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RAI 1 IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-850.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOXNY USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 1TV Georgia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-365.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RDS CA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-839.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ZDF DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-727.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ORF 1 Austria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SRF zwei
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Teledeporte Spain (TDP)
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-529.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTP 2 Portugal
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-720.php
 
-#EXTINF:-1 tvg-id="2025 World Aquatics Championships - Women's Water Polo - 2nd Semifinal" tvg-name="15:25 2025 World Aquatics Championships - Women's Water Polo: 2nd Semifinal - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", M4 Sports Hungary
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP 1 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-560.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TMC France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-955.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
 
-#EXTINF:-1 tvg-id="2025 World Aquatics Championships - Women's Water Polo - 2nd Semifinal" tvg-name="15:25 2025 World Aquatics Championships - Women's Water Polo: 2nd Semifinal - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", RAI Sport 1 Italy
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport Czech
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1033.php
 
-#EXTINF:-1 tvg-id="FISU Summer World University Games - Rhine-Ruhr - Swimming Day 5" tvg-name="19:00 FISU Summer World University Games - Rhine-Ruhr: Swimming Day 5 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", TNT Sports 4 UK
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-34.php
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", YLE TV2 Finland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
 
-#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 5 - World University Games Rhine-Ruhr | Matchday 5" tvg-name="19:00 World University Games Rhine-Ruhr | Matchday 5 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", EuroSport 1 Poland
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ETV 2 Estonia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-12.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTSH Sport Albania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NPO 1 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Direkte Norway
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-15.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Tipik Belgium
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Mexico
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-925.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 Sport Denmark
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-809.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports Sweden
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-21.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTS 2 Serbia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", HRT 2 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 2 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-19.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SVT 1 Sweden
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-20.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-478.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-56.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MáXimo 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - England vs Italy" tvg-name="21:00 UEFA Women's Euro : England vs Italy - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 2 : Morocco vs Ghana" tvg-name="21:00 Africa Women Cup of Nations W : Semi Final 2 : Morocco vs Ghana - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 2 : Morocco vs Ghana" tvg-name="21:00 Africa Women Cup of Nations W : Semi Final 2 : Morocco vs Ghana - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Azam Sports HD
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 2 : Morocco vs Ghana" tvg-name="21:00 Africa Women Cup of Nations W : Semi Final 2 : Morocco vs Ghana - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 2 : Morocco vs Ghana" tvg-name="21:00 Africa Women Cup of Nations W : Semi Final 2 : Morocco vs Ghana - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 2 : Morocco vs Ghana" tvg-name="21:00 Africa Women Cup of Nations W : Semi Final 2 : Morocco vs Ghana - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 2 : Morocco vs Ghana" tvg-name="21:00 Africa Women Cup of Nations W : Semi Final 2 : Morocco vs Ghana - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
+
+#EXTINF:-1 tvg-id="Africa Women Cup of Nations W - Semi Final 2 : Morocco vs Ghana" tvg-name="21:00 Africa Women Cup of Nations W : Semi Final 2 : Morocco vs Ghana - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="COTIF L'Alcúdia International U-20 Tournament - Uruguay U20 vs. Venezuela U20" tvg-name="22:30 COTIF L'Alcúdia International U-20 Tournament: Uruguay U20 vs. Venezuela U20 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Alianza Petrolera vs Deportes Tolima" tvg-name="23:00 Colombia - Primera A : Alianza Petrolera vs Deportes Tolima - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Colombia vs Bolivia" tvg-name="23:00 Copa América Femenina : Colombia vs Bolivia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Colombia vs Bolivia" tvg-name="23:00 Copa América Femenina : Colombia vs Bolivia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Colombia vs Bolivia" tvg-name="23:00 Copa América Femenina : Colombia vs Bolivia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Caracol TV Colombia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Colombia vs Bolivia" tvg-name="23:00 Copa América Femenina : Colombia vs Bolivia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Colombia vs Bolivia" tvg-name="23:00 Copa América Femenina : Colombia vs Bolivia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Colombia vs Bolivia" tvg-name="23:00 Copa América Femenina : Colombia vs Bolivia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Directv Sports Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-85.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Cerro Largo vs Central Córdoba SdE" tvg-name="00:00 Copa Sudamericana : Cerro Largo vs Central Córdoba SdE - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Santa Fe vs Rionegro Águilas" tvg-name="01:10 Colombia - Primera A : Santa Fe vs Rionegro Águilas - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Paraguay vs Brazil" tvg-name="02:00 Copa América Femenina : Paraguay vs Brazil - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Paraguay vs Brazil" tvg-name="02:00 Copa América Femenina : Paraguay vs Brazil - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV BR
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Paraguay vs Brazil" tvg-name="02:00 Copa América Femenina : Paraguay vs Brazil - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="Copa América Femenina - Paraguay vs Brazil" tvg-name="02:00 Copa América Femenina : Paraguay vs Brazil - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - América de Cali vs Bahia" tvg-name="02:30 Copa Sudamericana : América de Cali vs Bahia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - América de Cali vs Bahia" tvg-name="02:30 Copa Sudamericana : América de Cali vs Bahia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - América de Cali vs Bahia" tvg-name="02:30 Copa Sudamericana : América de Cali vs Bahia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - América de Cali vs Bahia" tvg-name="02:30 Copa Sudamericana : América de Cali vs Bahia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-571.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-379.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-134.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 3 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-624.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Directv Sports Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-475.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-94.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="Copa Sudamericana - Vasco da Gama vs Independiente del Valle" tvg-name="02:30 Copa Sudamericana : Vasco da Gama vs Independiente del Valle - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Vila Nova vs CRB" tvg-name="02:35 Brazil - Serie B : Vila Nova vs CRB - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-85.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Deportivo Pereira vs Atlético Nacional" tvg-name="03:20 Colombia - Primera A : Deportivo Pereira vs Atlético Nacional - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="ATP - KITZBUHEL - Hanfmann Y. vs Neumayer L." tvg-name="11:00 ATP - KITZBUHEL : Hanfmann Y. vs Neumayer L. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Kitzbuhel", Tennis Stream 7
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - KITZBUHEL - Ofner S. vs Struff J-L." tvg-name="12:30 ATP - KITZBUHEL : Ofner S. vs Struff J-L. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Kitzbuhel", Tennis Stream 7
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - KITZBUHEL - Misolic F. vs Etcheverry T. M." tvg-name="14:00 ATP - KITZBUHEL : Misolic F. vs Etcheverry T. M. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Kitzbuhel", Tennis Stream 7
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - KITZBUHEL - Seyboth Wild T. vs Engel J." tvg-name="15:30 ATP - KITZBUHEL : Seyboth Wild T. vs Engel J. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Kitzbuhel", Tennis Stream 7
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - UMAG - Passaro F. vs Ugo Carabelli C." tvg-name="16:30 ATP - UMAG : Passaro F. vs Ugo Carabelli C. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Umag", Tennis Stream 8
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - UMAG - De Jong J. vs Poljicak M." tvg-name="18:00 ATP - UMAG : De Jong J. vs Poljicak M. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Umag", Tennis Stream 8
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - UMAG - Prizmic D. vs Moller E." tvg-name="21:00 ATP - UMAG : Prizmic D. vs Moller E. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Umag", Tennis Stream 8
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Goffin D. vs Bu Y." tvg-name="17:00 ATP - WASHINGTON : Goffin D. vs Bu Y. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 12
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Nakashima B. vs Quinn E." tvg-name="17:00 ATP - WASHINGTON : Nakashima B. vs Quinn E. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 9
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Monfils G. vs Wu Y." tvg-name="18:30 ATP - WASHINGTON : Monfils G. vs Wu Y. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 10
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Svajda Z. vs Kecmanovic M." tvg-name="18:30 ATP - WASHINGTON : Svajda Z. vs Kecmanovic M. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 12
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Halys Q. vs Kovacevic A." tvg-name="20:00 ATP - WASHINGTON : Halys Q. vs Kovacevic A. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 12
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Munar J. vs Giron M." tvg-name="20:00 ATP - WASHINGTON : Munar J. vs Giron M. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 11
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Norrie C. vs Musetti L." tvg-name="20:00 ATP - WASHINGTON : Norrie C. vs Musetti L. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 10
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Marozsan F. vs Diallo G." tvg-name="21:30 ATP - WASHINGTON : Marozsan F. vs Diallo G. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 14
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1514.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Michelsen A. vs Evans D." tvg-name="21:30 ATP - WASHINGTON : Michelsen A. vs Evans D. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 11
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Shelton B. vs McDonald M." tvg-name="00:00 ATP - WASHINGTON : Shelton B. vs McDonald M. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 9
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
+
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Muller A. vs Rune H." tvg-name="01:00 ATP - WASHINGTON : Muller A. vs Rune H. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 10
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Palicova B. vs Hon P." tvg-name="11:00 WTA - PRAGUE : Palicova B. vs Hon P. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Samson L. vs Salkova D." tvg-name="11:00 WTA - PRAGUE : Samson L. vs Salkova D. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Stojanovic N. vs Ponchet J." tvg-name="11:00 WTA - PRAGUE : Stojanovic N. vs Ponchet J. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 13
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Ito A. vs Valentova T." tvg-name="12:30 WTA - PRAGUE : Ito A. vs Valentova T. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Jeanjean L. vs Parrizas-Diaz N." tvg-name="12:30 WTA - PRAGUE : Jeanjean L. vs Parrizas-Diaz N. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 13
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Wang Xin. vs Dart H." tvg-name="12:30 WTA - PRAGUE : Wang Xin. vs Dart H. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Havlickova L. vs Kovackova A." tvg-name="14:00 WTA - PRAGUE : Havlickova L. vs Kovackova A. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Siniakova K. vs Ruse G." tvg-name="14:00 WTA - PRAGUE : Siniakova K. vs Ruse G. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - PRAGUE - Noskova L. vs Gasanova A." tvg-name="15:30 WTA - PRAGUE : Noskova L. vs Gasanova A. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Townsend T. vs Maria T." tvg-name="16:30 WTA - WASHINGTON : Townsend T. vs Maria T. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Kessler M. vs Dolehide C." tvg-name="16:30 WTA - WASHINGTON : Kessler M. vs Dolehide C. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Kalinskaya A. vs Rakhimova K." tvg-name="18:30 WTA - WASHINGTON : Kalinskaya A. vs Rakhimova K. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Baptiste H. vs Kenin S." tvg-name="19:00 WTA - WASHINGTON : Baptiste H. vs Kenin S. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Kostyuk M. vs Raducanu E." tvg-name="21:30 WTA - WASHINGTON : Kostyuk M. vs Raducanu E. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Osaka N. vs Putintseva Y." tvg-name="21:30 WTA - WASHINGTON : Osaka N. vs Putintseva Y. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Williams V. vs Stearns P." tvg-name="01:30 WTA - WASHINGTON : Williams V. vs Stearns P. - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-701.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV3 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-454.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 PLUS Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-474.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-383.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-713.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2" tvg-name="10:30 Washington Open | Umag Open | ATP National Bank Open | Kitzbuhel Open - Day 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Swedish Elitserien League Speedway - Rospiggarna Hallstavik vs. Indians" tvg-name="19:00 Swedish Elitserien League Speedway : Rospiggarna Hallstavik vs. Indians - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Eleven Sports 1 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-71.php
+
+#EXTINF:-1 tvg-id="Swedish Elitserien League Speedway - Rospiggarna Hallstavik vs. Indians" tvg-name="19:00 Swedish Elitserien League Speedway : Rospiggarna Hallstavik vs. Indians - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Viaplay Sports 2 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-550.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", CW USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-300.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", CW PIX 11 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-280.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Variety 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-418.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", SuperSport Grandstand
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-412.php
+
+#EXTINF:-1 tvg-id="Winline IBA.PRO 8. - Vadim Musaev vs. Jose Miguel Borregui" tvg-name="16:00 Winline IBA.PRO 8. : Vadim Musaev vs. Jose Miguel Borregui - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", MATCH Premier Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-573.php
+
+#EXTINF:-1 tvg-id="Winline IBA.PRO 8. - Vadim Musaev vs. Jose Miguel Borregui" tvg-name="16:00 Winline IBA.PRO 8. : Vadim Musaev vs. Jose Miguel Borregui - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", MATCH TV Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
+
+#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 2 - World University Games Rhine-Ruhr | Matchday 2" tvg-name="17:30 World University Games Rhine-Ruhr | Matchday 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", EuroSport 1 Poland
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-57.php
 
-#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 5 - World University Games Rhine-Ruhr | Matchday 5" tvg-name="19:00 World University Games Rhine-Ruhr | Matchday 5 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", EuroSport 1 Spain
+#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 2 - World University Games Rhine-Ruhr | Matchday 2" tvg-name="17:30 World University Games Rhine-Ruhr | Matchday 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", EuroSport 1 Spain
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-524.php
 
-#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 5 - World University Games Rhine-Ruhr | Matchday 5" tvg-name="19:00 World University Games Rhine-Ruhr | Matchday 5 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", EuroSport 1 France
+#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 2 - World University Games Rhine-Ruhr | Matchday 2" tvg-name="17:30 World University Games Rhine-Ruhr | Matchday 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", EuroSport 1 France
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
 
-#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 5 - World University Games Rhine-Ruhr | Matchday 5" tvg-name="19:00 World University Games Rhine-Ruhr | Matchday 5 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", Eurosport 1 SE
+#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 2 - World University Games Rhine-Ruhr | Matchday 2" tvg-name="17:30 World University Games Rhine-Ruhr | Matchday 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Eurosport 1 SE
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-231.php
 
-#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 5 - World University Games Rhine-Ruhr | Matchday 5" tvg-name="19:00 World University Games Rhine-Ruhr | Matchday 5 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", EuroSport 1 Italy
+#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 2 - World University Games Rhine-Ruhr | Matchday 2" tvg-name="17:30 World University Games Rhine-Ruhr | Matchday 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", EuroSport 1 Italy
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 5 - World University Games Rhine-Ruhr | Matchday 5" tvg-name="19:00 World University Games Rhine-Ruhr | Matchday 5 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", EuroSport 1 France
+#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 2 - World University Games Rhine-Ruhr | Matchday 2" tvg-name="17:30 World University Games Rhine-Ruhr | Matchday 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", EuroSport 1 France
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
 
-#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 5 - World University Games Rhine-Ruhr | Matchday 5" tvg-name="19:00 World University Games Rhine-Ruhr | Matchday 5 - 21/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", EuroSport 1 Greece
+#EXTINF:-1 tvg-id="World University Games Rhine-Ruhr | Matchday 2 - World University Games Rhine-Ruhr | Matchday 2" tvg-name="17:30 World University Games Rhine-Ruhr | Matchday 2 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", EuroSport 1 Greece
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-41.php
+
+#EXTINF:-1 tvg-id="The Basketball Tournament - La Familia vs. Eberlein Drive" tvg-name="00:00 The Basketball Tournament : La Familia vs. Eberlein Drive - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Fox Sports 2 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="The Basketball Tournament Round of 16 - Winner Game 41 vs Winner Game 44" tvg-name="02:00 The Basketball Tournament Round of 16: Winner Game 41 vs Winner Game 44 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Fox Sports 2 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics vs Los Angeles Sparks" tvg-name="02:00 WNBA : Washington Mystics vs Los Angeles Sparks - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="WNBA - Washington Mystics vs Los Angeles Sparks" tvg-name="02:00 WNBA : Washington Mystics vs Los Angeles Sparks - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Monumental Sports Network
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-778.php
+
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky vs Minnesota Lynx" tvg-name="02:00 WNBA : Chicago Sky vs Minnesota Lynx - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-19.php
+
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky vs Minnesota Lynx" tvg-name="02:00 WNBA : Chicago Sky vs Minnesota Lynx - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network North
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-898.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="02:00 WNBA : New York Liberty W vs Indiana Fever W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-20.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="02:00 WNBA : New York Liberty W vs Indiana Fever W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="02:00 WNBA : New York Liberty W vs Indiana Fever W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="02:00 WNBA : New York Liberty W vs Indiana Fever W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="02:00 WNBA : New York Liberty W vs Indiana Fever W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Indiana Fever W" tvg-name="02:00 WNBA : New York Liberty W vs Indiana Fever W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN3 Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-83.php
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs Atlanta Dream W" tvg-name="04:00 WNBA : Las Vegas Aces W vs Atlanta Dream W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-21.php
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs Atlanta Dream W" tvg-name="04:00 WNBA : Las Vegas Aces W vs Atlanta Dream W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs Atlanta Dream W" tvg-name="04:00 WNBA : Las Vegas Aces W vs Atlanta Dream W - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="WNBA - Dallas Wings vs Seattle Storm" tvg-name="04:00 WNBA : Dallas Wings vs Seattle Storm - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-22.php
+
+#EXTINF:-1 tvg-id="Final Four Petanque 2025-from Gorizia - Final Four Petanque 2025-from Gorizia" tvg-name="17:00 Final Four Petanque 2025-from Gorizia - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Bowling", RAI Sport 1 Italy
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="Lions Tour - First Nations & Pasifika XV vs British&Irish Lions" tvg-name="12:00 Lions Tour : First Nations & Pasifika XV vs British&Irish Lions - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sports Action UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-37.php
+
+#EXTINF:-1 tvg-id="Lions Tour - First Nations & Pasifika XV vs British&Irish Lions" tvg-name="12:00 Lions Tour : First Nations & Pasifika XV vs British&Irish Lions - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", SuperSport Rugby
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-421.php
+
+#EXTINF:-1 tvg-id="Lions Tour - First Nations & Pasifika XV vs British&Irish Lions" tvg-name="12:00 Lions Tour : First Nations & Pasifika XV vs British&Irish Lions - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sports Main Event
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-38.php
+
+#EXTINF:-1 tvg-id="Lions Tour - First Nations & Pasifika XV vs British&Irish Lions" tvg-name="12:00 Lions Tour : First Nations & Pasifika XV vs British&Irish Lions - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sport TV1 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="Lions Tour - First Nations & Pasifika XV vs British&Irish Lions" tvg-name="12:00 Lions Tour : First Nations & Pasifika XV vs British&Irish Lions - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 1 NZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-588.php
+
+#EXTINF:-1 tvg-id="2025 World Aquatics Championships - Men's Water Polo - 2nd Semifinal" tvg-name="15:25 2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallanuoto", RAI Sport 1 Italy
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel

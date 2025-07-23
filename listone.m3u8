@@ -58,7 +58,13 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/625586063b81b5c
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -146,6 +152,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42489970292d293
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -312,6 +321,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/178550192490bfb
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI YOYO (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -444,9 +456,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2221901869db7a5
 #EXTINF:-1 tvg-id="skyprimafila14.it" tvg-name="Sky Primafila 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 14 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila15.it" tvg-name="Sky Primafila 15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 15 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila16.it" tvg-name="Sky Primafila 16" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 16 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -518,9 +527,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/344556251909fe0
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1800,26 +1806,35 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="Rai1" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 21:00 Inghilterra - Italia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-
-#EXTINF:-1 tvg-id="RTE2" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 21:00 Germania - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-#EXTINF:-1 tvg-id="RaiSport" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 21:00 Germania - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
+#EXTINF:-1 tvg-id="RaiSport" tvg-name="AMICHEVOLI - COMO CUP MERCOLEDI 23 LUGLIO 21:00 Germania - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 20:30 Como - Al-Ahli" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+#EXTINF:-1 tvg-id="RTE2" tvg-name="AMICHEVOLI - COMO CUP MERCOLEDI 23 LUGLIO 21:00 Germania - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
+
+#EXTINF:-1 tvg-id="DaznNT" tvg-name="AMICHEVOLI - COMO CUP MERCOLEDI 23 LUGLIO 13:30 Arsenal - Milan" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/k4g4gu5cnf031jqe3td67ko9p/web/stream.mpd%3Fchannel%3D3922%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DeyJiMmFiZWFmM2JhOGQ1MDQ4YTAxOGFkOWFhNDg1NDIyZiI6ImQ3MWU5NjdjM2VmNmQ3YjAzNGFhMGY5YjhhMTU4YWMwIn0%3D&key_id=b2abeaf3ba8d5048a018ad9aa485422f&key=d71e967c3ef6d7b034aa0f9b8a158ac0
+
+#EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="AMICHEVOLI - COMO CUP MERCOLEDI 23 LUGLIO 20:30 Como - Al-Ahli" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
 
-#EXTINF:-1 tvg-id="SportTOPEvent_DE" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 13:30 Arsenal - Milan" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
+#EXTINF:-1 tvg-id="SportTOPEvent_DE" tvg-name="AMICHEVOLI - COMO CUP MERCOLEDI 23 LUGLIO 13:30 Arsenal - Milan" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index_stereo.mpd%3F%26ck%3DMDAwYjMyNjVlMWY5ZDUyMzc0YzZjNDcwNWEyNThmN2E6ZDIyM2UwZmVjNTVlMGEyMjM0NGQxY2FjYjhjZDI4NTU%3D&key_id=000b3265e1f9d52374c6c4705a258f7a&key=d223e0fec55e0a22344d1cacb8cd2855
 
-#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 19:30 Galatasaray - Cagliari" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
+#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="AMICHEVOLI - COMO CUP MERCOLEDI 23 LUGLIO 19:30 Galatasaray - Cagliari" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
 
-#EXTINF:-1 tvg-id="3CAT" tvg-name="AMICHEVOLI MERCOLEDI 23 LUGLIO 20:30 Girona - Espanyol" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", 3Cat (TN)
+#EXTINF:-1 tvg-id="3CAT" tvg-name="AMICHEVOLI - COMO CUP MERCOLEDI 23 LUGLIO 20:30 Girona - Espanyol" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", 3Cat (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd&key_id=325daf9ae36d550da1a42c645dc110dd&key=085a5a1b5595f7492d804dab2c406287,47e3d769ecc65009b31260579a2f3362:0577b31398c457270ba9a8af216c7b0c,0044da7266da5474a7ddc63b817ec3af:012ebc9d5499038583b511459151435e
+
+#EXTINF:-1 tvg-id="SportF1_DE" tvg-name="GP SPA - BELGIO VENERDI 25 LUGLIO 15:00 Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sky Sport (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/032111-50/index.mpd&key_id=000b4b05b463b25ac9474c6b8de9242a&key=108e1dc2c98ce68de84cbfd1b1715c03
+
+#EXTINF:-1 tvg-id="RSILA2" tvg-name="GP SPA - BELGIO VENERDI 25 LUGLIO 15:00 Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RSI (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+#EXTINF:-1 tvg-id="TSN5" tvg-name="GP SPA - BELGIO VENERDI 25 LUGLIO 15:00 Gara" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", TSN (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live-cito.9c9media.ca/5d56690552e77e26848799912ac055919f78d5e71725017868382/f/tsn5/manifest.mpd&key_id=f4608dc9b6164cd7b96791af91cc334c&key=8d4bc6537629d3f7ad5aa4e75516f6da
 
 #EXTINF:-1 tvg-id="Eurosport1IT" tvg-name="TOUR DE FRANCE - FRANCIA SABATO 5 LUGLIO - DOMENICA 27 LUGLIO 13:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Eurosport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750

@@ -103,6 +103,9 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax (2)" tvg-logo="" group-title="Discovery",DMAX (V) (2)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
@@ -191,6 +194,12 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 
 #EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="mediasetinfinity+1.it" tvg-name="Mediaset Infinity+ 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 1 (V)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -521,6 +530,9 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1800,29 +1812,17 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="RaiSport" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 24 LUGLIO 21:00 Germania - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-id="Premiere4_BR" tvg-name="EUROPEI FEMMINILI - FINALE DOMENICA 27 LUGLIO 22:00 Vasco da Gama - Bahia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
+https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98
 
-#EXTINF:-1 tvg-id="RTE2" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 24 LUGLIO 21:00 Germania - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
-
-#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 24 LUGLIO 19:30 Galatasaray - Cagliari" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
-
-#EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 24 LUGLIO 20:30 Como - Al-Ahli" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
-
-#EXTINF:-1 tvg-id="Premiere1_BR" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 24 LUGLIO 22:00 Gremio - Botafogo" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
+#EXTINF:-1 tvg-id="Premiere1_BR" tvg-name="EUROPEI FEMMINILI - FINALE DOMENICA 27 LUGLIO 00:00 Juventude - Sao Paulo" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
 https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4
 
-#EXTINF:-1 tvg-id="Premiere5_BR" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 24 LUGLIO 02:30 Vitoria - Sport Recife" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd&key_id=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd
+#EXTINF:-1 tvg-id="RaiSport" tvg-name="EUROPEI FEMMINILI - FINALE DOMENICA 27 LUGLIO 18:00 Inghilterra - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Rai (TN)
+https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTINF:-1 tvg-id="Premiere2_BR" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 24 LUGLIO 00:30 Corinthians - Cruzeiro" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330
-
-#EXTINF:-1 tvg-id="Premiere4_BR" tvg-name="BRASILEIRAO - BRASILE GIOVEDI 24 LUGLIO 22:00 Vasco da Gama - Bahia" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Premiere (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98
+#EXTINF:-1 tvg-id="RTE2" tvg-name="EUROPEI FEMMINILI - FINALE DOMENICA 27 LUGLIO 18:00 Inghilterra - Spagna" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTE (TN)
+https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 #EXTINF:-1 tvg-id="ZiggoSP1" tvg-name="ATP 500 MUBADALA, WASHINGTON - USA SABATO 21 LUGLIO - DOMENICA 27 LUGLIO 19:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
 https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601012829:UTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26RTS%3D1717205309%26from%3D11%26hms_devid%3D1008%26online%3D1717205309%26mag_hms%3D1008%2C311%2C305%26_%3D1717205322621%26ck%3DZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM%3D&key_id=ef34ae91b4f2415e8439b2ad105e7488&key=243248d8de1ff8c7c587ee2057317523

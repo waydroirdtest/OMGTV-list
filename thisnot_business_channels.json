@@ -1,13 +1,37 @@
 {
+  "https://thisnot.business/player.php?id=Premiere4_BR": {
+    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
+    "info": {
+      "category": "CALCIO",
+      "title": "EUROPEI FEMMINILI - FINALE",
+      "date": "DOMENICA 27 LUGLIO",
+      "event": "22:00 Vasco da Gama - Bahia",
+      "channel": "Premiere",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Premiere4_BR"
+    }
+  },
+  "https://thisnot.business/player.php?id=Premiere1_BR": {
+    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
+    "info": {
+      "category": "CALCIO",
+      "title": "EUROPEI FEMMINILI - FINALE",
+      "date": "DOMENICA 27 LUGLIO",
+      "event": "00:00 Juventude - Sao Paulo",
+      "channel": "Premiere",
+      "language": "br",
+      "url": "https://thisnot.business/player.php?id=Premiere1_BR"
+    }
+  },
   "https://thisnot.business/player.php?id=RaiSport": {
     "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "BRASILEIRAO - BRASILE",
-      "date": "GIOVEDI 24 LUGLIO",
-      "event": "21:00 Germania - Spagna",
+      "title": "EUROPEI FEMMINILI - FINALE",
+      "date": "DOMENICA 27 LUGLIO",
+      "event": "18:00 Inghilterra - Spagna",
       "channel": "Rai",
-      "language": "",
+      "language": "br",
       "url": "https://thisnot.business/player.php?id=RaiSport"
     }
   },
@@ -15,84 +39,12 @@
     "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
     "info": {
       "category": "CALCIO",
-      "title": "BRASILEIRAO - BRASILE",
-      "date": "GIOVEDI 24 LUGLIO",
-      "event": "21:00 Germania - Spagna",
+      "title": "EUROPEI FEMMINILI - FINALE",
+      "date": "DOMENICA 27 LUGLIO",
+      "event": "18:00 Inghilterra - Spagna",
       "channel": "RTE",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=RTE2"
-    }
-  },
-  "https://thisnot.business/player.php?id=Dazn1amazon": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd",
-    "info": {
-      "category": "CALCIO",
-      "title": "BRASILEIRAO - BRASILE",
-      "date": "GIOVEDI 24 LUGLIO",
-      "event": "19:30 Galatasaray - Cagliari",
-      "channel": "Dazn",
-      "language": "ie",
-      "url": "https://thisnot.business/player.php?id=Dazn1amazon"
-    }
-  },
-  "https://thisnot.business/player.php?id=ArenaSP1_ME": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79",
-    "info": {
-      "category": "CALCIO",
-      "title": "BRASILEIRAO - BRASILE",
-      "date": "GIOVEDI 24 LUGLIO",
-      "event": "20:30 Como - Al-Ahli",
-      "channel": "Arena Sport",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=ArenaSP1_ME"
-    }
-  },
-  "https://thisnot.business/player.php?id=Premiere1_BR": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
-    "info": {
-      "category": "CALCIO",
-      "title": "BRASILEIRAO - BRASILE",
-      "date": "GIOVEDI 24 LUGLIO",
-      "event": "22:00 Gremio - Botafogo",
-      "channel": "Premiere",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Premiere1_BR"
-    }
-  },
-  "https://thisnot.business/player.php?id=Premiere5_BR": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd&key_id=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
-    "info": {
-      "category": "CALCIO",
-      "title": "BRASILEIRAO - BRASILE",
-      "date": "GIOVEDI 24 LUGLIO",
-      "event": "02:30 Vitoria - Sport Recife",
-      "channel": "Premiere",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Premiere5_BR"
-    }
-  },
-  "https://thisnot.business/player.php?id=Premiere2_BR": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
-    "info": {
-      "category": "CALCIO",
-      "title": "BRASILEIRAO - BRASILE",
-      "date": "GIOVEDI 24 LUGLIO",
-      "event": "00:30 Corinthians - Cruzeiro",
-      "channel": "Premiere",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Premiere2_BR"
-    }
-  },
-  "https://thisnot.business/player.php?id=Premiere4_BR": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
-    "info": {
-      "category": "CALCIO",
-      "title": "BRASILEIRAO - BRASILE",
-      "date": "GIOVEDI 24 LUGLIO",
-      "event": "22:00 Vasco da Gama - Bahia",
-      "channel": "Premiere",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Premiere4_BR"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP1": {
@@ -103,7 +55,7 @@
       "date": "SABATO 21 LUGLIO - DOMENICA 27 LUGLIO",
       "event": "19:00 Live",
       "channel": "Ziggo",
-      "language": "br",
+      "language": "ie",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
     }
   },

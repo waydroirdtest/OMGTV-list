@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV - MainStage | Tomorrowland 2025 LIVE - PPV - MainStage | Tomorrowland 2025 LIVE" tvg-name="16:30 PPV - MainStage | Tomorrowland 2025 LIVE - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE - PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE" tvg-name="16:30 PPV - Freedom Stage | Tomorrowland Belgium 2025 LIVE - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="Hall Of Fame Fight Night - Shane Mosley vs Matt Floyd" tvg-name="19:00 Hall Of Fame Fight Night: Shane Mosley vs Matt Floyd - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="2025 Limited Late Model 30 at Stafford Speedway - 2025 Limited Late Model 30 at Stafford Speedway" tvg-name="23:30 2025 Limited Late Model 30 at Stafford Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Fairbury - World of Outlaws Late Models Fairbury" tvg-name="00:15 World of Outlaws Late Models Fairbury - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="Attica Raceway Sprint Cars - Attica Raceway Sprint Cars" tvg-name="00:30 Attica Raceway Sprint Cars - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="2025 USAC Indiana Sprint Week at Lincoln Park Speedway - 2025 USAC Indiana Sprint Week at Lincoln Park Speedway" tvg-name="00:30 2025 USAC Indiana Sprint Week at Lincoln Park Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="2025 IRA Sprints at Mississippi Thunder Speedway - 2025 IRA Sprints at Mississippi Thunder Speedway" tvg-name="00:30 2025 IRA Sprints at Mississippi Thunder Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="2025 Porsche Sprint Challenge at Lauguna Seca - 2025 Porsche Sprint Challenge at Lauguna Seca" tvg-name="00:30 2025 Porsche Sprint Challenge at Lauguna Seca - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - World of Outlaws Sprint Cars" tvg-name="00:45 World of Outlaws Sprint Cars - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="2025 Weekly Racing at Utica-Rome Speedway - 2025 Weekly Racing at Utica-Rome Speedway" tvg-name="00:45 2025 Weekly Racing at Utica-Rome Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="2025 Southern Nationals at North Georgia Speedway - 2025 Southern Nationals at North Georgia Speedway" tvg-name="01:00 2025 Southern Nationals at North Georgia Speedway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="Xtreme Outlaw Midgets Arrowhead - Xtreme Outlaw Midgets Arrowhead" tvg-name="01:45 Xtreme Outlaw Midgets Arrowhead - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="XR Big Deal Ogilvie Raceway - XR Big Deal Ogilvie Raceway" tvg-name="02:00 XR Big Deal Ogilvie Raceway - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Windy Hollow - American Sprint Car Series Windy Hollow" tvg-name="02:15 American Sprint Car Series Windy Hollow - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="Jackson Sprint Cars - Jackson Sprint Cars" tvg-name="02:15 Jackson Sprint Cars - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="Cage Fury Fighting Championships - CFFC: BJJ 14" tvg-name="03:00 Cage Fury Fighting Championships : CFFC: BJJ 14 - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Cork City vs Sligo Rovers" tvg-name="20:45 Ireland Republic - Premier Division : Cork City vs Sligo Rovers - 25/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
 

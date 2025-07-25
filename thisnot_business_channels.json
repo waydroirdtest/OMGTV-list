@@ -5,34 +5,22 @@
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - FINALE",
       "date": "DOMENICA 27 LUGLIO",
-      "event": "20:00 Fiorentina - Carrarese",
+      "event": "13:30 Liverpool - Milan",
       "channel": "Dazn",
-      "language": "",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=Dazn"
     }
   },
-  "https://thisnot.business/player.php?id=Premiere4_BR": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd&key_id=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98",
+  "https://thisnot.business/player.php?id=ArenaSP1_ME": {
+    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - FINALE",
       "date": "DOMENICA 27 LUGLIO",
-      "event": "22:00 Vasco da Gama - Bahia",
-      "channel": "Premiere",
+      "event": "13:30 Arsenal - Newcastle",
+      "channel": "Arena Sport",
       "language": "it",
-      "url": "https://thisnot.business/player.php?id=Premiere4_BR"
-    }
-  },
-  "https://thisnot.business/player.php?id=Premiere1_BR": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
-    "info": {
-      "category": "CALCIO",
-      "title": "EUROPEI FEMMINILI - FINALE",
-      "date": "DOMENICA 27 LUGLIO",
-      "event": "00:00 Juventude - Sao Paulo",
-      "channel": "Premiere",
-      "language": "br",
-      "url": "https://thisnot.business/player.php?id=Premiere1_BR"
+      "url": "https://thisnot.business/player.php?id=ArenaSP1_ME"
     }
   },
   "https://thisnot.business/player.php?id=RaiSport": {
@@ -43,7 +31,7 @@
       "date": "DOMENICA 27 LUGLIO",
       "event": "18:00 Inghilterra - Spagna",
       "channel": "Rai",
-      "language": "br",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=RaiSport"
     }
   },

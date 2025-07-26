@@ -1,13 +1,13 @@
 {
   "https://thisnot.business/player.php?id=Dazn": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/1o5jym9epqnf711favab17g9yg/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYTE3OWU5OWMyNTUxNTVlMGIyNmI0ZjlmY2FkNzZjNWU6Mjk4MmU4NWE2MDBkM2Q0Y2IxYTA3YzY4NGE2YzljODk%3D&key_id=a179e99c255155e0b26b4f9fcad76c5e&key=2982e85a600d3d4cb1a07c684a6c9c89",
+    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/1963e6b6fmul71gf91qaddpdrk/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZjY5ZWI5MDUyNWQ2NTE5ZDlhM2I5ZmE4YmMxZWE3NTc6NDNkMTkyMzZjYWIxN2EyMGY2ZjdiMzcwNjgyNGEzNGM%3D&key_id=f69eb90525d6519d9a3b9fa8bc1ea757&key=43d19236cab17a20f6f7b3706824a34c",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - FINALE",
       "date": "DOMENICA 27 LUGLIO",
       "event": "13:30 Liverpool - Milan",
       "channel": "Dazn",
-      "language": "it",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=Dazn"
     }
   },
@@ -52,7 +52,7 @@
     "info": {
       "category": "FORMULA 1",
       "title": "GP SPA - BELGIO",
-      "date": "VENERDI 25 LUGLIO",
+      "date": "SABATO 26 LUGLIO",
       "event": "15:00 Gara",
       "channel": "Sky Sport",
       "language": "it",
@@ -64,7 +64,7 @@
     "info": {
       "category": "FORMULA 1",
       "title": "GP SPA - BELGIO",
-      "date": "VENERDI 25 LUGLIO",
+      "date": "SABATO 26 LUGLIO",
       "event": "15:00 Gara",
       "channel": "RSI",
       "language": "de",
@@ -76,7 +76,7 @@
     "info": {
       "category": "FORMULA 1",
       "title": "GP SPA - BELGIO",
-      "date": "VENERDI 25 LUGLIO",
+      "date": "SABATO 26 LUGLIO",
       "event": "15:00 Gara",
       "channel": "TSN (VPN CANADA)",
       "language": "it",
@@ -141,6 +141,18 @@
       "channel": "Eurosport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=Eurosport2IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=TNTSP2": {
+    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441",
+    "info": {
+      "category": "UFC",
+      "title": "WHITTAKER vs DE RIDDER",
+      "date": "SABATO 26 LUGLIO",
+      "event": "21:00 Card Principali",
+      "channel": "TNT Sports",
+      "language": "uk",
+      "url": "https://thisnot.business/player.php?id=TNTSP2"
     }
   }
 }

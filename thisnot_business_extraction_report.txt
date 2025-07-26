@@ -2,12 +2,8 @@ Report Estrazione Link da thisnot.business
 ===========================================
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
-  Dettagli: Categoria='CALCIO', Evento='13:30 Liverpool - Milan', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/1nknrkaf0u5za1gainp0abwu1r/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYWQ1Mjk4NzM0NDg0NWIwYmE4MWE4M2YwYmIxNjZiNzc6ZTgwNDI0YWQ2ZDE1OGM5MWI4ZGUyZjE2MDAyMjlmOTA%3D&key_id=ad52987344845b0ba81a83f0bb166b77&key=e80424ad6d158c91b8de2f1600229f90
-
-Pagina Evento: https://thisnot.business/player.php?id=CBSgolazo
-  Dettagli: Categoria='CALCIO', Evento='13:30 Liverpool - Milan', Canale='CBS'
-  Stato Estrazione: OK - Proxy generato: https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&key_id=d9623774ac5c8c351aafe97c5fe70267&key=5164e6d05164a2d65fa8fcc962aa4861
+  Dettagli: Categoria='CALCIO', Evento='16:00 Torino - Cremonese', Canale='Dazn'
+  Stato Estrazione: OK - Proxy generato: https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/khb79317lesq1cxdvbexxyvbq/tv/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DNWJhZGY3ODBhMWJjNTM2MDlkOTZjNDNkYTVmNjk5NWQ6YWJkZmI3YjJjYmY3YmI4MDNmZDgxMDdkOWY0NGU3NDQ%3D&key_id=5badf780a1bc53609d96c43da5f6995d&key=abdfb7b2cbf7bb803fd8107d9f44e744
 
 Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
   Dettagli: Categoria='CALCIO', Evento='18:00 Kaiserslautern - Roma', Canale='Arena Sport'
@@ -34,12 +30,8 @@ Pagina Evento: https://thisnot.business/player.php?id=RTE2
   Stato Estrazione: OK - Proxy generato: https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
-  Dettagli: Categoria='CALCIO', Evento='13:30 Liverpool - Milan', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/1nknrkaf0u5za1gainp0abwu1r/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYWQ1Mjk4NzM0NDg0NWIwYmE4MWE4M2YwYmIxNjZiNzc6ZTgwNDI0YWQ2ZDE1OGM5MWI4ZGUyZjE2MDAyMjlmOTA%3D&key_id=ad52987344845b0ba81a83f0bb166b77&key=e80424ad6d158c91b8de2f1600229f90
-
-Pagina Evento: https://thisnot.business/player.php?id=CBSgolazo
-  Dettagli: Categoria='CALCIO', Evento='13:30 Liverpool - Milan', Canale='CBS'
-  Stato Estrazione: OK - Proxy generato: https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&key_id=d9623774ac5c8c351aafe97c5fe70267&key=5164e6d05164a2d65fa8fcc962aa4861
+  Dettagli: Categoria='CALCIO', Evento='16:00 Torino - Cremonese', Canale='Dazn'
+  Stato Estrazione: OK - Proxy generato: https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/khb79317lesq1cxdvbexxyvbq/tv/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DNWJhZGY3ODBhMWJjNTM2MDlkOTZjNDNkYTVmNjk5NWQ6YWJkZmI3YjJjYmY3YmI4MDNmZDgxMDdkOWY0NGU3NDQ%3D&key_id=5badf780a1bc53609d96c43da5f6995d&key=abdfb7b2cbf7bb803fd8107d9f44e744
 
 Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
   Dettagli: Categoria='CALCIO', Evento='18:00 Kaiserslautern - Roma', Canale='Arena Sport'

@@ -42,6 +42,9 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/217871728282294e996afe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="catfish.it" tvg-name="Catfish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="Altro",CATFISH (V)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/23815838281e427554084f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/27199536882db77bf0ce4c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -56,9 +59,6 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
-https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -268,9 +268,6 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
-https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
@@ -644,6 +641,9 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/pla
 
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8 (2)" tvg-logo="" group-title="Sky",TV 8 (V) (2)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="warnertv.it" tvg-name="Warner Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png" group-title="Discovery",WARNER TV (V)
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3171202588cf85ec4cba3f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1807,10 +1807,7 @@ https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d
 
 # Playlist generata da ThisNotBusiness
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Dazn 1 (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/1nknrkaf0u5za1gainp0abwu1r/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYWQ1Mjk4NzM0NDg0NWIwYmE4MWE4M2YwYmIxNjZiNzc6ZTgwNDI0YWQ2ZDE1OGM5MWI4ZGUyZjE2MDAyMjlmOTA%3D&key_id=ad52987344845b0ba81a83f0bb166b77&key=e80424ad6d158c91b8de2f1600229f90
-
-#EXTINF:-1 tvg-id="CBSgolazo" tvg-name="EUROPEI FEMMINILI - FINALE DOMENICA 27 LUGLIO 13:30 Liverpool - Milan" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", CBS (TN)
-https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&key_id=d9623774ac5c8c351aafe97c5fe70267&key=5164e6d05164a2d65fa8fcc962aa4861
+https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/khb79317lesq1cxdvbexxyvbq/tv/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DNWJhZGY3ODBhMWJjNTM2MDlkOTZjNDNkYTVmNjk5NWQ6YWJkZmI3YjJjYmY3YmI4MDNmZDgxMDdkOWY0NGU3NDQ%3D&key_id=5badf780a1bc53609d96c43da5f6995d&key=abdfb7b2cbf7bb803fd8107d9f44e744
 
 #EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="EUROPEI FEMMINILI - FINALE DOMENICA 27 LUGLIO 13:30 Arsenal - Newcastle" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
 https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
@@ -1852,6 +1849,78 @@ https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d
 https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 
 # Playlist generata da SkyStreaming
+#EXTINF:-1 tvg-id="TNT IGNition - High Voltage 2025" tvg-name="15:00 TNT IGNition: High Voltage 2025 - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="2025 Dirt City Off-Road National - 2025 Dirt City Off-Road National" tvg-name="16:45 2025 Dirt City Off-Road National - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="PPV MainStage | Tomorrowland 2025 LIVE - PPV MainStage | Tomorrowland 2025 LIVE" tvg-name="17:00 PPV MainStage | Tomorrowland 2025 LIVE - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="PPV Freedom Stage | Tomorrowland Belgium 2025 LIVE - PPV Freedom Stage | Tomorrowland Belgium 2025 LIVE" tvg-name="17:00 PPV Freedom Stage | Tomorrowland Belgium 2025 LIVE - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="Memphis Wrestling, Episode 231 - Lights Out - Memphis Wrestling, Episode 231 - Lights Out" tvg-name="18:00 Memphis Wrestling, Episode 231 - Lights Out - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="TNT Extreme Wrestling - Summer Explosion 2025" tvg-name="21:00 TNT Extreme Wrestling: Summer Explosion 2025 - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="PetrosyanMania Special Edition - PetrosyanMania Special Edition" tvg-name="22:00 PetrosyanMania Special Edition - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", DAZN PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="2025 Figure 8 Night at Riverhead Raceway - 2025 Figure 8 Night at Riverhead Raceway" tvg-name="23:00 2025 Figure 8 Night at Riverhead Raceway - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="Super DIRTcar Series - Super DIRTcar Series" tvg-name="23:45 Super DIRTcar Series - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models - World of Outlaws Late Models" tvg-name="00:00 World of Outlaws Late Models - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="2025 Hondo Classic at Fonda Speedway - 2025 Hondo Classic at Fonda Speedway" tvg-name="00:00 2025 Hondo Classic at Fonda Speedway - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="2025 IRA Sprints at Beaver Dam Raceway - 2025 IRA Sprints at Beaver Dam Raceway" tvg-name="00:00 2025 IRA Sprints at Beaver Dam Raceway - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="Sharon Speedway Late Models - Sharon Speedway Late Models" tvg-name="00:30 Sharon Speedway Late Models - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="2025 USAC Indiana Sprint Week at Kokomo Speedway - 2025 USAC Indiana Sprint Week at Kokomo Speedway" tvg-name="00:30 2025 USAC Indiana Sprint Week at Kokomo Speedway - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - World of Outlaws Sprint Cars" tvg-name="00:45 World of Outlaws Sprint Cars - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Benton - American Sprint Car Series Benton" tvg-name="00:45 American Sprint Car Series Benton - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="2025 IMCA Weekly Racing at 141 Speedway - 2025 IMCA Weekly Racing at 141 Speedway" tvg-name="00:55 2025 IMCA Weekly Racing at 141 Speedway - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="Southern Nationals Tazewell - Southern Nationals Tazewell" tvg-name="01:00 Southern Nationals Tazewell - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="Xtreme Outlaw Midgets - Xtreme Outlaw Midgets" tvg-name="01:15 Xtreme Outlaw Midgets - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="NARC 410 Sprints Santa Maria - NARC 410 Sprints Santa Maria" tvg-name="01:15 NARC 410 Sprints Santa Maria - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="Knoxville Sprint Cars - Knoxville Sprint Cars" tvg-name="01:30 Knoxville Sprint Cars - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="Sportsman 100 Bowman Gray - Sportsman 100 Bowman Gray" tvg-name="01:45 Sportsman 100 Bowman Gray - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="XR Big Deal Ogilvie Raceway - XR Big Deal Ogilvie Raceway" tvg-name="02:00 XR Big Deal Ogilvie Raceway - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="LFA 213 - Do Nascimento vs. Jimenez" tvg-name="04:00 LFA 213: Do Nascimento vs. Jimenez - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - First Division - Longford Town vs Bray Wanderers" tvg-name="20:30 Ireland Republic - First Division : Longford Town vs Bray Wanderers - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
 
@@ -2851,10 +2920,10 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/st
 #EXTINF:-1 tvg-id="ATP - UMAG - Taberner C. vs Darderi L." tvg-name="20:00 ATP - UMAG : Taberner C. vs Darderi L. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Umag", Tennis Stream 8
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
 
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - Shelton B. vs Tiafoe F." tvg-name="12:11 ATP - WASHINGTON : Shelton B. vs Tiafoe F. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 9
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Shelton B. vs Tiafoe F." tvg-name="14:31 ATP - WASHINGTON : Shelton B. vs Tiafoe F. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 9
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
 
-#EXTINF:-1 tvg-id="ATP - WASHINGTON - Davidovich Fokina A. vs Fritz T." tvg-name="12:11 ATP - WASHINGTON : Davidovich Fokina A. vs Fritz T. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 9
+#EXTINF:-1 tvg-id="ATP - WASHINGTON - Davidovich Fokina A. vs Fritz T." tvg-name="14:31 ATP - WASHINGTON : Davidovich Fokina A. vs Fritz T. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 9
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
 
 #EXTINF:-1 tvg-id="ATP - WASHINGTON - De Minaur A. vs Moutet C." tvg-name="20:00 ATP - WASHINGTON : De Minaur A. vs Moutet C. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Washington", Tennis Stream 9
@@ -2866,13 +2935,13 @@ https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/st
 #EXTINF:-1 tvg-id="WTA - PRAGUE - Noskova L. vs Bouzkova M." tvg-name="14:00 WTA - PRAGUE : Noskova L. vs Bouzkova M. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Prague", Tennis Stream 1
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
 
-#EXTINF:-1 tvg-id="WTA - WASHINGTON - Kalinskaya A. vs Tauson C." tvg-name="12:11 WTA - WASHINGTON : Kalinskaya A. vs Tauson C. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 3
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Kalinskaya A. vs Tauson C." tvg-name="14:31 WTA - WASHINGTON : Kalinskaya A. vs Tauson C. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 3
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
 
-#EXTINF:-1 tvg-id="WTA - WASHINGTON - Kalinskaya A. vs Tauson C." tvg-name="12:11 WTA - WASHINGTON : Kalinskaya A. vs Tauson C. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Kalinskaya A. vs Tauson C." tvg-name="14:31 WTA - WASHINGTON : Kalinskaya A. vs Tauson C. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 4
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
 
-#EXTINF:-1 tvg-id="WTA - WASHINGTON - Raducanu E./Rybakina E. vs Townsend T./Zhang S." tvg-name="12:11 WTA - WASHINGTON : Raducanu E./Rybakina E. vs Townsend T./Zhang S. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 6
+#EXTINF:-1 tvg-id="WTA - WASHINGTON - Raducanu E./Rybakina E. vs Townsend T./Zhang S." tvg-name="14:31 WTA - WASHINGTON : Raducanu E./Rybakina E. vs Townsend T./Zhang S. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 6
 https://proxytv-bestia.duckdns.org/proxy/m3u?url=https://daddylive.dad/stream/stream-1506.php
 
 #EXTINF:-1 tvg-id="WTA - WASHINGTON - Fernandez L. vs Rybakina E." tvg-name="18:00 WTA - WASHINGTON : Fernandez L. vs Rybakina E. - 26/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Washington", Tennis Stream 3

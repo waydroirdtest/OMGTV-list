@@ -1,6 +1,6 @@
 {
   "https://thisnot.business/player.php?id=Dazn": {
-    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/1963e6b6fmul71gf91qaddpdrk/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZjY5ZWI5MDUyNWQ2NTE5ZDlhM2I5ZmE4YmMxZWE3NTc6NDNkMTkyMzZjYWIxN2EyMGY2ZjdiMzcwNjgyNGEzNGM%3D&key_id=f69eb90525d6519d9a3b9fa8bc1ea757&key=43d19236cab17a20f6f7b3706824a34c",
+    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://dca-co-live-gcr.gcdn.co/1nknrkaf0u5za1gainp0abwu1r/tv25f/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYWQ1Mjk4NzM0NDg0NWIwYmE4MWE4M2YwYmIxNjZiNzc6ZTgwNDI0YWQ2ZDE1OGM5MWI4ZGUyZjE2MDAyMjlmOTA%3D&key_id=ad52987344845b0ba81a83f0bb166b77&key=e80424ad6d158c91b8de2f1600229f90",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - FINALE",
@@ -9,6 +9,18 @@
       "channel": "Dazn",
       "language": "",
       "url": "https://thisnot.business/player.php?id=Dazn"
+    }
+  },
+  "https://thisnot.business/player.php?id=CBSgolazo": {
+    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/mpd/manifest.m3u8?api_password=0r4cl3&d=https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&key_id=d9623774ac5c8c351aafe97c5fe70267&key=5164e6d05164a2d65fa8fcc962aa4861",
+    "info": {
+      "category": "CALCIO",
+      "title": "EUROPEI FEMMINILI - FINALE",
+      "date": "DOMENICA 27 LUGLIO",
+      "event": "13:30 Liverpool - Milan",
+      "channel": "CBS",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=CBSgolazo"
     }
   },
   "https://thisnot.business/player.php?id=ArenaSP1_ME": {
@@ -21,6 +33,18 @@
       "channel": "Arena Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=ArenaSP1_ME"
+    }
+  },
+  "https://thisnot.business/player.php?id=Sportitalia": {
+    "proxy_url": "https://test-homelabmf.duckdns.org/proxy/hls/manifest.m3u8?api_password=0r4cl3&d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8",
+    "info": {
+      "category": "CALCIO",
+      "title": "EUROPEI FEMMINILI - FINALE",
+      "date": "DOMENICA 27 LUGLIO",
+      "event": "20:30 Avellino - Lazio",
+      "channel": "Sportitalia",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Sportitalia"
     }
   },
   "https://thisnot.business/player.php?id=RaiSport": {
